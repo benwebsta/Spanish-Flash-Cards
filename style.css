@@ -1,40 +1,49 @@
-body {
+/* Make the body take full height and remove margin */
+html, body {
+  height: 100%;
+  margin: 0;
   font-family: system-ui, sans-serif;
   background: #f2f2f2;
   display: flex;
   justify-content: center;
-  margin-top: 50px;
+  align-items: center;
 }
 
+/* Container now takes full viewport */
 .app {
-  background: white;
-  padding: 20px;
-  width: 320px;
-  border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-  text-align: center;
-}
-
-.controls {
+  width: 100vw;
+  height: 100vh;
   display: flex;
-  justify-content: space-between;
-  margin-bottom: 15px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  position: relative;
+  overflow: hidden;
 }
 
+/* Card container fills most of the screen */
 .card-container {
-  perspective: 1000px; /* for 3D flip */
-  margin-bottom: 15px;
+  perspective: 1000px;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
 }
 
+/* Card itself scales to fit container */
 .card {
-  width: 100%;
-  height: 120px;
+  width: 80%;
+  max-width: 600px;
+  height: 60%;
+  max-height: 500px;
   border: 2px solid #333;
-  border-radius: 8px;
+  border-radius: 12px;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 28px;
+  font-size: 10vw; /* scales with screen */
   cursor: pointer;
   background: #fff;
   transition: transform 0.6s;
@@ -61,16 +70,36 @@ body {
   transform: rotateY(180deg);
 }
 
+/* Buttons row stays at bottom */
+.controls {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  max-width: 600px;
+  margin-top: 10px;
+  gap: 10px;
+}
+
+/* Flip button 50% width and centered */
+#flipBtn {
+  width: 50%;
+  margin: 0 auto;
+  padding: 10px 0;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+/* Right/Wrong buttons side by side */
 .button-row {
   display: flex;
-  justify-content: center;
   width: 100%;
-  gap: 0;
 }
 
 .button-row button {
   width: 50%;
-  padding: 10px 0;
+  padding: 12px 0;
   font-size: 16px;
   border: none;
   cursor: pointer;
@@ -88,17 +117,10 @@ body {
   border-radius: 0 0 0 8px;
 }
 
-#flipBtn {
-  width: 50%;
-  margin: 0 auto 10px auto;
-  display: block;
-  padding: 10px 0;
-  font-size: 16px;
-}
-
+/* Status text at bottom */
 #status {
-  margin-top: 10px;
-  font-size: 14px;
+  margin-top: 8px;
+  font-size: 16px;
   color: #555;
   text-align: center;
 }

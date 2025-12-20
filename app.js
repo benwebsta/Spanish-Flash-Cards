@@ -18,18 +18,33 @@ document.addEventListener("DOMContentLoaded", () => {
   let showingFront = true;
   let isFlipped = false;
   
-    const modal = document.getElementById("wordModal");
-	const modalText = document.getElementById("modalText");
+   const modal = document.getElementById("wordModal");
+	const modalTitle = document.getElementById("modalTitle");
+	const modalList = document.getElementById("modalList");
 	const closeModalBtn = document.getElementById("closeModal");
 
-	function showWordPopup(word) {
-	  modalText.textContent = `${word.spanish} : ${word.english}`;
+	function showListPopup(title, words) {
+	  modalTitle.textContent = title;
+	  modalList.innerHTML = "";
+
+	  if (words.length === 0) {
+		modalList.innerHTML = "<div>(Empty)</div>";
+	  } else {
+		words.forEach(w => {
+		  const row = document.createElement("div");
+		  row.textContent = `${w.spanish} : ${w.english}`;
+		  modalList.appendChild(row);
+		});
+	  }
+
 	  modal.classList.remove("hidden");
 	}
+	
+	closeModalBtn.onclick = () => modal.classList.add("hidden");
 
-	closeModalBtn.onclick = () => {
-	  modal.classList.add("hidden");
-	};
+	modal.addEventListener("click", e => {
+	  if (e.target === modal) modal.classList.add("hidden");
+	});
 
 	// Close when tapping background
 	modal.addEventListener("click", e => {
@@ -118,22 +133,21 @@ document.addEventListener("DOMContentLoaded", () => {
     if (status) {
       //status.textContent = `Remaining: ${remaining.length} | Mastered: ${mastered.length}`;
 		status.innerHTML = `
-			<span id="remainingLink">Remaining: ${remaining.length}</span> |
-			<span id="masteredLink">Mastered: ${mastered.length}</span>
-		  `;
-		}
+		<span id="remainingLink" class="status-link">
+		  Remaining: ${remaining.length}
+		</span>
+		|
+		<span id="masteredLink" class="status-link">
+		  Mastered: ${mastered.length}
+		</span>
+	  `;
+	}
 
-	  document.getElementById("remainingLink").onclick = () => {
-		if (remaining.length === 0) return;
-		const word = remaining[Math.floor(Math.random() * remaining.length)];
-		showWordPopup(word);
-	  };
+	  document.getElementById("remainingLink").onclick = () =>
+		showListPopup("Remaining Words", remaining);
 
-	  document.getElementById("masteredLink").onclick = () => {
-		if (mastered.length === 0) return;
-		const word = mastered[Math.floor(Math.random() * mastered.length)];
-		showWordPopup(word);
-	  };
+	  document.getElementById("masteredLink").onclick = () =>
+		showListPopup("Mastered Words", mastered);
   }
 
   // Flip button

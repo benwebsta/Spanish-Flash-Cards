@@ -40,6 +40,16 @@ document.addEventListener("DOMContentLoaded", () => {
     remaining = shuffle([...allWords]);
     mastered = [];
     nextCard();
+	const fs = require("fs");
+
+	const data = JSON.parse(fs.readFileSync("words.json", "utf8"));
+
+	const updated = data.map((item, index) => ({
+	  id: index + 1,
+	  ...item
+	}));
+
+	fs.writeFileSync("words_with_ids.json", JSON.stringify(updated, null, 2));
   }
 
   function nextCard() {

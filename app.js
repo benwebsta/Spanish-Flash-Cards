@@ -16,6 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let mastered = [];
   let currentCard = null;
   let showingFront = true;
+  let isFlipped = false;
   
   const STORAGE_KEY = "flashcard_mastered_ids";
 
@@ -112,6 +113,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!currentCard) return;
     mastered.push(currentCard);
 	saveMastered();
+	animateRight();
     nextCard();
   });
 
@@ -119,6 +121,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!currentCard) return;
     const index = Math.floor(Math.random() * remaining.length);
     remaining.splice(index, 0, currentCard);
+	animateWrong();
     nextCard();
   });
 
@@ -166,5 +169,44 @@ document.addEventListener("DOMContentLoaded", () => {
     }
     return array;
   }
+  function flipCard() {
+	  isFlipped = !isFlipped;
+	  card.classList.toggle("flipped", isFlipped);
+	}
+	function resetCardVisual() {
+	  isFlipped = false;
+	  card.classList.remove("flipped");
+	  card.classList.remove("animate-right", "animate-wrong");
+	  card.style.opacity = "1";
+	}
+	function animateWrong() {
+	  card.style.setProperty(
+		"--flip",
+		isFlipped ? "180deg" : "0deg"
+	  );
 
+	  card.classList.add("animate-wrong");
+
+	  setTimeout(() => {
+		resetCardVisual();
+		nextCard();
+	  }, 450);
+	}
+
+	function animateRight() {
+	  card.style.setProperty(
+		"--flip",
+		isFlipped ? "180deg" : "0deg"
+	  );
+
+	  card.classList.add("animate-right");
+
+	  setTimeout(() => {
+		mastered.push(currentCard);
+		saveMastered();
+
+		resetCardVisual();
+		nextCard();
+	  }, 450);
+	}
 });

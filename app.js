@@ -16,6 +16,27 @@ document.addEventListener("DOMContentLoaded", () => {
   let mastered = [];
   let currentCard = null;
   let showingFront = true;
+  
+  const STORAGE_KEY = "flashcard_mastered_ids";
+
+	function saveMastered() {
+	  const ids = mastered.map(w => w.id);
+	  localStorage.setItem(STORAGE_KEY, JSON.stringify(ids));
+	}
+
+	function loadMasteredIds() {
+	  return JSON.parse(localStorage.getItem(STORAGE_KEY)) || [];
+	}
+
+	function clearSavedProgress() {
+	  localStorage.removeItem(STORAGE_KEY);
+	}
+  //function saveProgress() {
+	//  localStorage.setItem("mastered", JSON.stringify(mastered.map(w => w.id)));
+	//}
+  
+  const saved = JSON.parse(localStorage.getItem("mastered")) || [];
+	remaining = allWords.filter(w => !saved.includes(w.id));
 
   // Load words
   loadWords();
@@ -24,12 +45,19 @@ document.addEventListener("DOMContentLoaded", () => {
     fetch("./words.json")
       .then(res => {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
+		
         return res.json();
       })
       .then(data => {
-        allWords = shuffle([...data]);
-        resetSession();
-      })
+		  allWords = shuffle([...data]);
+
+		  const savedIds = loadMasteredIds();
+
+		  mastered = allWords.filter(w => savedIds.includes(w.id));
+		  remaining = shuffle(allWords.filter(w => !savedIds.includes(w.id)));
+
+		  nextCard();
+		});
       .catch(err => {
         console.error(err);
         cardFront.textContent = "❌ Failed to load words.json";
@@ -37,19 +65,11 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function resetSession() {
-    remaining = shuffle([...allWords]);
-    mastered = [];
-    nextCard();
-	const fs = require("fs");
+    clearSavedProgress();
 
-	const data = JSON.parse(fs.readFileSync("words.json", "utf8"));
-
-	const updated = data.map((item, index) => ({
-	  id: index + 1,
-	  ...item
-	}));
-
-	fs.writeFileSync("words_with_ids.json", JSON.stringify(updated, null, 2));
+	  mastered = [];
+	  remaining = shuffle([...allWords]);
+	  nextCard();
   }
 
   function nextCard() {
@@ -91,6 +111,7 @@ document.addEventListener("DOMContentLoaded", () => {
   rightBtn?.addEventListener("click", () => {
     if (!currentCard) return;
     mastered.push(currentCard);
+	saveMastered();
     nextCard();
   });
 

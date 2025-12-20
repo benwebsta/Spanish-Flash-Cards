@@ -1,1607 +1,8027 @@
 [
-  {"spanish": "como", "english": "as"},
-  {"spanish": "yo", "english": "I"},
-  {"spanish": "su", "english": "his"},
-  {"spanish": "que", "english": "that"},
-  {"spanish": "él", "english": "he"},
-  {"spanish": "era", "english": "was"},
-  {"spanish": "para", "english": "for"},
-  {"spanish": "en", "english": "on"},
-  {"spanish": "son", "english": "are"},
-  {"spanish": "con", "english": "with"},
-  {"spanish": "ellos", "english": "they"},
-  {"spanish": "ser", "english": "be"},
-  {"spanish": "en", "english": "at"},
-  {"spanish": "uno", "english": "one"},
-  {"spanish": "tener", "english": "have"},
-  {"spanish": "este", "english": "this"},
-  {"spanish": "desde", "english": "from"},
-  {"spanish": "por", "english": "by"},
-  {"spanish": "caliente", "english": "hot"},
-  {"spanish": "palabra", "english": "word"},
-  {"spanish": "pero", "english": "but"},
-  {"spanish": "qué", "english": "what"},
-  {"spanish": "algunos", "english": "some"},
-  {"spanish": "es", "english": "is"},
-  {"spanish": "lo", "english": "it"},
-  {"spanish": "usted", "english": "you"},
-  {"spanish": "o", "english": "or"},
-  {"spanish": "tenido", "english": "had"},
-  {"spanish": "la", "english": "the"},
-  {"spanish": "de", "english": "of"},
-  {"spanish": "a", "english": "to"},
-  {"spanish": "y", "english": "and"},
-  {"spanish": "un", "english": "a"},
-  {"spanish": "en", "english": "in"},
-  {"spanish": "nos", "english": "we"},
-  {"spanish": "lata", "english": "can"},
-  {"spanish": "fuera", "english": "out"},
-  {"spanish": "otros", "english": "other"},
-  {"spanish": "eran", "english": "were"},
-  {"spanish": "que", "english": "which"},
-  {"spanish": "hacer", "english": "do"},
-  {"spanish": "su", "english": "their"},
-  {"spanish": "tiempo", "english": "time"},
-  {"spanish": "si", "english": "if"},
-  {"spanish": "lo hará", "english": "will"},
-  {"spanish": "cómo", "english": "how"},
-  {"spanish": "dicho", "english": "said"},
-  {"spanish": "un", "english": "an"},
-  {"spanish": "cada", "english": "each"},
-  {"spanish": "decir", "english": "tell"},
-  {"spanish": "hace", "english": "does"},
-  {"spanish": "conjunto", "english": "set"},
-  {"spanish": "tres", "english": "three"},
-  {"spanish": "querer", "english": "want"},
-  {"spanish": "aire", "english": "air"},
-  {"spanish": "así", "english": "well"},
-  {"spanish": "también", "english": "also"},
-  {"spanish": "jugar", "english": "play"},
-  {"spanish": "pequeño", "english": "small"},
-  {"spanish": "fin", "english": "end"},
-  {"spanish": "poner", "english": "put"},
-  {"spanish": "casa", "english": "home"},
-  {"spanish": "leer", "english": "read"},
-  {"spanish": "mano", "english": "hand"},
-  {"spanish": "puerto", "english": "port"},
-  {"spanish": "grande", "english": "large"},
-  {"spanish": "deletrear", "english": "spell"},
-  {"spanish": "añadir", "english": "add"},
-  {"spanish": "incluso", "english": "even"},
-  {"spanish": "tierra", "english": "land"},
-  {"spanish": "aquí", "english": "here"},
-  {"spanish": "debe", "english": "must"},
-  {"spanish": "grande", "english": "big"},
-  {"spanish": "alto", "english": "high"},
-  {"spanish": "tal", "english": "such"},
-  {"spanish": "siga", "english": "follow"},
-  {"spanish": "acto", "english": "act"},
-  {"spanish": "por qué", "english": "why"},
-  {"spanish": "preguntar", "english": "ask"},
-  {"spanish": "hombres", "english": "men"},
-  {"spanish": "cambio", "english": "change"},
-  {"spanish": "se fue", "english": "went"},
-  {"spanish": "luz", "english": "light"},
-  {"spanish": "tipo", "english": "kind"},
-  {"spanish": "fuera", "english": "off"},
-  {"spanish": "necesitará", "english": "need"},
-  {"spanish": "casa", "english": "house"},
-  {"spanish": "imagen", "english": "picture"},
-  {"spanish": "tratar", "english": "try"},
-  {"spanish": "nosotros", "english": "us"},
-  {"spanish": "de nuevo", "english": "again"},
-  {"spanish": "animal", "english": "animal"},
-  {"spanish": "punto", "english": "point"},
-  {"spanish": "madre", "english": "mother"},
-  {"spanish": "mundo", "english": "world"},
-  {"spanish": "cerca", "english": "near"},
-  {"spanish": "construir", "english": "build"},
-  {"spanish": "auto", "english": "self"},
-  {"spanish": "tierra", "english": "earth"},
-  {"spanish": "padre", "english": "father"},
-	{"spanish": "cualquier", "english": "any"},
-	{"spanish": "nuevo", "english": "new"},
-	{"spanish": "trabajo", "english": "work"},
-	{"spanish": "parte", "english": "part"},
-	{"spanish": "tomar", "english": "take"},
-	{"spanish": "conseguir", "english": "get"},
-	{"spanish": "lugar", "english": "place"},
-	{"spanish": "hecho", "english": "made"},
-	{"spanish": "vivir", "english": "live"},
-	{"spanish": "donde", "english": "where"},
-	{"spanish": "después", "english": "after"},
-	{"spanish": "espalda", "english": "back"},
-	{"spanish": "poco", "english": "little"},
-	{"spanish": "sólo", "english": "only"},
-	{"spanish": "ronda", "english": "round"},
-	{"spanish": "hombre", "english": "man"},
-	{"spanish": "años", "english": "year"},
-	{"spanish": "vino", "english": "came"},
-	{"spanish": "show", "english": "show"},
-	{"spanish": "cada", "english": "every"},
-	{"spanish": "buena", "english": "good"},
-	{"spanish": "me", "english": "me"},
-	{"spanish": "dar", "english": "give"},
-	{"spanish": "nuestro", "english": "our"},
-	{"spanish": "bajo", "english": "under"},
-	{"spanish": "nombre", "english": "name"},
-	{"spanish": "muy", "english": "very"},
-	{"spanish": "a través de", "english": "through"},
-	{"spanish": "sólo", "english": "just"},
-	{"spanish": "forma", "english": "form"},
-	{"spanish": "frase", "english": "sentence"},
-	{"spanish": "gran", "english": "great"},
-	{"spanish": "pensar", "english": "think"},
-	{"spanish": "decir", "english": "say"},
-	{"spanish": "ayudar", "english": "help"},
-	{"spanish": "bajo", "english": "low"},
-	{"spanish": "línea", "english": "line"},
-	{"spanish": "ser distinto", "english": "differ"},
-	{"spanish": "a su vez,", "english": "turn"},
-	{"spanish": "causa", "english": "cause"},
-	{"spanish": "mucho", "english": "much"},
-	{"spanish": "significará", "english": "mean"},
-	{"spanish": "antes", "english": "before"},
-	{"spanish": "movimiento", "english": "move"},
-	{"spanish": "derecho", "english": "right"},
-	{"spanish": "niño", "english": "boy"},
-	{"spanish": "viejo", "english": "old"},
-	{"spanish": "demasiado", "english": "too"},
-	{"spanish": "misma", "english": "same"},
-	{"spanish": "ella", "english": "she"},
-	{"spanish": "todo", "english": "all"},
-	{"spanish": "hay", "english": "there"},
-	{"spanish": "cuando", "english": "when"},
-	{"spanish": "hasta", "english": "up"},
-	{"spanish": "uso", "english": "use"},
-	{"spanish": "su", "english": "your"},
-	{"spanish": "camino", "english": "way"},
-	{"spanish": "acerca", "english": "about"},
-	{"spanish": "muchos", "english": "many"},
-	{"spanish": "entonces", "english": "then"},
-	{"spanish": "ellos", "english": "them"},
-	{"spanish": "escribir", "english": "write"},
-	{"spanish": "haría", "english": "would"},
-	{"spanish": "como", "english": "like"},
-	{"spanish": "así", "english": "so"},
-	{"spanish": "éstos", "english": "these"},
-	{"spanish": "su", "english": "her"},
-	{"spanish": "largo", "english": "long"},
-	{"spanish": "hacer", "english": "make"},
-	{"spanish": "cosa", "english": "thing"},
-	{"spanish": "ver", "english": "see"},
-	{"spanish": "él", "english": "him"},
-	{"spanish": "dos", "english": "two"},
-	{"spanish": "tiene", "english": "has"},
-	{"spanish": "buscar", "english": "look"},
-	{"spanish": "más", "english": "more"},
-	{"spanish": "día", "english": "day"},
-	{"spanish": "podía", "english": "could"},
-	{"spanish": "ir", "english": "go"},
-	{"spanish": "venir", "english": "come"},
-	{"spanish": "hizo", "english": "did"},
-	{"spanish": "número", "english": "number"},
-	{"spanish": "sonar", "english": "sound"},
-	{"spanish": "no", "english": "no"},
-	{"spanish": "más", "english": "most"},
-	{"spanish": "personas", "english": "people"},
-	{"spanish": "mi", "english": "my"},
-	{"spanish": "sobre", "english": "over"},
-	{"spanish": "saber", "english": "know"},
-	{"spanish": "agua", "english": "water"},
-	{"spanish": "que", "english": "than"},
-	{"spanish": "llamada", "english": "call"},
-	{"spanish": "primero", "english": "first"},
-	{"spanish": "que", "english": "who"},
-	{"spanish": "puede", "english": "may"},
-	{"spanish": "abajo", "english": "down"},
-	{"spanish": "lado", "english": "side"},
-	{"spanish": "estado", "english": "been"},
-	{"spanish": "ahora", "english": "now"},
-	{"spanish": "encontrar", "english": "find"},
-	{"spanish": "cabeza", "english": "head"},
-	{"spanish": "de pie", "english": "stand"},
-	{"spanish": "propio", "english": "own"},
-	{"spanish": "página", "english": "page"},
-	{"spanish": "debería", "english": "should"},
-	{"spanish": "país", "english": "country"},
-	{"spanish": "encontrado", "english": "found"},
-	{"spanish": "respuesta", "english": "answer"},
-	{"spanish": "escuela", "english": "school"},
-	{"spanish": "crecer", "english": "grow"},
-	{"spanish": "estudio", "english": "study"},
-	{"spanish": "todavía", "english": "still"},
-	{"spanish": "aprender", "english": "learn"},
-	{"spanish": "planta", "english": "plant"},
-	{"spanish": "cubierta", "english": "cover"},
-	{"spanish": "alimentos", "english": "food"},
-	{"spanish": "sol", "english": "sun"},
-	{"spanish": "cuatro", "english": "four"},
-{"spanish": "entre", "english": "between"},
-{"spanish": "estado", "english": "state"},
-{"spanish": "mantener", "english": "keep"},
-{"spanish": "ojo", "english": "eye"},
-{"spanish": "nunca", "english": "never"},
-{"spanish": "último", "english": "last"},
-{"spanish": "dejar", "english": "let"},
-{"spanish": "pensado", "english": "thought"},
-{"spanish": "ciudad", "english": "city"},
-{"spanish": "árbol", "english": "tree"},
-{"spanish": "cruzar", "english": "cross"},
-{"spanish": "granja", "english": "farm"},
-{"spanish": "duro", "english": "hard"},
-{"spanish": "inicio", "english": "start"},
-{"spanish": "podría", "english": "might"},
-{"spanish": "historia", "english": "story"},
-{"spanish": "sierra", "english": "saw"},
-{"spanish": "ahora", "english": "far"},
-{"spanish": "mar", "english": "sea"},
-{"spanish": "dibujar", "english": "draw"},
-{"spanish": "izquierda", "english": "left"},
-{"spanish": "tarde", "english": "late"},
-{"spanish": "ejecutar", "english": "run"},
-{"spanish": "no", "english": "don’t"},
-{"spanish": "mientras", "english": "while"},
-{"spanish": "prensa", "english": "press"},
-{"spanish": "Cerrar", "english": "close"},
-{"spanish": "noche", "english": "night"},
-{"spanish": "reales", "english": "real"},
-{"spanish": "vida", "english": "life"},
-{"spanish": "pocos", "english": "few"},
-{"spanish": "norte", "english": "north"},
-{"spanish": "libro", "english": "book"},
-{"spanish": "llevar", "english": "carry"},
-{"spanish": "tomó", "english": "took"},
-{"spanish": "ciencia", "english": "science"},
-{"spanish": "comer", "english": "eat"},
-{"spanish": "habitación", "english": "room"},
-{"spanish": "amigo", "english": "friend"},
-{"spanish": "comenzó", "english": "began"},
-{"spanish": "gusta", "english": "idea"},
-{"spanish": "peces", "english": "fish"},
-{"spanish": "montaña", "english": "mountain"},
-{"spanish": "Deténgase", "english": "stop"},
-{"spanish": "una vez", "english": "once"},
-{"spanish": "base de", "english": "base"},
-{"spanish": "escuchar", "english": "hear"},
-{"spanish": "caballo", "english": "horse"},
-{"spanish": "cortada", "english": "cut"},
-{"spanish": "seguro", "english": "sure"},
-{"spanish": "ver", "english": "watch"},
-{"spanish": "colores", "english": "color"},
-{"spanish": "cara", "english": "face"},
-{"spanish": "madera", "english": "wood"},
-{"spanish": "principal", "english": "main"},
-{"spanish": "abierta", "english": "open"},
-{"spanish": "parecer", "english": "seem"},
-{"spanish": "juntos", "english": "together"},
-{"spanish": "próximo", "english": "next"},
-{"spanish": "blanco", "english": "white"},
-{"spanish": "niños", "english": "children"},
-{"spanish": "comenzar", "english": "begin"},
-{"spanish": "conseguido", "english": "got"},
-{"spanish": "caminar", "english": "walk"},
-{"spanish": "ejemplo", "english": "example"},
-{"spanish": "aliviar", "english": "ease"},
-{"spanish": "papel", "english": "paper"},
-{"spanish": "grupo", "english": "group"},
-{"spanish": "siempre", "english": "always"},
-{"spanish": "música", "english": "music"},
-{"spanish": "los", "english": "those"},
-{"spanish": "ambos", "english": "both"},
-{"spanish": "marca", "english": "mark"},
-{"spanish": "menudo", "english": "often"},
-{"spanish": "carta", "english": "letter"},
-{"spanish": "hasta", "english": "until"},
-{"spanish": "milla", "english": "mile"},
-{"spanish": "río", "english": "river"},
-{"spanish": "coche", "english": "car"},
-{"spanish": "pies", "english": "feet"},
-{"spanish": "cuidado", "english": "care"},
-{"spanish": "segundo", "english": "second"},
-{"spanish": "suficiente", "english": "enough"},
-{"spanish": "llano", "english": "plain"},
-{"spanish": "chica", "english": "girl"},
-{"spanish": "habitual", "english": "usual"},
-{"spanish": "joven", "english": "young"},
-{"spanish": "listo", "english": "ready"},
-{"spanish": "por encima de", "english": "above"},
-{"spanish": "nunca", "english": "ever"},
-{"spanish": "rojo", "english": "red"},
-{"spanish": "lista", "english": "list"},
-{"spanish": "aunque", "english": "though"},
-{"spanish": "sentir", "english": "feel"},
-{"spanish": "charla", "english": "talk"},
-{"spanish": "pájaro", "english": "bird"},
-{"spanish": "pronto", "english": "soon"},
-{"spanish": "cuerpo", "english": "body"},
-{"spanish": "perro", "english": "dog"},
-{"spanish": "familia", "english": "family"},
-{"spanish": "directa", "english": "direct"},
-{"spanish": "plantear", "english": "pose"},
-{"spanish": "dejar", "english": "leave"},
-{"spanish": "canción", "english": "song"},
-{"spanish": "medir", "english": "measure"},
-{"spanish": "puerta", "english": "door"},
-{"spanish": "producto", "english": "product"},
-{"spanish": "negro", "english": "black"},
-{"spanish": "corto", "english": "short"},
-{"spanish": "numeral", "english": "numeral"},
-{"spanish": "clase", "english": "class"},
-{"spanish": "viento", "english": "wind"},
-{"spanish": "pregunta", "english": "question"},
-{"spanish": "suceder", "english": "happen"},
-{"spanish": "completo", "english": "complete"},
-{"spanish": "buque", "english": "ship"},
-{"spanish": "zona", "english": "area"},
-{"spanish": "medio", "english": "half"},
-{"spanish": "roca", "english": "rock"},
-{"spanish": "orden", "english": "order"},
-{"spanish": "fuego", "english": "fire"},
-{"spanish": "sur", "english": "south"},
-{"spanish": "problema", "english": "problem"},
-{"spanish": "pieza", "english": "piece"},
-{"spanish": "dicho", "english": "told"},
-{"spanish": "sabía", "english": "knew"},
-{"spanish": "pasar", "english": "pass"},
-{"spanish": "desde", "english": "since"},
-{"spanish": "cima", "english": "top"},
-{"spanish": "todo", "english": "whole"},
-{"spanish": "rey", "english": "king"},
-{"spanish": "calle", "english": "street"},
-{"spanish": "pulgadas", "english": "inch"},
-{"spanish": "multiplicar", "english": "multiply"},
-{"spanish": "nada", "english": "nothing"},
-{"spanish": "curso", "english": "course"},
-{"spanish": "quedarse", "english": "stay"},
-{"spanish": "rueda", "english": "wheel"},
-{"spanish": "completo", "english": "full"},
-{"spanish": "fuerza", "english": "force"},
-{"spanish": "azul", "english": "blue"},
-{"spanish": "objeto", "english": "object"},
-{"spanish": "decidir", "english": "decide"},
-{"spanish": "superficie", "english": "surface"},
-{"spanish": "profunda", "english": "deep"},
-{"spanish": "luna", "english": "moon"},
-{"spanish": "isla", "english": "island"},
-{"spanish": "pie", "english": "foot"},
-{"spanish": "sistema", "english": "system"},
-{"spanish": "ocupado", "english": "busy"},
-{"spanish": "prueba", "english": "test"},
-{"spanish": "registro", "english": "record"},
-{"spanish": "barco", "english": "boat"},
-{"spanish": "común", "english": "common"},
-{"spanish": "oro", "english": "gold"},
-{"spanish": "posible", "english": "possible"},
-{"spanish": "plano", "english": "plane"},
-{"spanish": "lugar", "english": "stead"},
-{"spanish": "seco", "english": "dry"},
-{"spanish": "maravilla", "english": "wonder"},
-{"spanish": "risa", "english": "laugh"},
-{"spanish": "mil", "english": "thousand"},
-{"spanish": "hace", "english": "ago"},
-{"spanish": "corrió", "english": "ran"},
-{"spanish": "comprobar", "english": "check"},
-{"spanish": "juego", "english": "game"},
-{"spanish": "forma", "english": "shape"},
-{"spanish": "equiparar", "english": "equate"},
-{"spanish": "caliente", "english": "hot"},
-{"spanish": "señorita", "english": "miss"},
-{"spanish": "traído", "english": "brought"},
-{"spanish": "calor", "english": "heat"},
-{"spanish": "nieve", "english": "snow"},
-{"spanish": "neumáticos", "english": "tire"},
-{"spanish": "traer", "english": "bring"},
-{"spanish": "sí", "english": "yes"},
-{"spanish": "distante", "english": "distant"},
-{"spanish": "llenar", "english": "fill"},
-{"spanish": "al este", "english": "east"},
-{"spanish": "pintar", "english": "paint"},
-{"spanish": "idioma", "english": "language"},
-{"spanish": "entre", "english": "among"},
-{"spanish": "unidad", "english": "unit"},
-{"spanish": "potencia", "english": "power"},
-{"spanish": "ciudad", "english": "town"},
-{"spanish": "fina", "english": "fine"},
-{"spanish": "cierto", "english": "certain"},
-{"spanish": "volar", "english": "fly"},
-{"spanish": "caer", "english": "fall"},
-{"spanish": "conducir", "english": "lead"},
-{"spanish": "grito", "english": "cry"},
-{"spanish": "oscuro", "english": "dark"},
-{"spanish": "máquina", "english": "machine"},
-{"spanish": "nota", "english": "note"},
-{"spanish": "espere", "english": "wait"},
-{"spanish": "plan de", "english": "plan"},
-{"spanish": "figura", "english": "figure"},
-{"spanish": "estrella", "english": "star"},
-{"spanish": "caja", "english": "box"},
-{"spanish": "sustantivo", "english": "noun"},
-{"spanish": "campo", "english": "field"},
-{"spanish": "resto", "english": "rest"},
-{"spanish": "correcta", "english": "correct"},
-{"spanish": "capaz", "english": "able"},
-{"spanish": "libra", "english": "pound"},
-{"spanish": "hecho", "english": "done"},
-{"spanish": "belleza", "english": "beauty"},
-{"spanish": "unidad", "english": "drive"},
-{"spanish": "destacado", "english": "stood"},
-{"spanish": "contener", "english": "contain"},
-{"spanish": "delante", "english": "front"},
-{"spanish": "enseñar", "english": "teach"},
-{"spanish": "semana", "english": "week"},
-{"spanish": "último", "english": "final"},
-{"spanish": "dio", "english": "gave"},
-{"spanish": "verde", "english": "green"},
-{"spanish": "oh", "english": "oh"},
-{"spanish": "rápido", "english": "quick"},
-{"spanish": "desarrollar", "english": "develop"},
-{"spanish": "océano", "english": "ocean"},
-{"spanish": "caliente", "english": "warm"},
-{"spanish": "libre", "english": "free"},
-{"spanish": "minuto", "english": "minute"},
-{"spanish": "fuerte", "english": "strong"},
-{"spanish": "especial", "english": "special"},
-{"spanish": "mente", "english": "mind"},
-{"spanish": "detrás", "english": "behind"},
-{"spanish": "claro", "english": "clear"},
-{"spanish": "cola", "english": "tail"},
-{"spanish": "Produce", "english": "produce"},
-{"spanish": "hecho", "english": "fact"},
-{"spanish": "espacio", "english": "space"},
-{"spanish": "oído", "english": "heard"},
-{"spanish": "mejor", "english": "best"},
-{"spanish": "horas", "english": "hour"},
-{"spanish": "mejor", "english": "better"},
-{"spanish": "verdadero", "english": "true"},
-{"spanish": "durante", "english": "during"},
-{"spanish": "cien", "english": "hundred"},
-{"spanish": "cinco", "english": "five"},
-{"spanish": "recordar", "english": "remember"},
-{"spanish": "paso", "english": "step"},
-{"spanish": "temprana", "english": "early"},
-{"spanish": "mantenga", "english": "hold"},
-{"spanish": "oeste", "english": "west"},
-{"spanish": "suelo", "english": "ground"},
-{"spanish": "interés", "english": "interest"},
-{"spanish": "llegar", "english": "reach"},
-{"spanish": "rápido", "english": "fast"},
-{"spanish": "verbo", "english": "verb"},
-{"spanish": "cantar", "english": "sing"},
-{"spanish": "escuchar", "english": "listen"},
-{"spanish": "seis", "english": "six"},
-{"spanish": "mesa", "english": "table"},
-{"spanish": "viajes", "english": "travel"},
-{"spanish": "menos", "english": "less"},
-{"spanish": "mañana", "english": "morning"},
-{"spanish": "diez", "english": "ten"},
-{"spanish": "sencilla", "english": "simple"},
-{"spanish": "varios", "english": "several"},
-{"spanish": "vocal", "english": "vowel"},
-{"spanish": "hacia", "english": "toward"},
-{"spanish": "guerra", "english": "war"},
-{"spanish": "sentar", "english": "lay"},
-{"spanish": "contra", "english": "against"},
-{"spanish": "patrón", "english": "pattern"},
-{"spanish": "lenta", "english": "slow"},
-{"spanish": "centro", "english": "center"},
-{"spanish": "amar", "english": "love"},
-{"spanish": "persona", "english": "person"},
-{"spanish": "dinero", "english": "money"},
-{"spanish": "servir", "english": "serve"},
-{"spanish": "aparecerá", "english": "appear"},
-{"spanish": "carretera", "english": "road"},
-{"spanish": "mapa", "english": "map"},
-{"spanish": "lluvia", "english": "rain"},
-{"spanish": "regla", "english": "rule"},
-{"spanish": "gobernar", "english": "govern"},
-{"spanish": "Halar", "english": "pull"},
-{"spanish": "frío", "english": "cold"},
-{"spanish": "aviso", "english": "notice"},
-{"spanish": "voz", "english": "voice"},
-{"spanish": "energía", "english": "energy"},
-{"spanish": "caza", "english": "hunt"},
-{"spanish": "probable", "english": "probable"},
-{"spanish": "cama", "english": "bed"},
-{"spanish": "hermano", "english": "brother"},
-{"spanish": "huevo", "english": "egg"},
-{"spanish": "paseo", "english": "ride"},
-{"spanish": "celular", "english": "cell"},
-{"spanish": "creer", "english": "believe"},
-{"spanish": "quizás", "english": "perhaps"},
-{"spanish": "recoger", "english": "pick"},
-{"spanish": "repentina", "english": "sudden"},
-{"spanish": "contar", "english": "count"},
-{"spanish": "plaza", "english": "square"},
-{"spanish": "razón", "english": "reason"},
-{"spanish": "longitud", "english": "length"},
-{"spanish": "representar", "english": "represent"},
-{"spanish": "arte", "english": "art"},
-{"spanish": "sujeto", "english": "subject"},
-{"spanish": "región", "english": "region"},
-{"spanish": "tamaño", "english": "size"},
-{"spanish": "variar", "english": "vary"},
-{"spanish": "resolver", "english": "settle"},
-{"spanish": "hablar", "english": "speak"},
-{"spanish": "peso", "english": "weight"},
-{"spanish": "general", "english": "general"},
-{"spanish": "hielo", "english": "ice"},
-{"spanish": "materia", "english": "matter"},
-{"spanish": "círculo", "english": "circle"},
-{"spanish": "par", "english": "pair"},
-{"spanish": "incluir", "english": "include"},
-{"spanish": "brecha", "english": "divide"},
-{"spanish": "sílaba", "english": "syllable"},
-{"spanish": "sentido", "english": "felt"},
-{"spanish": "gran", "english": "grand"},
-{"spanish": "bola", "english": "ball"},
-{"spanish": "aún", "english": "yet"},
-{"spanish": "ola", "english": "wave"},
-{"spanish": "caer", "english": "drop"},
-{"spanish": "corazón", "english": "heart"},
-{"spanish": "am", "english": "am"},
-{"spanish": "presente", "english": "present"},
-{"spanish": "pesada", "english": "heavy"},
-{"spanish": "danza", "english": "dance"},
-{"spanish": "motor", "english": "engine"},
-{"spanish": "posición", "english": "position"},
-{"spanish": "brazo", "english": "arm"},
-{"spanish": "amplio", "english": "wide"},
-{"spanish": "vela", "english": "sail"},
-{"spanish": "materiales", "english": "material"},
-{"spanish": "fracción", "english": "fraction"},
-{"spanish": "bosque", "english": "forest"},
-{"spanish": "sentarse", "english": "sit"},
-{"spanish": "carrera", "english": "race"},
-{"spanish": "ventana", "english": "window"},
-{"spanish": "tienda", "english": "store"},
-{"spanish": "verano", "english": "summer"},
-{"spanish": "tren", "english": "train"},
-{"spanish": "sueño", "english": "sleep"},
-{"spanish": "demostrar", "english": "prove"},
-{"spanish": "solitario", "english": "lone"},
-{"spanish": "pierna", "english": "leg"},
-{"spanish": "ejercicio", "english": "exercise"},
-{"spanish": "pared", "english": "wall"},
-{"spanish": "capturas", "english": "catch"},
-{"spanish": "monte", "english": "mount"},
-{"spanish": "desear", "english": "wish"},
-{"spanish": "cielo", "english": "sky"},
-{"spanish": "bordo", "english": "board"},
-{"spanish": "alegría", "english": "joy"},
-{"spanish": "invierno", "english": "winter"},
-{"spanish": "satélite", "english": "sat"},
-{"spanish": "escrito", "english": "written"},
-{"spanish": "salvaje", "english": "wild"},
-{"spanish": "instrumento", "english": "instrument"},
-{"spanish": "guardado", "english": "kept"},
-{"spanish": "vidrio", "english": "glass"},
-{"spanish": "hierba", "english": "grass"},
-{"spanish": "vaca", "english": "cow"},
-{"spanish": "trabajo", "english": "job"},
-{"spanish": "borde", "english": "edge"},
-{"spanish": "signo", "english": "sign"},
-{"spanish": "visita", "english": "visit"},
-{"spanish": "pasado", "english": "past"},
-{"spanish": "suave", "english": "soft"},
-{"spanish": "diversión", "english": "fun"},
-{"spanish": "brillante", "english": "bright"},
-{"spanish": "gas", "english": "gas"},
-{"spanish": "tiempo", "english": "weather"},
-{"spanish": "mes", "english": "month"},
-{"spanish": "millones", "english": "million"},
-{"spanish": "soportar", "english": "bear"},
-{"spanish": "acabado", "english": "finish"},
-{"spanish": "feliz", "english": "happy"},
-{"spanish": "esperanza", "english": "hope"},
-{"spanish": "flor", "english": "flower"},
-{"spanish": "vestir", "english": "clothe"},
-{"spanish": "extraño", "english": "strange"},
-{"spanish": "se ha ido", "english": "gone"},
-{"spanish": "comercio", "english": "trade"},
-{"spanish": "melodía", "english": "melody"},
-{"spanish": "viaje", "english": "trip"},
-{"spanish": "oficina", "english": "office"},
-{"spanish": "recibir", "english": "receive"},
-{"spanish": "fila", "english": "row"},
-{"spanish": "boca", "english": "mouth"},
-{"spanish": "exacta", "english": "exact"},
-{"spanish": "símbolo", "english": "symbol"},
-{"spanish": "morir", "english": "die"},
-{"spanish": "menos", "english": "least"},
-{"spanish": "problema", "english": "trouble"},
-{"spanish": "grito", "english": "shout"},
-{"spanish": "excepto", "english": "except"},
-{"spanish": "escribió", "english": "wrote"},
-{"spanish": "semilla", "english": "seed"},
-{"spanish": "tono", "english": "tone"},
-{"spanish": "unirse", "english": "join"},
-{"spanish": "sugerir", "english": "suggest"},
-{"spanish": "limpia", "english": "clean"},
-{"spanish": "rotura", "english": "break"},
-{"spanish": "dama", "english": "lady"},
-{"spanish": "patio", "english": "yard"},
-{"spanish": "aumentando", "english": "rise"},
-{"spanish": "mal", "english": "bad"},
-{"spanish": "golpe", "english": "blow"},
-{"spanish": "aceite", "english": "oil"},
-{"spanish": "sangre", "english": "blood"},
-{"spanish": "tocar", "english": "touch"},
-{"spanish": "creció", "english": "grew"},
-{"spanish": "ciento", "english": "cent"},
-{"spanish": "mezclar", "english": "mix"},
-{"spanish": "equipo", "english": "team"},
-{"spanish": "alambre", "english": "wire"},
-{"spanish": "costo", "english": "cost"},
-{"spanish": "perdido", "english": "lost"},
-{"spanish": "marrón", "english": "brown"},
-{"spanish": "desgaste", "english": "wear"},
-{"spanish": "jardín", "english": "garden"},
-{"spanish": "igual", "english": "equal"},
-{"spanish": "enviado", "english": "sent"},
-{"spanish": "elegir", "english": "choose"},
-{"spanish": "cayó", "english": "fell"},
-{"spanish": "encajar", "english": "fit"},
-{"spanish": "fluir", "english": "flow"},
-{"spanish": "justo", "english": "fair"},
-{"spanish": "banco", "english": "bank"},
-{"spanish": "recoger", "english": "collect"},
-{"spanish": "guardar", "english": "save"},
-{"spanish": "el control", "english": "control"},
-{"spanish": "decimal", "english": "decimal"},
-{"spanish": "oído", "english": "ear"},
-{"spanish": "demás", "english": "else"},
-{"spanish": "bastante", "english": "quite"},
-{"spanish": "rompió", "english": "broke"},
-{"spanish": "caso", "english": "case"},
-{"spanish": "medio", "english": "middle"},
-{"spanish": "matar", "english": "kill"},
-{"spanish": "hijo", "english": "son"},
-{"spanish": "lago", "english": "lake"},
-{"spanish": "momento", "english": "moment"},
-{"spanish": "escala", "english": "scale"},
-{"spanish": "fuerte", "english": "loud"},
-{"spanish": "primavera", "english": "spring"},
-{"spanish": "observar", "english": "observe"},
-{"spanish": "niño", "english": "child"},
-{"spanish": "recta", "english": "straight"},
-{"spanish": "consonante", "english": "consonant"},
-{"spanish": "nación", "english": "nation"},
-{"spanish": "diccionario", "english": "dictionary"},
-{"spanish": "leche", "english": "milk"},
-{"spanish": "velocidad", "english": "speed"},
-{"spanish": "método", "english": "method"},
-{"spanish": "órgano", "english": "organ"},
-{"spanish": "pagar", "english": "pay"},
-{"spanish": "edad", "english": "age"},
-{"spanish": "sección", "english": "section"},
-{"spanish": "vestido", "english": "dress"},
-{"spanish": "nube", "english": "cloud"},
-{"spanish": "sorpresa", "english": "surprise"},
-{"spanish": "tranquila", "english": "quiet"},
-{"spanish": "piedra", "english": "stone"},
-{"spanish": "pequeña", "english": "tiny"},
-{"spanish": "ascenso", "english": "climb"},
-{"spanish": "frío", "english": "cool"},
-{"spanish": "diseñar", "english": "design"},
-{"spanish": "pobre", "english": "poor"},
-{"spanish": "tarjeta", "english": "lot"},
-{"spanish": "prueba", "english": "test"},
-{"spanish": "esperar", "english": "wait"},
-{"spanish": "valle", "english": "fill"},
-{"spanish": "quien", "english": "who"},
-{"spanish": "masa", "english": "mass"},
-{"spanish": "tarjeta", "english": "card"},
-{"spanish": "banda", "english": "band"},
-{"spanish": "cuerda", "english": "rope"},
-{"spanish": "desgastar", "english": "slip"},
-{"spanish": "ganado", "english": "win"},
-{"spanish": "soporte", "english": "dream"},
-{"spanish": "reflejar", "english": "show"},
-{"spanish": "formar", "english": "shape"},
-{"spanish": "emitir", "english": "heavy"},
-{"spanish": "canto", "english": "sing"},
-{"spanish": "añadir", "english": "add"},
-{"spanish": "capital", "english": "capital"},
-{"spanish": "mínimo", "english": "least"},
-{"spanish": "mano", "english": "hand"},
-{"spanish": "alto", "english": "stretch"},
-{"spanish": "experiencia", "english": "experience"},
-{"spanish": "cruz", "english": "pick"},
-{"spanish": "área", "english": "area"},
-{"spanish": "roca", "english": "rock"},
-{"spanish": "orden", "english": "order"},
-{"spanish": "fuego", "english": "fire"},
-{"spanish": "sur", "english": "south"},
-{"spanish": "problema", "english": "problem"},
-{"spanish": "pieza", "english": "piece"},
-{"spanish": "dicho", "english": "told"},
-{"spanish": "sabía", "english": "knew"},
-{"spanish": "pasar", "english": "pass"},
-{"spanish": "desde", "english": "since"},
-{"spanish": "cima", "english": "top"},
-{"spanish": "todo", "english": "whole"},
-{"spanish": "rey", "english": "king"},
-{"spanish": "calor", "english": "heat"},
-{"spanish": "nieve", "english": "snow"},
-{"spanish": "neumático", "english": "tire"},
-{"spanish": "traer", "english": "bring"},
-{"spanish": "símbolo", "english": "symbol"},
-{"spanish": "sí", "english": "yes"},
-{"spanish": "metal", "english": "metal"},
-{"spanish": "pujar", "english": "push"},
-{"spanish": "siete", "english": "seven"},
-{"spanish": "parar", "english": "paragraph"},
-{"spanish": "terrestre", "english": "third"},
-{"spanish": "deber", "english": "shall"},
-{"spanish": "mantener", "english": "hold"},
-{"spanish": "corriente", "english": "flow"},
-{"spanish": "escoger", "english": "choose"},
-{"spanish": "caer", "english": "fall"},
-{"spanish": "ajustar", "english": "fit"},
-{"spanish": "flujo", "english": "flow"},
-{"spanish": "justo", "english": "fair"},
-{"spanish": "banco", "english": "bank"},
-{"spanish": "recoger", "english": "collect"},
-{"spanish": "guardar", "english": "save"},
-{"spanish": "control", "english": "control"},
-{"spanish": "decimal", "english": "decimal"},
-{"spanish": "oído", "english": "ear"},
-{"spanish": "demás", "english": "else"},
-{"spanish": "bastante", "english": "quite"},
-{"spanish": "romper", "english": "broke"},
-{"spanish": "caso", "english": "case"},
-{"spanish": "medio", "english": "middle"},
-{"spanish": "matar", "english": "kill"},
-{"spanish": "hijo", "english": "son"},
-{"spanish": "lago", "english": "lake"},
-{"spanish": "momento", "english": "moment"},
-{"spanish": "escala", "english": "scale"},
-{"spanish": "fuerte", "english": "loud"},
-{"spanish": "primavera", "english": "spring"},
-{"spanish": "observar", "english": "observe"},
-{"spanish": "niño", "english": "child"},
-{"spanish": "recta", "english": "straight"},
-{"spanish": "consonante", "english": "consonant"},
-{"spanish": "nación", "english": "nation"},
-{"spanish": "diccionario", "english": "dictionary"},
-{"spanish": "leche", "english": "milk"},
-{"spanish": "velocidad", "english": "speed"},
-{"spanish": "método", "english": "method"},
-{"spanish": "órgano", "english": "organ"},
-{"spanish": "pagar", "english": "pay"},
-{"spanish": "edad", "english": "age"},
-{"spanish": "sección", "english": "section"},
-{"spanish": "vestido", "english": "dress"},
-{"spanish": "nube", "english": "cloud"},
-{"spanish": "sorpresa", "english": "surprise"},
-{"spanish": "tranquilo", "english": "quiet"},
-{"spanish": "piedra", "english": "stone"},
-{"spanish": "pequeña", "english": "tiny"},
-{"spanish": "ascenso", "english": "climb"},
-{"spanish": "frío", "english": "cool"},
-{"spanish": "diseñar", "english": "design"},
-{"spanish": "pobre", "english": "poor"},
-{"spanish": "tarjeta", "english": "lot"},
-{"spanish": "prueba", "english": "test"},
-{"spanish": "esperar", "english": "wait"},
-{"spanish": "valle", "english": "fill"},
-{"spanish": "quien", "english": "who"},
-{"spanish": "masa", "english": "mass"},
-{"spanish": "tarjeta", "english": "card"},
-{"spanish": "banda", "english": "band"},
-{"spanish": "cuerda", "english": "rope"},
-{"spanish": "desgastar", "english": "slip"},
-{"spanish": "ganado", "english": "win"},
-{"spanish": "soporte", "english": "dream"},
-{"spanish": "reflejar", "english": "show"},
-{"spanish": "formar", "english": "shape"},
-{"spanish": "emitir", "english": "heavy"},
-{"spanish": "canto", "english": "sing"},
-{"spanish": "añadir", "english": "add"},
-{"spanish": "capital", "english": "capital"},
-{"spanish": "mínimo", "english": "least"},
-{"spanish": "mano", "english": "hand"},
-{"spanish": "alto", "english": "stretch"},
-{"spanish": "experiencia", "english": "experience"},
-{"spanish": "cruz", "english": "pick"},
-{"spanish": "área", "english": "area"},
-{"spanish": "roca", "english": "rock"},
-{"spanish": "orden", "english": "order"},
-{"spanish": "fuego", "english": "fire"},
-{"spanish": "sur", "english": "south"},
-{"spanish": "problema", "english": "problem"},
-{"spanish": "pieza", "english": "piece"},
-{"spanish": "dicho", "english": "told"},
-{"spanish": "sabía", "english": "knew"},
-{"spanish": "pasar", "english": "pass"},
-{"spanish": "desde", "english": "since"},
-{"spanish": "cima", "english": "top"},
-{"spanish": "todo", "english": "whole"},
-{"spanish": "rey", "english": "king"},
-{"spanish": "calle", "english": "street"},
-{"spanish": "pulgada", "english": "inch"},
-{"spanish": "multiplicar", "english": "multiply"},
-{"spanish": "nada", "english": "nothing"},
-{"spanish": "curso", "english": "course"},
-{"spanish": "quedarse", "english": "stay"},
-{"spanish": "ruido", "english": "wheel"},
-{"spanish": "completo", "english": "full"},
-{"spanish": "fuerza", "english": "force"},
-{"spanish": "azul", "english": "blue"},
-{"spanish": "objeto", "english": "object"},
-{"spanish": "decidir", "english": "decide"},
-{"spanish": "superficie", "english": "surface"},
-{"spanish": "profundo", "english": "deep"},
-{"spanish": "luna", "english": "moon"},
-{"spanish": "isla", "english": "island"},
-{"spanish": "pies", "english": "foot"},
-{"spanish": "sistema", "english": "system"},
-{"spanish": "ocupado", "english": "busy"},
-{"spanish": "prueba", "english": "test"},
-{"spanish": "regla", "english": "record"},
-{"spanish": "barco", "english": "boat"},
-{"spanish": "común", "english": "common"},
-{"spanish": "oro", "english": "gold"},
-{"spanish": "posible", "english": "possible"},
-{"spanish": "avión", "english": "plane"},
-{"spanish": "sólido", "english": "stead"},
-{"spanish": "clima", "english": "dry"},
-{"spanish": "mar", "english": "wave"},
-{"spanish": "llevar", "english": "carry"},
-{"spanish": "llevar", "english": "town"},
-{"spanish": "límite", "english": "rain"},
-{"spanish": "diamante", "english": "pattern"},
-{"spanish": "asiento", "english": "chair"},
-{"spanish": "pueblo", "english": "crowd"},
-{"spanish": "semilla", "english": "corn"},
-{"spanish": "comparar", "english": "compare"},
-{"spanish": "suave", "english": "soft"},
-{"spanish": "domingo", "english": "weekend"},
-{"spanish": "verano", "english": "summer"},
-{"spanish": "caminar", "english": "walk"},
-{"spanish": "golpear", "english": "edge"},
-{"spanish": "niña", "english": "girl"},
-{"spanish": "rodar", "english": "roll"},
-{"spanish": "caliente", "english": "warm"},
-{"spanish": "energía", "english": "energy"},
-{"spanish": "caza", "english": "hunt"},
-{"spanish": "probable", "english": "probable"},
-{"spanish": "cama", "english": "bed"},
-{"spanish": "hermano", "english": "brother"},
-{"spanish": "huevo", "english": "egg"},
-{"spanish": "paseo", "english": "ride"},
-{"spanish": "celular", "english": "cell"},
-{"spanish": "creer", "english": "believe"},
-{"spanish": "quizás", "english": "perhaps"},
-{"spanish": "recoger", "english": "pick"},
-{"spanish": "repentina", "english": "sudden"},
-{"spanish": "contar", "english": "count"},
-{"spanish": "plaza", "english": "square"},
-{"spanish": "razón", "english": "reason"},
-{"spanish": "longitud", "english": "length"},
-{"spanish": "representar", "english": "represent"},
-{"spanish": "arte", "english": "art"},
-{"spanish": "sujeto", "english": "subject"},
-{"spanish": "región", "english": "region"},
-{"spanish": "tamaño", "english": "size"},
-{"spanish": "variar", "english": "vary"},
-{"spanish": "resolver", "english": "settle"},
-{"spanish": "hablar", "english": "speak"},
-{"spanish": "peso", "english": "weight"},
-{"spanish": "general", "english": "general"},
-{"spanish": "hielo", "english": "ice"},
-{"spanish": "materia", "english": "matter"},
-{"spanish": "círculo", "english": "circle"},
-{"spanish": "par", "english": "pair"},
-{"spanish": "incluir", "english": "include"},
-{"spanish": "brecha", "english": "divide"},
-{"spanish": "sílaba", "english": "syllable"},
-{"spanish": "sentido", "english": "felt"},
-{"spanish": "gran", "english": "grand"},
-{"spanish": "bola", "english": "ball"},
-{"spanish": "aún", "english": "yet"},
-{"spanish": "ola", "english": "wave"},
-{"spanish": "caer", "english": "drop"},
-{"spanish": "corazón", "english": "heart"},
-{"spanish": "am", "english": "am"},
-{"spanish": "presente", "english": "present"},
-{"spanish": "pesada", "english": "heavy"},
-{"spanish": "danza", "english": "dance"},
-{"spanish": "motor", "english": "engine"},
-{"spanish": "posición", "english": "position"},
-{"spanish": "brazo", "english": "arm"},
-{"spanish": "amplio", "english": "wide"},
-{"spanish": "vela", "english": "sail"},
-{"spanish": "materiales", "english": "material"},
-{"spanish": "fracción", "english": "fraction"},
-{"spanish": "bosque", "english": "forest"},
-{"spanish": "sentarse", "english": "sit"},
-{"spanish": "carrera", "english": "race"},
-{"spanish": "ventana", "english": "window"},
-{"spanish": "tienda", "english": "store"},
-{"spanish": "verano", "english": "summer"},
-{"spanish": "tren", "english": "train"},
-{"spanish": "sueño", "english": "sleep"},
-{"spanish": "demostrar", "english": "prove"},
-{"spanish": "solitario", "english": "lone"},
-{"spanish": "pierna", "english": "leg"},
-{"spanish": "ejercicio", "english": "exercise"},
-{"spanish": "pared", "english": "wall"},
-{"spanish": "capturas", "english": "catch"},
-{"spanish": "monte", "english": "mount"},
-{"spanish": "desear", "english": "wish"},
-{"spanish": "cielo", "english": "sky"},
-{"spanish": "borde", "english": "board"},
-{"spanish": "alegría", "english": "joy"},
-{"spanish": "invierno", "english": "winter"},
-{"spanish": "satélite", "english": "sat"},
-{"spanish": "escrito", "english": "written"},
-{"spanish": "salvaje", "english": "wild"},
-{"spanish": "instrumento", "english": "instrument"},
-{"spanish": "guardado", "english": "kept"},
-{"spanish": "vidrio", "english": "glass"},
-{"spanish": "hierba", "english": "grass"},
-{"spanish": "vaca", "english": "cow"},
-{"spanish": "trabajo", "english": "job"},
-{"spanish": "borde", "english": "edge"},
-{"spanish": "signo", "english": "sign"},
-{"spanish": "visita", "english": "visit"},
-{"spanish": "pasado", "english": "past"},
-{"spanish": "suave", "english": "soft"},
-{"spanish": "diversión", "english": "fun"},
-{"spanish": "brillante", "english": "bright"},
-{"spanish": "gas", "english": "gas"},
-{"spanish": "tiempo", "english": "weather"},
-{"spanish": "mes", "english": "month"},
-{"spanish": "millones", "english": "million"},
-{"spanish": "soportar", "english": "bear"},
-{"spanish": "acabado", "english": "finish"},
-{"spanish": "feliz", "english": "happy"},
-{"spanish": "esperanza", "english": "hope"},
-{"spanish": "flor", "english": "flower"},
-{"spanish": "vestir", "english": "clothe"},
-{"spanish": "extraño", "english": "strange"},
-{"spanish": "se ha ido", "english": "gone"},
-{"spanish": "comercio", "english": "trade"},
-{"spanish": "melodía", "english": "melody"},
-{"spanish": "viaje", "english": "trip"},
-{"spanish": "oficina", "english": "office"},
-{"spanish": "recibir", "english": "receive"},
-{"spanish": "fila", "english": "row"},
-{"spanish": "boca", "english": "mouth"},
-{"spanish": "exacta", "english": "exact"},
-{"spanish": "símbolo", "english": "symbol"},
-{"spanish": "morir", "english": "die"},
-{"spanish": "menos", "english": "least"},
-{"spanish": "problema", "english": "trouble"},
-{"spanish": "grito", "english": "shout"},
-{"spanish": "excepto", "english": "except"},
-{"spanish": "escribió", "english": "wrote"},
-{"spanish": "semilla", "english": "seed"},
-{"spanish": "tono", "english": "tone"},
-{"spanish": "unirse", "english": "join"},
-{"spanish": "sugerir", "english": "suggest"},
-{"spanish": "limpia", "english": "clean"},
-{"spanish": "rotura", "english": "break"},
-{"spanish": "dama", "english": "lady"},
-{"spanish": "patio", "english": "yard"},
-{"spanish": "aumentando", "english": "rise"},
-{"spanish": "mal", "english": "bad"},
-{"spanish": "golpe", "english": "blow"},
-{"spanish": "aceite", "english": "oil"},
-{"spanish": "sangre", "english": "blood"},
-{"spanish": "tocar", "english": "touch"},
-{"spanish": "creció", "english": "grew"},
-{"spanish": "ciento", "english": "cent"},
-{"spanish": "mezclar", "english": "mix"},
-{"spanish": "equipo", "english": "team"},
-{"spanish": "alambre", "english": "wire"},
-{"spanish": "costo", "english": "cost"},
-{"spanish": "perdido", "english": "lost"},
-{"spanish": "marrón", "english": "brown"},
-{"spanish": "desgaste", "english": "wear"},
-{"spanish": "jardín", "english": "garden"},
-{"spanish": "igual", "english": "equal"},
-{"spanish": "enviado", "english": "sent"},
-{"spanish": "elegir", "english": "choose"},
-{"spanish": "cayó", "english": "fell"},
-{"spanish": "encajar", "english": "fit"},
-{"spanish": "fluir", "english": "flow"},
-{"spanish": "justo", "english": "fair"},
-{"spanish": "banco", "english": "bank"},
-{"spanish": "recoger", "english": "collect"},
-{"spanish": "guardar", "english": "save"},
-{"spanish": "el control", "english": "control"},
-{"spanish": "decimal", "english": "decimal"},
-{"spanish": "oído", "english": "ear"},
-{"spanish": "demás", "english": "else"},
-{"spanish": "bastante", "english": "quite"},
-{"spanish": "rompió", "english": "broke"},
-{"spanish": "caso", "english": "case"},
-{"spanish": "medio", "english": "middle"},
-{"spanish": "matar", "english": "kill"},
-{"spanish": "hijo", "english": "son"},
-{"spanish": "lago", "english": "lake"},
-{"spanish": "momento", "english": "moment"},
-{"spanish": "escala", "english": "scale"},
-{"spanish": "fuerte", "english": "loud"},
-{"spanish": "primavera", "english": "spring"},
-{"spanish": "observar", "english": "observe"},
-{"spanish": "niño", "english": "child"},
-{"spanish": "recta", "english": "straight"},
-{"spanish": "consonante", "english": "consonant"},
-{"spanish": "nación", "english": "nation"},
-{"spanish": "diccionario", "english": "dictionary"},
-{"spanish": "leche", "english": "milk"},
-{"spanish": "velocidad", "english": "speed"},
-{"spanish": "método", "english": "method"},
-{"spanish": "órgano", "english": "organ"},
-{"spanish": "pagar", "english": "pay"},
-{"spanish": "edad", "english": "age"},
-{"spanish": "sección", "english": "section"},
-{"spanish": "vestido", "english": "dress"},
-{"spanish": "nube", "english": "cloud"},
-{"spanish": "sorpresa", "english": "surprise"},
-{"spanish": "tranquila", "english": "quiet"},
-{"spanish": "piedra", "english": "stone"},
-{"spanish": "pequeño", "english": "tiny"},
-{"spanish": "ascenso", "english": "climb"},
-{"spanish": "fresco", "english": "cool"},
-{"spanish": "diseño", "english": "design"},
-{"spanish": "pobre", "english": "poor"},
-{"spanish": "mucho", "english": "lot"},
-{"spanish": "experimento", "english": "experiment"},
-{"spanish": "inferior", "english": "bottom"},
-{"spanish": "clave", "english": "key"},
-{"spanish": "hierro", "english": "iron"},
-{"spanish": "sola", "english": "single"},
-{"spanish": "palillo", "english": "stick"},
-{"spanish": "plana", "english": "flat"},
-{"spanish": "veinte", "english": "twenty"},
-{"spanish": "piel", "english": "skin"},
-{"spanish": "sonrisa", "english": "smile"},
-{"spanish": "pliegue", "english": "crease"},
-{"spanish": "agujero", "english": "hole"},
-{"spanish": "saltar", "english": "jump"},
-{"spanish": "bebé", "english": "baby"},
-{"spanish": "ocho", "english": "eight"},
-{"spanish": "pueblo", "english": "village"},
-{"spanish": "se reúnen", "english": "meet"},
-{"spanish": "raíz", "english": "root"},
-{"spanish": "comprar", "english": "buy"},
-{"spanish": "aumentar", "english": "raise"},
-{"spanish": "resolver", "english": "solve"},
-{"spanish": "de metal", "english": "metal"},
-{"spanish": "si", "english": "whether"},
-{"spanish": "empujar", "english": "push"},
-{"spanish": "siete", "english": "seven"},
-{"spanish": "párrafo", "english": "paragraph"},
-{"spanish": "tercero", "english": "third"},
-{"spanish": "deberá", "english": "shall"},
-{"spanish": "en espera", "english": "held"},
-{"spanish": "pelo", "english": "hair"},
-{"spanish": "describir", "english": "describe"},
-{"spanish": "cocinero", "english": "cook"},
-{"spanish": "piso", "english": "floor"},
-{"spanish": "ya sea", "english": "either"},
-{"spanish": "resultado", "english": "result"},
-{"spanish": "quemar", "english": "burn"},
-{"spanish": "colina", "english": "hill"},
-{"spanish": "seguro", "english": "safe"},
-{"spanish": "gato", "english": "cat"},
-{"spanish": "siglo", "english": "century"},
-{"spanish": "considerar", "english": "consider"},
-{"spanish": "tipo", "english": "type"},
-{"spanish": "ley", "english": "law"},
-{"spanish": "bit", "english": "bit"},
-{"spanish": "costa", "english": "coast"},
-{"spanish": "copia", "english": "copy"},
-{"spanish": "frase", "english": "phrase"},
-{"spanish": "silencio", "english": "silent"},
-{"spanish": "de altura", "english": "tall"},
-{"spanish": "arena", "english": "sand"},
-{"spanish": "suelo", "english": "soil"},
-{"spanish": "rollo", "english": "roll"},
-{"spanish": "temperatura", "english": "temperature"},
-{"spanish": "dedo", "english": "finger"},
-{"spanish": "industria", "english": "industry"},
-{"spanish": "valor", "english": "value"},
-{"spanish": "lucha", "english": "fight"},
-{"spanish": "mentira", "english": "lie"},
-{"spanish": "batir", "english": "beat"},
-{"spanish": "excitar", "english": "excite"},
-{"spanish": "naturales", "english": "natural"},
-{"spanish": "vista", "english": "view"},
-{"spanish": "sentido", "english": "sense"},
-{"spanish": "de capital", "english": "capital"},
-{"spanish": "no lo hará", "english": "won’t"},
-{"spanish": "silla", "english": "chair"},
-{"spanish": "peligro", "english": "danger"},
-{"spanish": "fruta", "english": "fruit"},
-{"spanish": "rica", "english": "rich"},
-{"spanish": "de espesor", "english": "thick"},
-{"spanish": "soldado", "english": "soldier"},
-{"spanish": "proceso", "english": "process"},
-{"spanish": "operar", "english": "operate"},
-{"spanish": "práctica", "english": "practice"},
-{"spanish": "separada", "english": "separate"},
-{"spanish": "difícil", "english": "difficult"},
-{"spanish": "médico", "english": "doctor"},
-{"spanish": "por favor", "english": "please"},
-{"spanish": "proteger", "english": "protect"},
-{"spanish": "mediodía", "english": "noon"},
-{"spanish": "de cultivos", "english": "crop"},
-{"spanish": "moderno", "english": "modern"},
-{"spanish": "elemento", "english": "element"},
-{"spanish": "golpear", "english": "hit"},
-{"spanish": "estudiante", "english": "student"},
-{"spanish": "esquina", "english": "corner"},
-{"spanish": "partido", "english": "party"},
-{"spanish": "suministro", "english": "supply"},
-{"spanish": "cuya", "english": "whose"},
-{"spanish": "localizar", "english": "locate"},
-{"spanish": "anillo", "english": "ring"},
-{"spanish": "carácter", "english": "character"},
-{"spanish": "insecto", "english": "insect"},
-{"spanish": "capturado", "english": "caught"},
-{"spanish": "período", "english": "period"},
-{"spanish": "indicar", "english": "indicate"},
-{"spanish": "Radio", "english": "radio"},
-{"spanish": "habló", "english": "spoke"},
-{"spanish": "átomo", "english": "atom"},
-{"spanish": "humana", "english": "human"},
-{"spanish": "historia", "english": "history"},
-{"spanish": "efecto", "english": "effect"},
-{"spanish": "eléctrica", "english": "electric"},
-{"spanish": "esperar", "english": "expect"},
-{"spanish": "hueso", "english": "bone"},
-{"spanish": "ferrocarril", "english": "rail"},
-{"spanish": "imaginar", "english": "imagine"},
-{"spanish": "proporcionar", "english": "provide"},
-{"spanish": "acuerdo", "english": "agree"},
-{"spanish": "por tanto,", "english": "thus"},
-{"spanish": "suave", "english": "gentle"},
-{"spanish": "mujer", "english": "woman"},
-{"spanish": "capitán", "english": "captain"},
-{"spanish": "adivinar", "english": "guess"},
-{"spanish": "necesario", "english": "necessary"},
-{"spanish": "agudo", "english": "sharp"},
-{"spanish": "ala", "english": "wing"},
-{"spanish": "crear", "english": "create"},
-{"spanish": "vecino", "english": "neighbor"},
-{"spanish": "lavado", "english": "wash"},
-{"spanish": "bate", "english": "bat"},
-{"spanish": "más bien", "english": "rather"},
-{"spanish": "multitud", "english": "crowd"},
-{"spanish": "maíz", "english": "corn"},
-{"spanish": "comparar", "english": "compare"},
-{"spanish": "poema", "english": "poem"},
-{"spanish": "cadena", "english": "string"},
-{"spanish": "campana", "english": "bell"},
-{"spanish": "dependerá", "english": "depend"},
-{"spanish": "carne", "english": "meat"},
-{"spanish": "frotar", "english": "rub"},
-{"spanish": "tubo", "english": "tube"},
-{"spanish": "famoso", "english": "famous"},
-{"spanish": "bebé", "english": "baby"},
-{"spanish": "ocho", "english": "eight"},
-{"spanish": "pueblo", "english": "village"},
-{"spanish": "se reúnen", "english": "meet"},
-{"spanish": "raíz", "english": "root"},
-{"spanish": "comprar", "english": "buy"},
-{"spanish": "aumentar", "english": "raise"},
-{"spanish": "resolver", "english": "solve"},
-{"spanish": "de metal", "english": "metal"},
-{"spanish": "si", "english": "whether"},
-{"spanish": "empujar", "english": "push"},
-{"spanish": "siete", "english": "seven"},
-{"spanish": "párrafo", "english": "paragraph"},
-{"spanish": "tercero", "english": "third"},
-{"spanish": "deberá", "english": "shall"},
-{"spanish": "en espera", "english": "held"},
-{"spanish": "pelo", "english": "hair"},
-{"spanish": "describir", "english": "describe"},
-{"spanish": "cocinero", "english": "cook"},
-{"spanish": "piso", "english": "floor"},
-{"spanish": "ya sea", "english": "either"},
-{"spanish": "resultado", "english": "result"},
-{"spanish": "quemar", "english": "burn"},
-{"spanish": "colina", "english": "hill"},
-{"spanish": "seguro", "english": "safe"},
-{"spanish": "gato", "english": "cat"},
-{"spanish": "siglo", "english": "century"},
-{"spanish": "considerar", "english": "consider"},
-{"spanish": "tipo", "english": "type"},
-{"spanish": "ley", "english": "law"},
-{"spanish": "bit", "english": "bit"},
-{"spanish": "costa", "english": "coast"},
-{"spanish": "copia", "english": "copy"},
-{"spanish": "frase", "english": "phrase"},
-{"spanish": "silencio", "english": "silent"},
-{"spanish": "de altura", "english": "tall"},
-{"spanish": "arena", "english": "sand"},
-{"spanish": "suelo", "english": "soil"},
-{"spanish": "rollo", "english": "roll"},
-{"spanish": "temperatura", "english": "temperature"},
-{"spanish": "dedo", "english": "finger"},
-{"spanish": "industria", "english": "industry"},
-{"spanish": "valor", "english": "value"},
-{"spanish": "lucha", "english": "fight"},
-{"spanish": "mentira", "english": "lie"},
-{"spanish": "batir", "english": "beat"},
-{"spanish": "excitar", "english": "excite"},
-{"spanish": "naturales", "english": "natural"},
-{"spanish": "vista", "english": "view"},
-{"spanish": "sentido", "english": "sense"},
-{"spanish": "de capital", "english": "capital"},
-{"spanish": "no lo hará", "english": "won’t"},
-{"spanish": "silla", "english": "chair"},
-{"spanish": "peligro", "english": "danger"},
-{"spanish": "fruta", "english": "fruit"},
-{"spanish": "rica", "english": "rich"},
-{"spanish": "de espesor", "english": "thick"},
-{"spanish": "soldado", "english": "soldier"},
-{"spanish": "proceso", "english": "process"},
-{"spanish": "operar", "english": "operate"},
-{"spanish": "práctica", "english": "practice"},
-{"spanish": "separada", "english": "separate"},
-{"spanish": "difícil", "english": "difficult"},
-{"spanish": "médico", "english": "doctor"},
-{"spanish": "por favor", "english": "please"},
-{"spanish": "proteger", "english": "protect"},
-{"spanish": "mediodía", "english": "noon"},
-{"spanish": "de cultivos", "english": "crop"},
-{"spanish": "moderno", "english": "modern"},
-{"spanish": "elemento", "english": "element"},
-{"spanish": "golpear", "english": "hit"},
-{"spanish": "estudiante", "english": "student"},
-{"spanish": "esquina", "english": "corner"},
-{"spanish": "partido", "english": "party"},
-{"spanish": "suministro", "english": "supply"},
-{"spanish": "cuya", "english": "whose"},
-{"spanish": "localizar", "english": "locate"},
-{"spanish": "anillo", "english": "ring"},
-{"spanish": "carácter", "english": "character"},
-{"spanish": "insecto", "english": "insect"},
-{"spanish": "capturado", "english": "caught"},
-{"spanish": "período", "english": "period"},
-{"spanish": "indicar", "english": "indicate"},
-{"spanish": "Radio", "english": "radio"},
-{"spanish": "habló", "english": "spoke"},
-{"spanish": "átomo", "english": "atom"},
-{"spanish": "humana", "english": "human"},
-{"spanish": "historia", "english": "history"},
-{"spanish": "efecto", "english": "effect"},
-{"spanish": "eléctrica", "english": "electric"},
-{"spanish": "esperar", "english": "expect"},
-{"spanish": "hueso", "english": "bone"},
-{"spanish": "ferrocarril", "english": "rail"},
-{"spanish": "imaginar", "english": "imagine"},
-{"spanish": "proporcionar", "english": "provide"},
-{"spanish": "acuerdo", "english": "agree"},
-{"spanish": "por tanto,", "english": "thus"},
-{"spanish": "suave", "english": "gentle"},
-{"spanish": "mujer", "english": "woman"},
-{"spanish": "capitán", "english": "captain"},
-{"spanish": "adivinar", "english": "guess"},
-{"spanish": "necesario", "english": "necessary"},
-{"spanish": "agudo", "english": "sharp"},
-{"spanish": "ala", "english": "wing"},
-{"spanish": "crear", "english": "create"},
-{"spanish": "vecino", "english": "neighbor"},
-{"spanish": "lavado", "english": "wash"},
-{"spanish": "bate", "english": "bat"},
-{"spanish": "más bien", "english": "rather"},
-{"spanish": "multitud", "english": "crowd"},
-{"spanish": "maíz", "english": "corn"},
-{"spanish": "comparar", "english": "compare"},
-{"spanish": "poema", "english": "poem"},
-{"spanish": "cadena", "english": "string"},
-{"spanish": "campana", "english": "bell"},
-{"spanish": "dependerá", "english": "depend"},
-{"spanish": "carne", "english": "meat"},
-{"spanish": "frotar", "english": "rub"},
-{"spanish": "tubo", "english": "tube"},
-{"spanish": "famoso", "english": "famous"},
-{"spanish": "bebé", "english": "baby"},
-{"spanish": "ocho", "english": "eight"},
-{"spanish": "pueblo", "english": "village"},
-{"spanish": "se reúnen", "english": "meet"},
-{"spanish": "raíz", "english": "root"},
-{"spanish": "comprar", "english": "buy"},
-{"spanish": "aumentar", "english": "raise"},
-{"spanish": "resolver", "english": "solve"},
-{"spanish": "de metal", "english": "metal"},
-{"spanish": "si", "english": "whether"},
-{"spanish": "empujar", "english": "push"},
-{"spanish": "siete", "english": "seven"},
-{"spanish": "párrafo", "english": "paragraph"},
-{"spanish": "tercero", "english": "third"},
-{"spanish": "deberá", "english": "shall"},
-{"spanish": "en espera", "english": "held"},
-{"spanish": "pelo", "english": "hair"},
-{"spanish": "describir", "english": "describe"},
-{"spanish": "cocinero", "english": "cook"},
-{"spanish": "piso", "english": "floor"},
-{"spanish": "ya sea", "english": "either"},
-{"spanish": "resultado", "english": "result"},
-{"spanish": "quemar", "english": "burn"},
-{"spanish": "colina", "english": "hill"},
-{"spanish": "seguro", "english": "safe"},
-{"spanish": "gato", "english": "cat"},
-{"spanish": "siglo", "english": "century"},
-{"spanish": "considerar", "english": "consider"},
-{"spanish": "tipo", "english": "type"},
-{"spanish": "ley", "english": "law"},
-{"spanish": "bit", "english": "bit"},
-{"spanish": "costa", "english": "coast"},
-{"spanish": "copia", "english": "copy"},
-{"spanish": "frase", "english": "phrase"},
-{"spanish": "silencio", "english": "silent"},
-{"spanish": "de altura", "english": "tall"},
-{"spanish": "arena", "english": "sand"},
-{"spanish": "suelo", "english": "soil"},
-{"spanish": "rollo", "english": "roll"},
-{"spanish": "temperatura", "english": "temperature"},
-{"spanish": "dedo", "english": "finger"},
-{"spanish": "industria", "english": "industry"},
-{"spanish": "valor", "english": "value"},
-{"spanish": "lucha", "english": "fight"},
-{"spanish": "mentira", "english": "lie"},
-{"spanish": "batir", "english": "beat"},
-{"spanish": "excitar", "english": "excite"},
-{"spanish": "naturales", "english": "natural"},
-{"spanish": "vista", "english": "view"},
-{"spanish": "sentido", "english": "sense"},
-{"spanish": "de capital", "english": "capital"},
-{"spanish": "no lo hará", "english": "won’t"},
-{"spanish": "silla", "english": "chair"},
-{"spanish": "peligro", "english": "danger"},
-{"spanish": "fruta", "english": "fruit"},
-{"spanish": "rica", "english": "rich"},
-{"spanish": "de espesor", "english": "thick"},
-{"spanish": "soldado", "english": "soldier"},
-{"spanish": "proceso", "english": "process"},
-{"spanish": "operar", "english": "operate"},
-{"spanish": "práctica", "english": "practice"},
-{"spanish": "separada", "english": "separate"},
-{"spanish": "difícil", "english": "difficult"},
-{"spanish": "médico", "english": "doctor"},
-{"spanish": "por favor", "english": "please"},
-{"spanish": "proteger", "english": "protect"},
-{"spanish": "mediodía", "english": "noon"},
-{"spanish": "de cultivos", "english": "crop"},
-{"spanish": "moderno", "english": "modern"},
-{"spanish": "elemento", "english": "element"},
-{"spanish": "golpear", "english": "hit"},
-{"spanish": "estudiante", "english": "student"},
-{"spanish": "esquina", "english": "corner"},
-{"spanish": "partido", "english": "party"},
-{"spanish": "suministro", "english": "supply"},
-{"spanish": "cuya", "english": "whose"},
-{"spanish": "localizar", "english": "locate"},
-{"spanish": "anillo", "english": "ring"},
-{"spanish": "carácter", "english": "character"},
-{"spanish": "insecto", "english": "insect"},
-{"spanish": "capturado", "english": "caught"},
-{"spanish": "período", "english": "period"},
-{"spanish": "indicar", "english": "indicate"},
-{"spanish": "Radio", "english": "radio"},
-{"spanish": "habló", "english": "spoke"},
-{"spanish": "átomo", "english": "atom"},
-{"spanish": "humana", "english": "human"},
-{"spanish": "historia", "english": "history"},
-{"spanish": "efecto", "english": "effect"},
-{"spanish": "eléctrica", "english": "electric"},
-{"spanish": "esperar", "english": "expect"},
-{"spanish": "hueso", "english": "bone"},
-{"spanish": "ferrocarril", "english": "rail"},
-{"spanish": "imaginar", "english": "imagine"},
-{"spanish": "proporcionar", "english": "provide"},
-{"spanish": "acuerdo", "english": "agree"},
-{"spanish": "por tanto,", "english": "thus"},
-{"spanish": "suave", "english": "gentle"},
-{"spanish": "mujer", "english": "woman"},
-{"spanish": "capitán", "english": "captain"},
-{"spanish": "adivinar", "english": "guess"},
-{"spanish": "necesario", "english": "necessary"},
-{"spanish": "agudo", "english": "sharp"},
-{"spanish": "ala", "english": "wing"},
-{"spanish": "crear", "english": "create"},
-{"spanish": "vecino", "english": "neighbor"},
-{"spanish": "lavado", "english": "wash"},
-{"spanish": "bate", "english": "bat"},
-{"spanish": "más bien", "english": "rather"},
-{"spanish": "multitud", "english": "crowd"},
-{"spanish": "maíz", "english": "corn"},
-{"spanish": "comparar", "english": "compare"},
-{"spanish": "poema", "english": "poem"},
-{"spanish": "cadena", "english": "string"},
-{"spanish": "campana", "english": "bell"},
-{"spanish": "dependerá", "english": "depend"},
-{"spanish": "carne", "english": "meat"},
-{"spanish": "frotar", "english": "rub"},
-{"spanish": "tubo", "english": "tube"},
-{"spanish": "famoso", "english": "famous"},
-{"spanish": "dólar", "english": "dollar"},
-{"spanish": "corriente", "english": "stream"},
-{"spanish": "miedo", "english": "fear"},
-{"spanish": "vista", "english": "sight"},
-{"spanish": "delgado", "english": "thin"},
-{"spanish": "triángulo", "english": "triangle"},
-{"spanish": "planeta", "english": "planet"},
-{"spanish": "prisa", "english": "hurry"},
-{"spanish": "jefe", "english": "chief"},
-{"spanish": "colonia", "english": "colony"},
-{"spanish": "reloj", "english": "clock"},
-{"spanish": "mina", "english": "mine"},
-{"spanish": "empate", "english": "tie"},
-{"spanish": "entrar", "english": "enter"},
-{"spanish": "importante", "english": "major"},
-{"spanish": "fresco", "english": "fresh"},
-{"spanish": "búsqueda", "english": "search"},
-{"spanish": "enviar", "english": "send"},
-{"spanish": "amarillo", "english": "yellow"},
-{"spanish": "pistola", "english": "gun"},
-{"spanish": "permitir", "english": "allow"},
-{"spanish": "print", "english": "print"},
-{"spanish": "muerto", "english": "dead"},
-{"spanish": "lugar", "english": "spot"},
-{"spanish": "desierto", "english": "desert"},
-{"spanish": "traje", "english": "suit"},
-{"spanish": "actual", "english": "current"},
-{"spanish": "ascensor", "english": "lift"},
-{"spanish": "rosa", "english": "rose"},
-{"spanish": "llegar", "english": "arrive"},
-{"spanish": "master", "english": "master"},
-{"spanish": "pista", "english": "track"},
-{"spanish": "padre", "english": "parent"},
-{"spanish": "orilla", "english": "shore"},
-{"spanish": "división", "english": "division"},
-{"spanish": "hoja", "english": "sheet"},
-{"spanish": "sustancia", "english": "substance"},
-{"spanish": "favorecer", "english": "favor"},
-{"spanish": "conectar", "english": "connect"},
-{"spanish": "mensaje", "english": "post"},
-{"spanish": "pasar", "english": "spend"},
-{"spanish": "acorde", "english": "chord"},
-{"spanish": "grasa", "english": "fat"},
-{"spanish": "contento", "english": "glad"},
-{"spanish": "originales", "english": "original"},
-{"spanish": "cuota", "english": "share"},
-{"spanish": "estación", "english": "station"},
-{"spanish": "papá", "english": "dad"},
-{"spanish": "pan", "english": "bread"},
-{"spanish": "cobrar", "english": "charge"},
-{"spanish": "adecuada", "english": "proper"},
-{"spanish": "barra", "english": "bar"},
-{"spanish": "oferta", "english": "offer"},
-{"spanish": "segmento", "english": "segment"},
-{"spanish": "esclavo", "english": "slave"},
-{"spanish": "pato", "english": "duck"},
-{"spanish": "instantánea", "english": "instant"},
-{"spanish": "mercado", "english": "market"},
-{"spanish": "grado", "english": "degree"},
-{"spanish": "poblar", "english": "populate"},
-{"spanish": "polluelo", "english": "chick"},
-{"spanish": "querido", "english": "dear"},
-{"spanish": "enemigo", "english": "enemy"},
-{"spanish": "responder", "english": "reply"},
-{"spanish": "bebida", "english": "drink"},
-{"spanish": "producirse", "english": "occur"},
-{"spanish": "apoyo", "english": "support"},
-{"spanish": "discurso", "english": "speech"},
-{"spanish": "naturaleza", "english": "nature"},
-{"spanish": "alcance", "english": "range"},
-{"spanish": "vapor", "english": "steam"},
-{"spanish": "movimiento", "english": "motion"},
-{"spanish": "camino", "english": "path"},
-{"spanish": "líquido", "english": "liquid"},
-{"spanish": "log", "english": "log"},
-{"spanish": "significado", "english": "meant"},
-{"spanish": "cociente", "english": "quotient"},
-{"spanish": "dientes", "english": "teeth"},
-{"spanish": "concha", "english": "shell"},
-{"spanish": "cuello", "english": "neck"},
-{"spanish": "oxígeno", "english": "oxygen"},
-{"spanish": "azúcar", "english": "sugar"},
-{"spanish": "muerte", "english": "death"},
-{"spanish": "bastante", "english": "pretty"},
-{"spanish": "habilidad", "english": "skill"},
-{"spanish": "mujeres", "english": "women"},
-{"spanish": "temporada", "english": "season"},
-{"spanish": "solución", "english": "solution"},
-{"spanish": "imán", "english": "magnet"},
-{"spanish": "plata", "english": "silver"},
-{"spanish": "gracias", "english": "thank"},
-{"spanish": "rama", "english": "branch"},
-{"spanish": "partido", "english": "match"},
-{"spanish": "sufijo", "english": "suffix"},
-{"spanish": "especialmente", "english": "especially"},
-{"spanish": "higo", "english": "fig"},
-{"spanish": "miedo", "english": "afraid"},
-{"spanish": "enorme", "english": "huge"},
-{"spanish": "hermana", "english": "sister"},
-{"spanish": "acero", "english": "steel"},
-{"spanish": "discutir", "english": "discuss"},
-{"spanish": "adelante", "english": "forward"},
-{"spanish": "similar", "english": "similar"},
-{"spanish": "guiar", "english": "guide"},
-{"spanish": "experiencia", "english": "experience"},
-{"spanish": "puntuación", "english": "score"},
-{"spanish": "manzana", "english": "apple"},
-{"spanish": "comprado", "english": "bought"},
-{"spanish": "llevado", "english": "led"},
-{"spanish": "pitch", "english": "pitch"},
-{"spanish": "abrigo", "english": "coat"},
-{"spanish": "masa", "english": "mass"},
-{"spanish": "tarjeta", "english": "card"},
-{"spanish": "banda", "english": "band"},
-{"spanish": "cuerda", "english": "rope"},
-{"spanish": "deslizamiento", "english": "slip"},
-{"spanish": "ganar", "english": "win"},
-{"spanish": "soñar", "english": "dream"},
-{"spanish": "noche", "english": "evening"},
-{"spanish": "condición", "english": "condition"},
-{"spanish": "pienso", "english": "feed"},
-{"spanish": "herramienta", "english": "tool"},
-{"spanish": "totales", "english": "total"},
-{"spanish": "básico", "english": "basic"},
-{"spanish": "olor", "english": "smell"},
-{"spanish": "valle", "english": "valley"},
-{"spanish": "ni", "english": "nor"},
-{"spanish": "doble", "english": "double"},
-{"spanish": "asiento", "english": "seat"},
-{"spanish": "continuar", "english": "continue"},
-{"spanish": "bloque", "english": "block"},
-{"spanish": "tabla", "english": "chart"},
-{"spanish": "sombrero", "english": "hat"},
-{"spanish": "vender", "english": "sell"},
-{"spanish": "éxito", "english": "success"},
-{"spanish": "empresa", "english": "company"},
-{"spanish": "restar", "english": "subtract"},
-{"spanish": "evento", "english": "event"},
-{"spanish": "particular,", "english": "particular"},
-{"spanish": "acuerdo", "english": "deal"},
-{"spanish": "nadar", "english": "swim"},
-{"spanish": "plazo", "english": "term"},
-{"spanish": "opuesta", "english": "opposite"},
-{"spanish": "esposa", "english": "wife"},
-{"spanish": "zapato", "english": "shoe"},
-{"spanish": "hombro", "english": "shoulder"},
-{"spanish": "propagación", "english": "spread"},
-{"spanish": "organizar", "english": "arrange"},
-{"spanish": "campamento", "english": "camp"},
-{"spanish": "inventar", "english": "invent"},
-{"spanish": "algodón", "english": "cotton"},
-{"spanish": "nacido", "english": "born"},
-{"spanish": "determinar", "english": "determine"},
-{"spanish": "cuarto de galón", "english": "quart"},
-{"spanish": "nueve", "english": "nine"},
-{"spanish": "camión", "english": "truck"},
-{"spanish": "ruido", "english": "noise"},
-{"spanish": "nivel", "english": "level"},
-{"spanish": "oportunidad", "english": "chance"},
-{"spanish": "reunir", "english": "gather"},
-{"spanish": "tienda", "english": "shop"},
-{"spanish": "tramo", "english": "stretch"},
-{"spanish": "lanzar", "english": "throw"},
-{"spanish": "brillo", "english": "shine"},
-{"spanish": "propiedad", "english": "property"},
-{"spanish": "columna", "english": "column"},
-{"spanish": "molécula", "english": "molecule"},
-{"spanish": "seleccionar", "english": "select"},
-{"spanish": "mal", "english": "wrong"},
-{"spanish": "gris", "english": "gray"},
-{"spanish": "repita", "english": "repeat"},
-{"spanish": "exigir", "english": "require"},
-{"spanish": "amplio", "english": "broad"},
-{"spanish": "preparar", "english": "prepare"},
-{"spanish": "sal", "english": "salt"},
-{"spanish": "nariz", "english": "nose"},
-{"spanish": "plurales", "english": "plural"},
-{"spanish": "cólera", "english": "anger"},
-{"spanish": "reclamación", "english": "claim"},
-{"spanish": "continente", "english": "continent"}
+  {
+    "id": 1,
+    "spanish": "como",
+    "english": "as"
+  },
+  {
+    "id": 2,
+    "spanish": "yo",
+    "english": "I"
+  },
+  {
+    "id": 3,
+    "spanish": "su",
+    "english": "his"
+  },
+  {
+    "id": 4,
+    "spanish": "que",
+    "english": "that"
+  },
+  {
+    "id": 5,
+    "spanish": "él",
+    "english": "he"
+  },
+  {
+    "id": 6,
+    "spanish": "era",
+    "english": "was"
+  },
+  {
+    "id": 7,
+    "spanish": "para",
+    "english": "for"
+  },
+  {
+    "id": 8,
+    "spanish": "en",
+    "english": "on"
+  },
+  {
+    "id": 9,
+    "spanish": "son",
+    "english": "are"
+  },
+  {
+    "id": 10,
+    "spanish": "con",
+    "english": "with"
+  },
+  {
+    "id": 11,
+    "spanish": "ellos",
+    "english": "they"
+  },
+  {
+    "id": 12,
+    "spanish": "ser",
+    "english": "be"
+  },
+  {
+    "id": 13,
+    "spanish": "en",
+    "english": "at"
+  },
+  {
+    "id": 14,
+    "spanish": "uno",
+    "english": "one"
+  },
+  {
+    "id": 15,
+    "spanish": "tener",
+    "english": "have"
+  },
+  {
+    "id": 16,
+    "spanish": "este",
+    "english": "this"
+  },
+  {
+    "id": 17,
+    "spanish": "desde",
+    "english": "from"
+  },
+  {
+    "id": 18,
+    "spanish": "por",
+    "english": "by"
+  },
+  {
+    "id": 19,
+    "spanish": "caliente",
+    "english": "hot"
+  },
+  {
+    "id": 20,
+    "spanish": "palabra",
+    "english": "word"
+  },
+  {
+    "id": 21,
+    "spanish": "pero",
+    "english": "but"
+  },
+  {
+    "id": 22,
+    "spanish": "qué",
+    "english": "what"
+  },
+  {
+    "id": 23,
+    "spanish": "algunos",
+    "english": "some"
+  },
+  {
+    "id": 24,
+    "spanish": "es",
+    "english": "is"
+  },
+  {
+    "id": 25,
+    "spanish": "lo",
+    "english": "it"
+  },
+  {
+    "id": 26,
+    "spanish": "usted",
+    "english": "you"
+  },
+  {
+    "id": 27,
+    "spanish": "o",
+    "english": "or"
+  },
+  {
+    "id": 28,
+    "spanish": "tenido",
+    "english": "had"
+  },
+  {
+    "id": 29,
+    "spanish": "la",
+    "english": "the"
+  },
+  {
+    "id": 30,
+    "spanish": "de",
+    "english": "of"
+  },
+  {
+    "id": 31,
+    "spanish": "a",
+    "english": "to"
+  },
+  {
+    "id": 32,
+    "spanish": "y",
+    "english": "and"
+  },
+  {
+    "id": 33,
+    "spanish": "un",
+    "english": "a"
+  },
+  {
+    "id": 34,
+    "spanish": "en",
+    "english": "in"
+  },
+  {
+    "id": 35,
+    "spanish": "nos",
+    "english": "we"
+  },
+  {
+    "id": 36,
+    "spanish": "lata",
+    "english": "can"
+  },
+  {
+    "id": 37,
+    "spanish": "fuera",
+    "english": "out"
+  },
+  {
+    "id": 38,
+    "spanish": "otros",
+    "english": "other"
+  },
+  {
+    "id": 39,
+    "spanish": "eran",
+    "english": "were"
+  },
+  {
+    "id": 40,
+    "spanish": "que",
+    "english": "which"
+  },
+  {
+    "id": 41,
+    "spanish": "hacer",
+    "english": "do"
+  },
+  {
+    "id": 42,
+    "spanish": "su",
+    "english": "their"
+  },
+  {
+    "id": 43,
+    "spanish": "tiempo",
+    "english": "time"
+  },
+  {
+    "id": 44,
+    "spanish": "si",
+    "english": "if"
+  },
+  {
+    "id": 45,
+    "spanish": "lo hará",
+    "english": "will"
+  },
+  {
+    "id": 46,
+    "spanish": "cómo",
+    "english": "how"
+  },
+  {
+    "id": 47,
+    "spanish": "dicho",
+    "english": "said"
+  },
+  {
+    "id": 48,
+    "spanish": "un",
+    "english": "an"
+  },
+  {
+    "id": 49,
+    "spanish": "cada",
+    "english": "each"
+  },
+  {
+    "id": 50,
+    "spanish": "decir",
+    "english": "tell"
+  },
+  {
+    "id": 51,
+    "spanish": "hace",
+    "english": "does"
+  },
+  {
+    "id": 52,
+    "spanish": "conjunto",
+    "english": "set"
+  },
+  {
+    "id": 53,
+    "spanish": "tres",
+    "english": "three"
+  },
+  {
+    "id": 54,
+    "spanish": "querer",
+    "english": "want"
+  },
+  {
+    "id": 55,
+    "spanish": "aire",
+    "english": "air"
+  },
+  {
+    "id": 56,
+    "spanish": "así",
+    "english": "well"
+  },
+  {
+    "id": 57,
+    "spanish": "también",
+    "english": "also"
+  },
+  {
+    "id": 58,
+    "spanish": "jugar",
+    "english": "play"
+  },
+  {
+    "id": 59,
+    "spanish": "pequeño",
+    "english": "small"
+  },
+  {
+    "id": 60,
+    "spanish": "fin",
+    "english": "end"
+  },
+  {
+    "id": 61,
+    "spanish": "poner",
+    "english": "put"
+  },
+  {
+    "id": 62,
+    "spanish": "casa",
+    "english": "home"
+  },
+  {
+    "id": 63,
+    "spanish": "leer",
+    "english": "read"
+  },
+  {
+    "id": 64,
+    "spanish": "mano",
+    "english": "hand"
+  },
+  {
+    "id": 65,
+    "spanish": "puerto",
+    "english": "port"
+  },
+  {
+    "id": 66,
+    "spanish": "grande",
+    "english": "large"
+  },
+  {
+    "id": 67,
+    "spanish": "deletrear",
+    "english": "spell"
+  },
+  {
+    "id": 68,
+    "spanish": "añadir",
+    "english": "add"
+  },
+  {
+    "id": 69,
+    "spanish": "incluso",
+    "english": "even"
+  },
+  {
+    "id": 70,
+    "spanish": "tierra",
+    "english": "land"
+  },
+  {
+    "id": 71,
+    "spanish": "aquí",
+    "english": "here"
+  },
+  {
+    "id": 72,
+    "spanish": "debe",
+    "english": "must"
+  },
+  {
+    "id": 73,
+    "spanish": "grande",
+    "english": "big"
+  },
+  {
+    "id": 74,
+    "spanish": "alto",
+    "english": "high"
+  },
+  {
+    "id": 75,
+    "spanish": "tal",
+    "english": "such"
+  },
+  {
+    "id": 76,
+    "spanish": "siga",
+    "english": "follow"
+  },
+  {
+    "id": 77,
+    "spanish": "acto",
+    "english": "act"
+  },
+  {
+    "id": 78,
+    "spanish": "por qué",
+    "english": "why"
+  },
+  {
+    "id": 79,
+    "spanish": "preguntar",
+    "english": "ask"
+  },
+  {
+    "id": 80,
+    "spanish": "hombres",
+    "english": "men"
+  },
+  {
+    "id": 81,
+    "spanish": "cambio",
+    "english": "change"
+  },
+  {
+    "id": 82,
+    "spanish": "se fue",
+    "english": "went"
+  },
+  {
+    "id": 83,
+    "spanish": "luz",
+    "english": "light"
+  },
+  {
+    "id": 84,
+    "spanish": "tipo",
+    "english": "kind"
+  },
+  {
+    "id": 85,
+    "spanish": "fuera",
+    "english": "off"
+  },
+  {
+    "id": 86,
+    "spanish": "necesitará",
+    "english": "need"
+  },
+  {
+    "id": 87,
+    "spanish": "casa",
+    "english": "house"
+  },
+  {
+    "id": 88,
+    "spanish": "imagen",
+    "english": "picture"
+  },
+  {
+    "id": 89,
+    "spanish": "tratar",
+    "english": "try"
+  },
+  {
+    "id": 90,
+    "spanish": "nosotros",
+    "english": "us"
+  },
+  {
+    "id": 91,
+    "spanish": "de nuevo",
+    "english": "again"
+  },
+  {
+    "id": 92,
+    "spanish": "animal",
+    "english": "animal"
+  },
+  {
+    "id": 93,
+    "spanish": "punto",
+    "english": "point"
+  },
+  {
+    "id": 94,
+    "spanish": "madre",
+    "english": "mother"
+  },
+  {
+    "id": 95,
+    "spanish": "mundo",
+    "english": "world"
+  },
+  {
+    "id": 96,
+    "spanish": "cerca",
+    "english": "near"
+  },
+  {
+    "id": 97,
+    "spanish": "construir",
+    "english": "build"
+  },
+  {
+    "id": 98,
+    "spanish": "auto",
+    "english": "self"
+  },
+  {
+    "id": 99,
+    "spanish": "tierra",
+    "english": "earth"
+  },
+  {
+    "id": 100,
+    "spanish": "padre",
+    "english": "father"
+  },
+  {
+    "id": 101,
+    "spanish": "cualquier",
+    "english": "any"
+  },
+  {
+    "id": 102,
+    "spanish": "nuevo",
+    "english": "new"
+  },
+  {
+    "id": 103,
+    "spanish": "trabajo",
+    "english": "work"
+  },
+  {
+    "id": 104,
+    "spanish": "parte",
+    "english": "part"
+  },
+  {
+    "id": 105,
+    "spanish": "tomar",
+    "english": "take"
+  },
+  {
+    "id": 106,
+    "spanish": "conseguir",
+    "english": "get"
+  },
+  {
+    "id": 107,
+    "spanish": "lugar",
+    "english": "place"
+  },
+  {
+    "id": 108,
+    "spanish": "hecho",
+    "english": "made"
+  },
+  {
+    "id": 109,
+    "spanish": "vivir",
+    "english": "live"
+  },
+  {
+    "id": 110,
+    "spanish": "donde",
+    "english": "where"
+  },
+  {
+    "id": 111,
+    "spanish": "después",
+    "english": "after"
+  },
+  {
+    "id": 112,
+    "spanish": "espalda",
+    "english": "back"
+  },
+  {
+    "id": 113,
+    "spanish": "poco",
+    "english": "little"
+  },
+  {
+    "id": 114,
+    "spanish": "sólo",
+    "english": "only"
+  },
+  {
+    "id": 115,
+    "spanish": "ronda",
+    "english": "round"
+  },
+  {
+    "id": 116,
+    "spanish": "hombre",
+    "english": "man"
+  },
+  {
+    "id": 117,
+    "spanish": "años",
+    "english": "year"
+  },
+  {
+    "id": 118,
+    "spanish": "vino",
+    "english": "came"
+  },
+  {
+    "id": 119,
+    "spanish": "show",
+    "english": "show"
+  },
+  {
+    "id": 120,
+    "spanish": "cada",
+    "english": "every"
+  },
+  {
+    "id": 121,
+    "spanish": "buena",
+    "english": "good"
+  },
+  {
+    "id": 122,
+    "spanish": "me",
+    "english": "me"
+  },
+  {
+    "id": 123,
+    "spanish": "dar",
+    "english": "give"
+  },
+  {
+    "id": 124,
+    "spanish": "nuestro",
+    "english": "our"
+  },
+  {
+    "id": 125,
+    "spanish": "bajo",
+    "english": "under"
+  },
+  {
+    "id": 126,
+    "spanish": "nombre",
+    "english": "name"
+  },
+  {
+    "id": 127,
+    "spanish": "muy",
+    "english": "very"
+  },
+  {
+    "id": 128,
+    "spanish": "a través de",
+    "english": "through"
+  },
+  {
+    "id": 129,
+    "spanish": "sólo",
+    "english": "just"
+  },
+  {
+    "id": 130,
+    "spanish": "forma",
+    "english": "form"
+  },
+  {
+    "id": 131,
+    "spanish": "frase",
+    "english": "sentence"
+  },
+  {
+    "id": 132,
+    "spanish": "gran",
+    "english": "great"
+  },
+  {
+    "id": 133,
+    "spanish": "pensar",
+    "english": "think"
+  },
+  {
+    "id": 134,
+    "spanish": "decir",
+    "english": "say"
+  },
+  {
+    "id": 135,
+    "spanish": "ayudar",
+    "english": "help"
+  },
+  {
+    "id": 136,
+    "spanish": "bajo",
+    "english": "low"
+  },
+  {
+    "id": 137,
+    "spanish": "línea",
+    "english": "line"
+  },
+  {
+    "id": 138,
+    "spanish": "ser distinto",
+    "english": "differ"
+  },
+  {
+    "id": 139,
+    "spanish": "a su vez,",
+    "english": "turn"
+  },
+  {
+    "id": 140,
+    "spanish": "causa",
+    "english": "cause"
+  },
+  {
+    "id": 141,
+    "spanish": "mucho",
+    "english": "much"
+  },
+  {
+    "id": 142,
+    "spanish": "significará",
+    "english": "mean"
+  },
+  {
+    "id": 143,
+    "spanish": "antes",
+    "english": "before"
+  },
+  {
+    "id": 144,
+    "spanish": "movimiento",
+    "english": "move"
+  },
+  {
+    "id": 145,
+    "spanish": "derecho",
+    "english": "right"
+  },
+  {
+    "id": 146,
+    "spanish": "niño",
+    "english": "boy"
+  },
+  {
+    "id": 147,
+    "spanish": "viejo",
+    "english": "old"
+  },
+  {
+    "id": 148,
+    "spanish": "demasiado",
+    "english": "too"
+  },
+  {
+    "id": 149,
+    "spanish": "misma",
+    "english": "same"
+  },
+  {
+    "id": 150,
+    "spanish": "ella",
+    "english": "she"
+  },
+  {
+    "id": 151,
+    "spanish": "todo",
+    "english": "all"
+  },
+  {
+    "id": 152,
+    "spanish": "hay",
+    "english": "there"
+  },
+  {
+    "id": 153,
+    "spanish": "cuando",
+    "english": "when"
+  },
+  {
+    "id": 154,
+    "spanish": "hasta",
+    "english": "up"
+  },
+  {
+    "id": 155,
+    "spanish": "uso",
+    "english": "use"
+  },
+  {
+    "id": 156,
+    "spanish": "su",
+    "english": "your"
+  },
+  {
+    "id": 157,
+    "spanish": "camino",
+    "english": "way"
+  },
+  {
+    "id": 158,
+    "spanish": "acerca",
+    "english": "about"
+  },
+  {
+    "id": 159,
+    "spanish": "muchos",
+    "english": "many"
+  },
+  {
+    "id": 160,
+    "spanish": "entonces",
+    "english": "then"
+  },
+  {
+    "id": 161,
+    "spanish": "ellos",
+    "english": "them"
+  },
+  {
+    "id": 162,
+    "spanish": "escribir",
+    "english": "write"
+  },
+  {
+    "id": 163,
+    "spanish": "haría",
+    "english": "would"
+  },
+  {
+    "id": 164,
+    "spanish": "como",
+    "english": "like"
+  },
+  {
+    "id": 165,
+    "spanish": "así",
+    "english": "so"
+  },
+  {
+    "id": 166,
+    "spanish": "éstos",
+    "english": "these"
+  },
+  {
+    "id": 167,
+    "spanish": "su",
+    "english": "her"
+  },
+  {
+    "id": 168,
+    "spanish": "largo",
+    "english": "long"
+  },
+  {
+    "id": 169,
+    "spanish": "hacer",
+    "english": "make"
+  },
+  {
+    "id": 170,
+    "spanish": "cosa",
+    "english": "thing"
+  },
+  {
+    "id": 171,
+    "spanish": "ver",
+    "english": "see"
+  },
+  {
+    "id": 172,
+    "spanish": "él",
+    "english": "him"
+  },
+  {
+    "id": 173,
+    "spanish": "dos",
+    "english": "two"
+  },
+  {
+    "id": 174,
+    "spanish": "tiene",
+    "english": "has"
+  },
+  {
+    "id": 175,
+    "spanish": "buscar",
+    "english": "look"
+  },
+  {
+    "id": 176,
+    "spanish": "más",
+    "english": "more"
+  },
+  {
+    "id": 177,
+    "spanish": "día",
+    "english": "day"
+  },
+  {
+    "id": 178,
+    "spanish": "podía",
+    "english": "could"
+  },
+  {
+    "id": 179,
+    "spanish": "ir",
+    "english": "go"
+  },
+  {
+    "id": 180,
+    "spanish": "venir",
+    "english": "come"
+  },
+  {
+    "id": 181,
+    "spanish": "hizo",
+    "english": "did"
+  },
+  {
+    "id": 182,
+    "spanish": "número",
+    "english": "number"
+  },
+  {
+    "id": 183,
+    "spanish": "sonar",
+    "english": "sound"
+  },
+  {
+    "id": 184,
+    "spanish": "no",
+    "english": "no"
+  },
+  {
+    "id": 185,
+    "spanish": "más",
+    "english": "most"
+  },
+  {
+    "id": 186,
+    "spanish": "personas",
+    "english": "people"
+  },
+  {
+    "id": 187,
+    "spanish": "mi",
+    "english": "my"
+  },
+  {
+    "id": 188,
+    "spanish": "sobre",
+    "english": "over"
+  },
+  {
+    "id": 189,
+    "spanish": "saber",
+    "english": "know"
+  },
+  {
+    "id": 190,
+    "spanish": "agua",
+    "english": "water"
+  },
+  {
+    "id": 191,
+    "spanish": "que",
+    "english": "than"
+  },
+  {
+    "id": 192,
+    "spanish": "llamada",
+    "english": "call"
+  },
+  {
+    "id": 193,
+    "spanish": "primero",
+    "english": "first"
+  },
+  {
+    "id": 194,
+    "spanish": "que",
+    "english": "who"
+  },
+  {
+    "id": 195,
+    "spanish": "puede",
+    "english": "may"
+  },
+  {
+    "id": 196,
+    "spanish": "abajo",
+    "english": "down"
+  },
+  {
+    "id": 197,
+    "spanish": "lado",
+    "english": "side"
+  },
+  {
+    "id": 198,
+    "spanish": "estado",
+    "english": "been"
+  },
+  {
+    "id": 199,
+    "spanish": "ahora",
+    "english": "now"
+  },
+  {
+    "id": 200,
+    "spanish": "encontrar",
+    "english": "find"
+  },
+  {
+    "id": 201,
+    "spanish": "cabeza",
+    "english": "head"
+  },
+  {
+    "id": 202,
+    "spanish": "de pie",
+    "english": "stand"
+  },
+  {
+    "id": 203,
+    "spanish": "propio",
+    "english": "own"
+  },
+  {
+    "id": 204,
+    "spanish": "página",
+    "english": "page"
+  },
+  {
+    "id": 205,
+    "spanish": "debería",
+    "english": "should"
+  },
+  {
+    "id": 206,
+    "spanish": "país",
+    "english": "country"
+  },
+  {
+    "id": 207,
+    "spanish": "encontrado",
+    "english": "found"
+  },
+  {
+    "id": 208,
+    "spanish": "respuesta",
+    "english": "answer"
+  },
+  {
+    "id": 209,
+    "spanish": "escuela",
+    "english": "school"
+  },
+  {
+    "id": 210,
+    "spanish": "crecer",
+    "english": "grow"
+  },
+  {
+    "id": 211,
+    "spanish": "estudio",
+    "english": "study"
+  },
+  {
+    "id": 212,
+    "spanish": "todavía",
+    "english": "still"
+  },
+  {
+    "id": 213,
+    "spanish": "aprender",
+    "english": "learn"
+  },
+  {
+    "id": 214,
+    "spanish": "planta",
+    "english": "plant"
+  },
+  {
+    "id": 215,
+    "spanish": "cubierta",
+    "english": "cover"
+  },
+  {
+    "id": 216,
+    "spanish": "alimentos",
+    "english": "food"
+  },
+  {
+    "id": 217,
+    "spanish": "sol",
+    "english": "sun"
+  },
+  {
+    "id": 218,
+    "spanish": "cuatro",
+    "english": "four"
+  },
+  {
+    "id": 219,
+    "spanish": "entre",
+    "english": "between"
+  },
+  {
+    "id": 220,
+    "spanish": "estado",
+    "english": "state"
+  },
+  {
+    "id": 221,
+    "spanish": "mantener",
+    "english": "keep"
+  },
+  {
+    "id": 222,
+    "spanish": "ojo",
+    "english": "eye"
+  },
+  {
+    "id": 223,
+    "spanish": "nunca",
+    "english": "never"
+  },
+  {
+    "id": 224,
+    "spanish": "último",
+    "english": "last"
+  },
+  {
+    "id": 225,
+    "spanish": "dejar",
+    "english": "let"
+  },
+  {
+    "id": 226,
+    "spanish": "pensado",
+    "english": "thought"
+  },
+  {
+    "id": 227,
+    "spanish": "ciudad",
+    "english": "city"
+  },
+  {
+    "id": 228,
+    "spanish": "árbol",
+    "english": "tree"
+  },
+  {
+    "id": 229,
+    "spanish": "cruzar",
+    "english": "cross"
+  },
+  {
+    "id": 230,
+    "spanish": "granja",
+    "english": "farm"
+  },
+  {
+    "id": 231,
+    "spanish": "duro",
+    "english": "hard"
+  },
+  {
+    "id": 232,
+    "spanish": "inicio",
+    "english": "start"
+  },
+  {
+    "id": 233,
+    "spanish": "podría",
+    "english": "might"
+  },
+  {
+    "id": 234,
+    "spanish": "historia",
+    "english": "story"
+  },
+  {
+    "id": 235,
+    "spanish": "sierra",
+    "english": "saw"
+  },
+  {
+    "id": 236,
+    "spanish": "ahora",
+    "english": "far"
+  },
+  {
+    "id": 237,
+    "spanish": "mar",
+    "english": "sea"
+  },
+  {
+    "id": 238,
+    "spanish": "dibujar",
+    "english": "draw"
+  },
+  {
+    "id": 239,
+    "spanish": "izquierda",
+    "english": "left"
+  },
+  {
+    "id": 240,
+    "spanish": "tarde",
+    "english": "late"
+  },
+  {
+    "id": 241,
+    "spanish": "ejecutar",
+    "english": "run"
+  },
+  {
+    "id": 242,
+    "spanish": "no",
+    "english": "don’t"
+  },
+  {
+    "id": 243,
+    "spanish": "mientras",
+    "english": "while"
+  },
+  {
+    "id": 244,
+    "spanish": "prensa",
+    "english": "press"
+  },
+  {
+    "id": 245,
+    "spanish": "Cerrar",
+    "english": "close"
+  },
+  {
+    "id": 246,
+    "spanish": "noche",
+    "english": "night"
+  },
+  {
+    "id": 247,
+    "spanish": "reales",
+    "english": "real"
+  },
+  {
+    "id": 248,
+    "spanish": "vida",
+    "english": "life"
+  },
+  {
+    "id": 249,
+    "spanish": "pocos",
+    "english": "few"
+  },
+  {
+    "id": 250,
+    "spanish": "norte",
+    "english": "north"
+  },
+  {
+    "id": 251,
+    "spanish": "libro",
+    "english": "book"
+  },
+  {
+    "id": 252,
+    "spanish": "llevar",
+    "english": "carry"
+  },
+  {
+    "id": 253,
+    "spanish": "tomó",
+    "english": "took"
+  },
+  {
+    "id": 254,
+    "spanish": "ciencia",
+    "english": "science"
+  },
+  {
+    "id": 255,
+    "spanish": "comer",
+    "english": "eat"
+  },
+  {
+    "id": 256,
+    "spanish": "habitación",
+    "english": "room"
+  },
+  {
+    "id": 257,
+    "spanish": "amigo",
+    "english": "friend"
+  },
+  {
+    "id": 258,
+    "spanish": "comenzó",
+    "english": "began"
+  },
+  {
+    "id": 259,
+    "spanish": "gusta",
+    "english": "idea"
+  },
+  {
+    "id": 260,
+    "spanish": "peces",
+    "english": "fish"
+  },
+  {
+    "id": 261,
+    "spanish": "montaña",
+    "english": "mountain"
+  },
+  {
+    "id": 262,
+    "spanish": "Deténgase",
+    "english": "stop"
+  },
+  {
+    "id": 263,
+    "spanish": "una vez",
+    "english": "once"
+  },
+  {
+    "id": 264,
+    "spanish": "base de",
+    "english": "base"
+  },
+  {
+    "id": 265,
+    "spanish": "escuchar",
+    "english": "hear"
+  },
+  {
+    "id": 266,
+    "spanish": "caballo",
+    "english": "horse"
+  },
+  {
+    "id": 267,
+    "spanish": "cortada",
+    "english": "cut"
+  },
+  {
+    "id": 268,
+    "spanish": "seguro",
+    "english": "sure"
+  },
+  {
+    "id": 269,
+    "spanish": "ver",
+    "english": "watch"
+  },
+  {
+    "id": 270,
+    "spanish": "colores",
+    "english": "color"
+  },
+  {
+    "id": 271,
+    "spanish": "cara",
+    "english": "face"
+  },
+  {
+    "id": 272,
+    "spanish": "madera",
+    "english": "wood"
+  },
+  {
+    "id": 273,
+    "spanish": "principal",
+    "english": "main"
+  },
+  {
+    "id": 274,
+    "spanish": "abierta",
+    "english": "open"
+  },
+  {
+    "id": 275,
+    "spanish": "parecer",
+    "english": "seem"
+  },
+  {
+    "id": 276,
+    "spanish": "juntos",
+    "english": "together"
+  },
+  {
+    "id": 277,
+    "spanish": "próximo",
+    "english": "next"
+  },
+  {
+    "id": 278,
+    "spanish": "blanco",
+    "english": "white"
+  },
+  {
+    "id": 279,
+    "spanish": "niños",
+    "english": "children"
+  },
+  {
+    "id": 280,
+    "spanish": "comenzar",
+    "english": "begin"
+  },
+  {
+    "id": 281,
+    "spanish": "conseguido",
+    "english": "got"
+  },
+  {
+    "id": 282,
+    "spanish": "caminar",
+    "english": "walk"
+  },
+  {
+    "id": 283,
+    "spanish": "ejemplo",
+    "english": "example"
+  },
+  {
+    "id": 284,
+    "spanish": "aliviar",
+    "english": "ease"
+  },
+  {
+    "id": 285,
+    "spanish": "papel",
+    "english": "paper"
+  },
+  {
+    "id": 286,
+    "spanish": "grupo",
+    "english": "group"
+  },
+  {
+    "id": 287,
+    "spanish": "siempre",
+    "english": "always"
+  },
+  {
+    "id": 288,
+    "spanish": "música",
+    "english": "music"
+  },
+  {
+    "id": 289,
+    "spanish": "los",
+    "english": "those"
+  },
+  {
+    "id": 290,
+    "spanish": "ambos",
+    "english": "both"
+  },
+  {
+    "id": 291,
+    "spanish": "marca",
+    "english": "mark"
+  },
+  {
+    "id": 292,
+    "spanish": "menudo",
+    "english": "often"
+  },
+  {
+    "id": 293,
+    "spanish": "carta",
+    "english": "letter"
+  },
+  {
+    "id": 294,
+    "spanish": "hasta",
+    "english": "until"
+  },
+  {
+    "id": 295,
+    "spanish": "milla",
+    "english": "mile"
+  },
+  {
+    "id": 296,
+    "spanish": "río",
+    "english": "river"
+  },
+  {
+    "id": 297,
+    "spanish": "coche",
+    "english": "car"
+  },
+  {
+    "id": 298,
+    "spanish": "pies",
+    "english": "feet"
+  },
+  {
+    "id": 299,
+    "spanish": "cuidado",
+    "english": "care"
+  },
+  {
+    "id": 300,
+    "spanish": "segundo",
+    "english": "second"
+  },
+  {
+    "id": 301,
+    "spanish": "suficiente",
+    "english": "enough"
+  },
+  {
+    "id": 302,
+    "spanish": "llano",
+    "english": "plain"
+  },
+  {
+    "id": 303,
+    "spanish": "chica",
+    "english": "girl"
+  },
+  {
+    "id": 304,
+    "spanish": "habitual",
+    "english": "usual"
+  },
+  {
+    "id": 305,
+    "spanish": "joven",
+    "english": "young"
+  },
+  {
+    "id": 306,
+    "spanish": "listo",
+    "english": "ready"
+  },
+  {
+    "id": 307,
+    "spanish": "por encima de",
+    "english": "above"
+  },
+  {
+    "id": 308,
+    "spanish": "nunca",
+    "english": "ever"
+  },
+  {
+    "id": 309,
+    "spanish": "rojo",
+    "english": "red"
+  },
+  {
+    "id": 310,
+    "spanish": "lista",
+    "english": "list"
+  },
+  {
+    "id": 311,
+    "spanish": "aunque",
+    "english": "though"
+  },
+  {
+    "id": 312,
+    "spanish": "sentir",
+    "english": "feel"
+  },
+  {
+    "id": 313,
+    "spanish": "charla",
+    "english": "talk"
+  },
+  {
+    "id": 314,
+    "spanish": "pájaro",
+    "english": "bird"
+  },
+  {
+    "id": 315,
+    "spanish": "pronto",
+    "english": "soon"
+  },
+  {
+    "id": 316,
+    "spanish": "cuerpo",
+    "english": "body"
+  },
+  {
+    "id": 317,
+    "spanish": "perro",
+    "english": "dog"
+  },
+  {
+    "id": 318,
+    "spanish": "familia",
+    "english": "family"
+  },
+  {
+    "id": 319,
+    "spanish": "directa",
+    "english": "direct"
+  },
+  {
+    "id": 320,
+    "spanish": "plantear",
+    "english": "pose"
+  },
+  {
+    "id": 321,
+    "spanish": "dejar",
+    "english": "leave"
+  },
+  {
+    "id": 322,
+    "spanish": "canción",
+    "english": "song"
+  },
+  {
+    "id": 323,
+    "spanish": "medir",
+    "english": "measure"
+  },
+  {
+    "id": 324,
+    "spanish": "puerta",
+    "english": "door"
+  },
+  {
+    "id": 325,
+    "spanish": "producto",
+    "english": "product"
+  },
+  {
+    "id": 326,
+    "spanish": "negro",
+    "english": "black"
+  },
+  {
+    "id": 327,
+    "spanish": "corto",
+    "english": "short"
+  },
+  {
+    "id": 328,
+    "spanish": "numeral",
+    "english": "numeral"
+  },
+  {
+    "id": 329,
+    "spanish": "clase",
+    "english": "class"
+  },
+  {
+    "id": 330,
+    "spanish": "viento",
+    "english": "wind"
+  },
+  {
+    "id": 331,
+    "spanish": "pregunta",
+    "english": "question"
+  },
+  {
+    "id": 332,
+    "spanish": "suceder",
+    "english": "happen"
+  },
+  {
+    "id": 333,
+    "spanish": "completo",
+    "english": "complete"
+  },
+  {
+    "id": 334,
+    "spanish": "buque",
+    "english": "ship"
+  },
+  {
+    "id": 335,
+    "spanish": "zona",
+    "english": "area"
+  },
+  {
+    "id": 336,
+    "spanish": "medio",
+    "english": "half"
+  },
+  {
+    "id": 337,
+    "spanish": "roca",
+    "english": "rock"
+  },
+  {
+    "id": 338,
+    "spanish": "orden",
+    "english": "order"
+  },
+  {
+    "id": 339,
+    "spanish": "fuego",
+    "english": "fire"
+  },
+  {
+    "id": 340,
+    "spanish": "sur",
+    "english": "south"
+  },
+  {
+    "id": 341,
+    "spanish": "problema",
+    "english": "problem"
+  },
+  {
+    "id": 342,
+    "spanish": "pieza",
+    "english": "piece"
+  },
+  {
+    "id": 343,
+    "spanish": "dicho",
+    "english": "told"
+  },
+  {
+    "id": 344,
+    "spanish": "sabía",
+    "english": "knew"
+  },
+  {
+    "id": 345,
+    "spanish": "pasar",
+    "english": "pass"
+  },
+  {
+    "id": 346,
+    "spanish": "desde",
+    "english": "since"
+  },
+  {
+    "id": 347,
+    "spanish": "cima",
+    "english": "top"
+  },
+  {
+    "id": 348,
+    "spanish": "todo",
+    "english": "whole"
+  },
+  {
+    "id": 349,
+    "spanish": "rey",
+    "english": "king"
+  },
+  {
+    "id": 350,
+    "spanish": "calle",
+    "english": "street"
+  },
+  {
+    "id": 351,
+    "spanish": "pulgadas",
+    "english": "inch"
+  },
+  {
+    "id": 352,
+    "spanish": "multiplicar",
+    "english": "multiply"
+  },
+  {
+    "id": 353,
+    "spanish": "nada",
+    "english": "nothing"
+  },
+  {
+    "id": 354,
+    "spanish": "curso",
+    "english": "course"
+  },
+  {
+    "id": 355,
+    "spanish": "quedarse",
+    "english": "stay"
+  },
+  {
+    "id": 356,
+    "spanish": "rueda",
+    "english": "wheel"
+  },
+  {
+    "id": 357,
+    "spanish": "completo",
+    "english": "full"
+  },
+  {
+    "id": 358,
+    "spanish": "fuerza",
+    "english": "force"
+  },
+  {
+    "id": 359,
+    "spanish": "azul",
+    "english": "blue"
+  },
+  {
+    "id": 360,
+    "spanish": "objeto",
+    "english": "object"
+  },
+  {
+    "id": 361,
+    "spanish": "decidir",
+    "english": "decide"
+  },
+  {
+    "id": 362,
+    "spanish": "superficie",
+    "english": "surface"
+  },
+  {
+    "id": 363,
+    "spanish": "profunda",
+    "english": "deep"
+  },
+  {
+    "id": 364,
+    "spanish": "luna",
+    "english": "moon"
+  },
+  {
+    "id": 365,
+    "spanish": "isla",
+    "english": "island"
+  },
+  {
+    "id": 366,
+    "spanish": "pie",
+    "english": "foot"
+  },
+  {
+    "id": 367,
+    "spanish": "sistema",
+    "english": "system"
+  },
+  {
+    "id": 368,
+    "spanish": "ocupado",
+    "english": "busy"
+  },
+  {
+    "id": 369,
+    "spanish": "prueba",
+    "english": "test"
+  },
+  {
+    "id": 370,
+    "spanish": "registro",
+    "english": "record"
+  },
+  {
+    "id": 371,
+    "spanish": "barco",
+    "english": "boat"
+  },
+  {
+    "id": 372,
+    "spanish": "común",
+    "english": "common"
+  },
+  {
+    "id": 373,
+    "spanish": "oro",
+    "english": "gold"
+  },
+  {
+    "id": 374,
+    "spanish": "posible",
+    "english": "possible"
+  },
+  {
+    "id": 375,
+    "spanish": "plano",
+    "english": "plane"
+  },
+  {
+    "id": 376,
+    "spanish": "lugar",
+    "english": "stead"
+  },
+  {
+    "id": 377,
+    "spanish": "seco",
+    "english": "dry"
+  },
+  {
+    "id": 378,
+    "spanish": "maravilla",
+    "english": "wonder"
+  },
+  {
+    "id": 379,
+    "spanish": "risa",
+    "english": "laugh"
+  },
+  {
+    "id": 380,
+    "spanish": "mil",
+    "english": "thousand"
+  },
+  {
+    "id": 381,
+    "spanish": "hace",
+    "english": "ago"
+  },
+  {
+    "id": 382,
+    "spanish": "corrió",
+    "english": "ran"
+  },
+  {
+    "id": 383,
+    "spanish": "comprobar",
+    "english": "check"
+  },
+  {
+    "id": 384,
+    "spanish": "juego",
+    "english": "game"
+  },
+  {
+    "id": 385,
+    "spanish": "forma",
+    "english": "shape"
+  },
+  {
+    "id": 386,
+    "spanish": "equiparar",
+    "english": "equate"
+  },
+  {
+    "id": 387,
+    "spanish": "caliente",
+    "english": "hot"
+  },
+  {
+    "id": 388,
+    "spanish": "señorita",
+    "english": "miss"
+  },
+  {
+    "id": 389,
+    "spanish": "traído",
+    "english": "brought"
+  },
+  {
+    "id": 390,
+    "spanish": "calor",
+    "english": "heat"
+  },
+  {
+    "id": 391,
+    "spanish": "nieve",
+    "english": "snow"
+  },
+  {
+    "id": 392,
+    "spanish": "neumáticos",
+    "english": "tire"
+  },
+  {
+    "id": 393,
+    "spanish": "traer",
+    "english": "bring"
+  },
+  {
+    "id": 394,
+    "spanish": "sí",
+    "english": "yes"
+  },
+  {
+    "id": 395,
+    "spanish": "distante",
+    "english": "distant"
+  },
+  {
+    "id": 396,
+    "spanish": "llenar",
+    "english": "fill"
+  },
+  {
+    "id": 397,
+    "spanish": "al este",
+    "english": "east"
+  },
+  {
+    "id": 398,
+    "spanish": "pintar",
+    "english": "paint"
+  },
+  {
+    "id": 399,
+    "spanish": "idioma",
+    "english": "language"
+  },
+  {
+    "id": 400,
+    "spanish": "entre",
+    "english": "among"
+  },
+  {
+    "id": 401,
+    "spanish": "unidad",
+    "english": "unit"
+  },
+  {
+    "id": 402,
+    "spanish": "potencia",
+    "english": "power"
+  },
+  {
+    "id": 403,
+    "spanish": "ciudad",
+    "english": "town"
+  },
+  {
+    "id": 404,
+    "spanish": "fina",
+    "english": "fine"
+  },
+  {
+    "id": 405,
+    "spanish": "cierto",
+    "english": "certain"
+  },
+  {
+    "id": 406,
+    "spanish": "volar",
+    "english": "fly"
+  },
+  {
+    "id": 407,
+    "spanish": "caer",
+    "english": "fall"
+  },
+  {
+    "id": 408,
+    "spanish": "conducir",
+    "english": "lead"
+  },
+  {
+    "id": 409,
+    "spanish": "grito",
+    "english": "cry"
+  },
+  {
+    "id": 410,
+    "spanish": "oscuro",
+    "english": "dark"
+  },
+  {
+    "id": 411,
+    "spanish": "máquina",
+    "english": "machine"
+  },
+  {
+    "id": 412,
+    "spanish": "nota",
+    "english": "note"
+  },
+  {
+    "id": 413,
+    "spanish": "espere",
+    "english": "wait"
+  },
+  {
+    "id": 414,
+    "spanish": "plan de",
+    "english": "plan"
+  },
+  {
+    "id": 415,
+    "spanish": "figura",
+    "english": "figure"
+  },
+  {
+    "id": 416,
+    "spanish": "estrella",
+    "english": "star"
+  },
+  {
+    "id": 417,
+    "spanish": "caja",
+    "english": "box"
+  },
+  {
+    "id": 418,
+    "spanish": "sustantivo",
+    "english": "noun"
+  },
+  {
+    "id": 419,
+    "spanish": "campo",
+    "english": "field"
+  },
+  {
+    "id": 420,
+    "spanish": "resto",
+    "english": "rest"
+  },
+  {
+    "id": 421,
+    "spanish": "correcta",
+    "english": "correct"
+  },
+  {
+    "id": 422,
+    "spanish": "capaz",
+    "english": "able"
+  },
+  {
+    "id": 423,
+    "spanish": "libra",
+    "english": "pound"
+  },
+  {
+    "id": 424,
+    "spanish": "hecho",
+    "english": "done"
+  },
+  {
+    "id": 425,
+    "spanish": "belleza",
+    "english": "beauty"
+  },
+  {
+    "id": 426,
+    "spanish": "unidad",
+    "english": "drive"
+  },
+  {
+    "id": 427,
+    "spanish": "destacado",
+    "english": "stood"
+  },
+  {
+    "id": 428,
+    "spanish": "contener",
+    "english": "contain"
+  },
+  {
+    "id": 429,
+    "spanish": "delante",
+    "english": "front"
+  },
+  {
+    "id": 430,
+    "spanish": "enseñar",
+    "english": "teach"
+  },
+  {
+    "id": 431,
+    "spanish": "semana",
+    "english": "week"
+  },
+  {
+    "id": 432,
+    "spanish": "último",
+    "english": "final"
+  },
+  {
+    "id": 433,
+    "spanish": "dio",
+    "english": "gave"
+  },
+  {
+    "id": 434,
+    "spanish": "verde",
+    "english": "green"
+  },
+  {
+    "id": 435,
+    "spanish": "oh",
+    "english": "oh"
+  },
+  {
+    "id": 436,
+    "spanish": "rápido",
+    "english": "quick"
+  },
+  {
+    "id": 437,
+    "spanish": "desarrollar",
+    "english": "develop"
+  },
+  {
+    "id": 438,
+    "spanish": "océano",
+    "english": "ocean"
+  },
+  {
+    "id": 439,
+    "spanish": "caliente",
+    "english": "warm"
+  },
+  {
+    "id": 440,
+    "spanish": "libre",
+    "english": "free"
+  },
+  {
+    "id": 441,
+    "spanish": "minuto",
+    "english": "minute"
+  },
+  {
+    "id": 442,
+    "spanish": "fuerte",
+    "english": "strong"
+  },
+  {
+    "id": 443,
+    "spanish": "especial",
+    "english": "special"
+  },
+  {
+    "id": 444,
+    "spanish": "mente",
+    "english": "mind"
+  },
+  {
+    "id": 445,
+    "spanish": "detrás",
+    "english": "behind"
+  },
+  {
+    "id": 446,
+    "spanish": "claro",
+    "english": "clear"
+  },
+  {
+    "id": 447,
+    "spanish": "cola",
+    "english": "tail"
+  },
+  {
+    "id": 448,
+    "spanish": "Produce",
+    "english": "produce"
+  },
+  {
+    "id": 449,
+    "spanish": "hecho",
+    "english": "fact"
+  },
+  {
+    "id": 450,
+    "spanish": "espacio",
+    "english": "space"
+  },
+  {
+    "id": 451,
+    "spanish": "oído",
+    "english": "heard"
+  },
+  {
+    "id": 452,
+    "spanish": "mejor",
+    "english": "best"
+  },
+  {
+    "id": 453,
+    "spanish": "horas",
+    "english": "hour"
+  },
+  {
+    "id": 454,
+    "spanish": "mejor",
+    "english": "better"
+  },
+  {
+    "id": 455,
+    "spanish": "verdadero",
+    "english": "true"
+  },
+  {
+    "id": 456,
+    "spanish": "durante",
+    "english": "during"
+  },
+  {
+    "id": 457,
+    "spanish": "cien",
+    "english": "hundred"
+  },
+  {
+    "id": 458,
+    "spanish": "cinco",
+    "english": "five"
+  },
+  {
+    "id": 459,
+    "spanish": "recordar",
+    "english": "remember"
+  },
+  {
+    "id": 460,
+    "spanish": "paso",
+    "english": "step"
+  },
+  {
+    "id": 461,
+    "spanish": "temprana",
+    "english": "early"
+  },
+  {
+    "id": 462,
+    "spanish": "mantenga",
+    "english": "hold"
+  },
+  {
+    "id": 463,
+    "spanish": "oeste",
+    "english": "west"
+  },
+  {
+    "id": 464,
+    "spanish": "suelo",
+    "english": "ground"
+  },
+  {
+    "id": 465,
+    "spanish": "interés",
+    "english": "interest"
+  },
+  {
+    "id": 466,
+    "spanish": "llegar",
+    "english": "reach"
+  },
+  {
+    "id": 467,
+    "spanish": "rápido",
+    "english": "fast"
+  },
+  {
+    "id": 468,
+    "spanish": "verbo",
+    "english": "verb"
+  },
+  {
+    "id": 469,
+    "spanish": "cantar",
+    "english": "sing"
+  },
+  {
+    "id": 470,
+    "spanish": "escuchar",
+    "english": "listen"
+  },
+  {
+    "id": 471,
+    "spanish": "seis",
+    "english": "six"
+  },
+  {
+    "id": 472,
+    "spanish": "mesa",
+    "english": "table"
+  },
+  {
+    "id": 473,
+    "spanish": "viajes",
+    "english": "travel"
+  },
+  {
+    "id": 474,
+    "spanish": "menos",
+    "english": "less"
+  },
+  {
+    "id": 475,
+    "spanish": "mañana",
+    "english": "morning"
+  },
+  {
+    "id": 476,
+    "spanish": "diez",
+    "english": "ten"
+  },
+  {
+    "id": 477,
+    "spanish": "sencilla",
+    "english": "simple"
+  },
+  {
+    "id": 478,
+    "spanish": "varios",
+    "english": "several"
+  },
+  {
+    "id": 479,
+    "spanish": "vocal",
+    "english": "vowel"
+  },
+  {
+    "id": 480,
+    "spanish": "hacia",
+    "english": "toward"
+  },
+  {
+    "id": 481,
+    "spanish": "guerra",
+    "english": "war"
+  },
+  {
+    "id": 482,
+    "spanish": "sentar",
+    "english": "lay"
+  },
+  {
+    "id": 483,
+    "spanish": "contra",
+    "english": "against"
+  },
+  {
+    "id": 484,
+    "spanish": "patrón",
+    "english": "pattern"
+  },
+  {
+    "id": 485,
+    "spanish": "lenta",
+    "english": "slow"
+  },
+  {
+    "id": 486,
+    "spanish": "centro",
+    "english": "center"
+  },
+  {
+    "id": 487,
+    "spanish": "amar",
+    "english": "love"
+  },
+  {
+    "id": 488,
+    "spanish": "persona",
+    "english": "person"
+  },
+  {
+    "id": 489,
+    "spanish": "dinero",
+    "english": "money"
+  },
+  {
+    "id": 490,
+    "spanish": "servir",
+    "english": "serve"
+  },
+  {
+    "id": 491,
+    "spanish": "aparecerá",
+    "english": "appear"
+  },
+  {
+    "id": 492,
+    "spanish": "carretera",
+    "english": "road"
+  },
+  {
+    "id": 493,
+    "spanish": "mapa",
+    "english": "map"
+  },
+  {
+    "id": 494,
+    "spanish": "lluvia",
+    "english": "rain"
+  },
+  {
+    "id": 495,
+    "spanish": "regla",
+    "english": "rule"
+  },
+  {
+    "id": 496,
+    "spanish": "gobernar",
+    "english": "govern"
+  },
+  {
+    "id": 497,
+    "spanish": "Halar",
+    "english": "pull"
+  },
+  {
+    "id": 498,
+    "spanish": "frío",
+    "english": "cold"
+  },
+  {
+    "id": 499,
+    "spanish": "aviso",
+    "english": "notice"
+  },
+  {
+    "id": 500,
+    "spanish": "voz",
+    "english": "voice"
+  },
+  {
+    "id": 501,
+    "spanish": "energía",
+    "english": "energy"
+  },
+  {
+    "id": 502,
+    "spanish": "caza",
+    "english": "hunt"
+  },
+  {
+    "id": 503,
+    "spanish": "probable",
+    "english": "probable"
+  },
+  {
+    "id": 504,
+    "spanish": "cama",
+    "english": "bed"
+  },
+  {
+    "id": 505,
+    "spanish": "hermano",
+    "english": "brother"
+  },
+  {
+    "id": 506,
+    "spanish": "huevo",
+    "english": "egg"
+  },
+  {
+    "id": 507,
+    "spanish": "paseo",
+    "english": "ride"
+  },
+  {
+    "id": 508,
+    "spanish": "celular",
+    "english": "cell"
+  },
+  {
+    "id": 509,
+    "spanish": "creer",
+    "english": "believe"
+  },
+  {
+    "id": 510,
+    "spanish": "quizás",
+    "english": "perhaps"
+  },
+  {
+    "id": 511,
+    "spanish": "recoger",
+    "english": "pick"
+  },
+  {
+    "id": 512,
+    "spanish": "repentina",
+    "english": "sudden"
+  },
+  {
+    "id": 513,
+    "spanish": "contar",
+    "english": "count"
+  },
+  {
+    "id": 514,
+    "spanish": "plaza",
+    "english": "square"
+  },
+  {
+    "id": 515,
+    "spanish": "razón",
+    "english": "reason"
+  },
+  {
+    "id": 516,
+    "spanish": "longitud",
+    "english": "length"
+  },
+  {
+    "id": 517,
+    "spanish": "representar",
+    "english": "represent"
+  },
+  {
+    "id": 518,
+    "spanish": "arte",
+    "english": "art"
+  },
+  {
+    "id": 519,
+    "spanish": "sujeto",
+    "english": "subject"
+  },
+  {
+    "id": 520,
+    "spanish": "región",
+    "english": "region"
+  },
+  {
+    "id": 521,
+    "spanish": "tamaño",
+    "english": "size"
+  },
+  {
+    "id": 522,
+    "spanish": "variar",
+    "english": "vary"
+  },
+  {
+    "id": 523,
+    "spanish": "resolver",
+    "english": "settle"
+  },
+  {
+    "id": 524,
+    "spanish": "hablar",
+    "english": "speak"
+  },
+  {
+    "id": 525,
+    "spanish": "peso",
+    "english": "weight"
+  },
+  {
+    "id": 526,
+    "spanish": "general",
+    "english": "general"
+  },
+  {
+    "id": 527,
+    "spanish": "hielo",
+    "english": "ice"
+  },
+  {
+    "id": 528,
+    "spanish": "materia",
+    "english": "matter"
+  },
+  {
+    "id": 529,
+    "spanish": "círculo",
+    "english": "circle"
+  },
+  {
+    "id": 530,
+    "spanish": "par",
+    "english": "pair"
+  },
+  {
+    "id": 531,
+    "spanish": "incluir",
+    "english": "include"
+  },
+  {
+    "id": 532,
+    "spanish": "brecha",
+    "english": "divide"
+  },
+  {
+    "id": 533,
+    "spanish": "sílaba",
+    "english": "syllable"
+  },
+  {
+    "id": 534,
+    "spanish": "sentido",
+    "english": "felt"
+  },
+  {
+    "id": 535,
+    "spanish": "gran",
+    "english": "grand"
+  },
+  {
+    "id": 536,
+    "spanish": "bola",
+    "english": "ball"
+  },
+  {
+    "id": 537,
+    "spanish": "aún",
+    "english": "yet"
+  },
+  {
+    "id": 538,
+    "spanish": "ola",
+    "english": "wave"
+  },
+  {
+    "id": 539,
+    "spanish": "caer",
+    "english": "drop"
+  },
+  {
+    "id": 540,
+    "spanish": "corazón",
+    "english": "heart"
+  },
+  {
+    "id": 541,
+    "spanish": "am",
+    "english": "am"
+  },
+  {
+    "id": 542,
+    "spanish": "presente",
+    "english": "present"
+  },
+  {
+    "id": 543,
+    "spanish": "pesada",
+    "english": "heavy"
+  },
+  {
+    "id": 544,
+    "spanish": "danza",
+    "english": "dance"
+  },
+  {
+    "id": 545,
+    "spanish": "motor",
+    "english": "engine"
+  },
+  {
+    "id": 546,
+    "spanish": "posición",
+    "english": "position"
+  },
+  {
+    "id": 547,
+    "spanish": "brazo",
+    "english": "arm"
+  },
+  {
+    "id": 548,
+    "spanish": "amplio",
+    "english": "wide"
+  },
+  {
+    "id": 549,
+    "spanish": "vela",
+    "english": "sail"
+  },
+  {
+    "id": 550,
+    "spanish": "materiales",
+    "english": "material"
+  },
+  {
+    "id": 551,
+    "spanish": "fracción",
+    "english": "fraction"
+  },
+  {
+    "id": 552,
+    "spanish": "bosque",
+    "english": "forest"
+  },
+  {
+    "id": 553,
+    "spanish": "sentarse",
+    "english": "sit"
+  },
+  {
+    "id": 554,
+    "spanish": "carrera",
+    "english": "race"
+  },
+  {
+    "id": 555,
+    "spanish": "ventana",
+    "english": "window"
+  },
+  {
+    "id": 556,
+    "spanish": "tienda",
+    "english": "store"
+  },
+  {
+    "id": 557,
+    "spanish": "verano",
+    "english": "summer"
+  },
+  {
+    "id": 558,
+    "spanish": "tren",
+    "english": "train"
+  },
+  {
+    "id": 559,
+    "spanish": "sueño",
+    "english": "sleep"
+  },
+  {
+    "id": 560,
+    "spanish": "demostrar",
+    "english": "prove"
+  },
+  {
+    "id": 561,
+    "spanish": "solitario",
+    "english": "lone"
+  },
+  {
+    "id": 562,
+    "spanish": "pierna",
+    "english": "leg"
+  },
+  {
+    "id": 563,
+    "spanish": "ejercicio",
+    "english": "exercise"
+  },
+  {
+    "id": 564,
+    "spanish": "pared",
+    "english": "wall"
+  },
+  {
+    "id": 565,
+    "spanish": "capturas",
+    "english": "catch"
+  },
+  {
+    "id": 566,
+    "spanish": "monte",
+    "english": "mount"
+  },
+  {
+    "id": 567,
+    "spanish": "desear",
+    "english": "wish"
+  },
+  {
+    "id": 568,
+    "spanish": "cielo",
+    "english": "sky"
+  },
+  {
+    "id": 569,
+    "spanish": "bordo",
+    "english": "board"
+  },
+  {
+    "id": 570,
+    "spanish": "alegría",
+    "english": "joy"
+  },
+  {
+    "id": 571,
+    "spanish": "invierno",
+    "english": "winter"
+  },
+  {
+    "id": 572,
+    "spanish": "satélite",
+    "english": "sat"
+  },
+  {
+    "id": 573,
+    "spanish": "escrito",
+    "english": "written"
+  },
+  {
+    "id": 574,
+    "spanish": "salvaje",
+    "english": "wild"
+  },
+  {
+    "id": 575,
+    "spanish": "instrumento",
+    "english": "instrument"
+  },
+  {
+    "id": 576,
+    "spanish": "guardado",
+    "english": "kept"
+  },
+  {
+    "id": 577,
+    "spanish": "vidrio",
+    "english": "glass"
+  },
+  {
+    "id": 578,
+    "spanish": "hierba",
+    "english": "grass"
+  },
+  {
+    "id": 579,
+    "spanish": "vaca",
+    "english": "cow"
+  },
+  {
+    "id": 580,
+    "spanish": "trabajo",
+    "english": "job"
+  },
+  {
+    "id": 581,
+    "spanish": "borde",
+    "english": "edge"
+  },
+  {
+    "id": 582,
+    "spanish": "signo",
+    "english": "sign"
+  },
+  {
+    "id": 583,
+    "spanish": "visita",
+    "english": "visit"
+  },
+  {
+    "id": 584,
+    "spanish": "pasado",
+    "english": "past"
+  },
+  {
+    "id": 585,
+    "spanish": "suave",
+    "english": "soft"
+  },
+  {
+    "id": 586,
+    "spanish": "diversión",
+    "english": "fun"
+  },
+  {
+    "id": 587,
+    "spanish": "brillante",
+    "english": "bright"
+  },
+  {
+    "id": 588,
+    "spanish": "gas",
+    "english": "gas"
+  },
+  {
+    "id": 589,
+    "spanish": "tiempo",
+    "english": "weather"
+  },
+  {
+    "id": 590,
+    "spanish": "mes",
+    "english": "month"
+  },
+  {
+    "id": 591,
+    "spanish": "millones",
+    "english": "million"
+  },
+  {
+    "id": 592,
+    "spanish": "soportar",
+    "english": "bear"
+  },
+  {
+    "id": 593,
+    "spanish": "acabado",
+    "english": "finish"
+  },
+  {
+    "id": 594,
+    "spanish": "feliz",
+    "english": "happy"
+  },
+  {
+    "id": 595,
+    "spanish": "esperanza",
+    "english": "hope"
+  },
+  {
+    "id": 596,
+    "spanish": "flor",
+    "english": "flower"
+  },
+  {
+    "id": 597,
+    "spanish": "vestir",
+    "english": "clothe"
+  },
+  {
+    "id": 598,
+    "spanish": "extraño",
+    "english": "strange"
+  },
+  {
+    "id": 599,
+    "spanish": "se ha ido",
+    "english": "gone"
+  },
+  {
+    "id": 600,
+    "spanish": "comercio",
+    "english": "trade"
+  },
+  {
+    "id": 601,
+    "spanish": "melodía",
+    "english": "melody"
+  },
+  {
+    "id": 602,
+    "spanish": "viaje",
+    "english": "trip"
+  },
+  {
+    "id": 603,
+    "spanish": "oficina",
+    "english": "office"
+  },
+  {
+    "id": 604,
+    "spanish": "recibir",
+    "english": "receive"
+  },
+  {
+    "id": 605,
+    "spanish": "fila",
+    "english": "row"
+  },
+  {
+    "id": 606,
+    "spanish": "boca",
+    "english": "mouth"
+  },
+  {
+    "id": 607,
+    "spanish": "exacta",
+    "english": "exact"
+  },
+  {
+    "id": 608,
+    "spanish": "símbolo",
+    "english": "symbol"
+  },
+  {
+    "id": 609,
+    "spanish": "morir",
+    "english": "die"
+  },
+  {
+    "id": 610,
+    "spanish": "menos",
+    "english": "least"
+  },
+  {
+    "id": 611,
+    "spanish": "problema",
+    "english": "trouble"
+  },
+  {
+    "id": 612,
+    "spanish": "grito",
+    "english": "shout"
+  },
+  {
+    "id": 613,
+    "spanish": "excepto",
+    "english": "except"
+  },
+  {
+    "id": 614,
+    "spanish": "escribió",
+    "english": "wrote"
+  },
+  {
+    "id": 615,
+    "spanish": "semilla",
+    "english": "seed"
+  },
+  {
+    "id": 616,
+    "spanish": "tono",
+    "english": "tone"
+  },
+  {
+    "id": 617,
+    "spanish": "unirse",
+    "english": "join"
+  },
+  {
+    "id": 618,
+    "spanish": "sugerir",
+    "english": "suggest"
+  },
+  {
+    "id": 619,
+    "spanish": "limpia",
+    "english": "clean"
+  },
+  {
+    "id": 620,
+    "spanish": "rotura",
+    "english": "break"
+  },
+  {
+    "id": 621,
+    "spanish": "dama",
+    "english": "lady"
+  },
+  {
+    "id": 622,
+    "spanish": "patio",
+    "english": "yard"
+  },
+  {
+    "id": 623,
+    "spanish": "aumentando",
+    "english": "rise"
+  },
+  {
+    "id": 624,
+    "spanish": "mal",
+    "english": "bad"
+  },
+  {
+    "id": 625,
+    "spanish": "golpe",
+    "english": "blow"
+  },
+  {
+    "id": 626,
+    "spanish": "aceite",
+    "english": "oil"
+  },
+  {
+    "id": 627,
+    "spanish": "sangre",
+    "english": "blood"
+  },
+  {
+    "id": 628,
+    "spanish": "tocar",
+    "english": "touch"
+  },
+  {
+    "id": 629,
+    "spanish": "creció",
+    "english": "grew"
+  },
+  {
+    "id": 630,
+    "spanish": "ciento",
+    "english": "cent"
+  },
+  {
+    "id": 631,
+    "spanish": "mezclar",
+    "english": "mix"
+  },
+  {
+    "id": 632,
+    "spanish": "equipo",
+    "english": "team"
+  },
+  {
+    "id": 633,
+    "spanish": "alambre",
+    "english": "wire"
+  },
+  {
+    "id": 634,
+    "spanish": "costo",
+    "english": "cost"
+  },
+  {
+    "id": 635,
+    "spanish": "perdido",
+    "english": "lost"
+  },
+  {
+    "id": 636,
+    "spanish": "marrón",
+    "english": "brown"
+  },
+  {
+    "id": 637,
+    "spanish": "desgaste",
+    "english": "wear"
+  },
+  {
+    "id": 638,
+    "spanish": "jardín",
+    "english": "garden"
+  },
+  {
+    "id": 639,
+    "spanish": "igual",
+    "english": "equal"
+  },
+  {
+    "id": 640,
+    "spanish": "enviado",
+    "english": "sent"
+  },
+  {
+    "id": 641,
+    "spanish": "elegir",
+    "english": "choose"
+  },
+  {
+    "id": 642,
+    "spanish": "cayó",
+    "english": "fell"
+  },
+  {
+    "id": 643,
+    "spanish": "encajar",
+    "english": "fit"
+  },
+  {
+    "id": 644,
+    "spanish": "fluir",
+    "english": "flow"
+  },
+  {
+    "id": 645,
+    "spanish": "justo",
+    "english": "fair"
+  },
+  {
+    "id": 646,
+    "spanish": "banco",
+    "english": "bank"
+  },
+  {
+    "id": 647,
+    "spanish": "recoger",
+    "english": "collect"
+  },
+  {
+    "id": 648,
+    "spanish": "guardar",
+    "english": "save"
+  },
+  {
+    "id": 649,
+    "spanish": "el control",
+    "english": "control"
+  },
+  {
+    "id": 650,
+    "spanish": "decimal",
+    "english": "decimal"
+  },
+  {
+    "id": 651,
+    "spanish": "oído",
+    "english": "ear"
+  },
+  {
+    "id": 652,
+    "spanish": "demás",
+    "english": "else"
+  },
+  {
+    "id": 653,
+    "spanish": "bastante",
+    "english": "quite"
+  },
+  {
+    "id": 654,
+    "spanish": "rompió",
+    "english": "broke"
+  },
+  {
+    "id": 655,
+    "spanish": "caso",
+    "english": "case"
+  },
+  {
+    "id": 656,
+    "spanish": "medio",
+    "english": "middle"
+  },
+  {
+    "id": 657,
+    "spanish": "matar",
+    "english": "kill"
+  },
+  {
+    "id": 658,
+    "spanish": "hijo",
+    "english": "son"
+  },
+  {
+    "id": 659,
+    "spanish": "lago",
+    "english": "lake"
+  },
+  {
+    "id": 660,
+    "spanish": "momento",
+    "english": "moment"
+  },
+  {
+    "id": 661,
+    "spanish": "escala",
+    "english": "scale"
+  },
+  {
+    "id": 662,
+    "spanish": "fuerte",
+    "english": "loud"
+  },
+  {
+    "id": 663,
+    "spanish": "primavera",
+    "english": "spring"
+  },
+  {
+    "id": 664,
+    "spanish": "observar",
+    "english": "observe"
+  },
+  {
+    "id": 665,
+    "spanish": "niño",
+    "english": "child"
+  },
+  {
+    "id": 666,
+    "spanish": "recta",
+    "english": "straight"
+  },
+  {
+    "id": 667,
+    "spanish": "consonante",
+    "english": "consonant"
+  },
+  {
+    "id": 668,
+    "spanish": "nación",
+    "english": "nation"
+  },
+  {
+    "id": 669,
+    "spanish": "diccionario",
+    "english": "dictionary"
+  },
+  {
+    "id": 670,
+    "spanish": "leche",
+    "english": "milk"
+  },
+  {
+    "id": 671,
+    "spanish": "velocidad",
+    "english": "speed"
+  },
+  {
+    "id": 672,
+    "spanish": "método",
+    "english": "method"
+  },
+  {
+    "id": 673,
+    "spanish": "órgano",
+    "english": "organ"
+  },
+  {
+    "id": 674,
+    "spanish": "pagar",
+    "english": "pay"
+  },
+  {
+    "id": 675,
+    "spanish": "edad",
+    "english": "age"
+  },
+  {
+    "id": 676,
+    "spanish": "sección",
+    "english": "section"
+  },
+  {
+    "id": 677,
+    "spanish": "vestido",
+    "english": "dress"
+  },
+  {
+    "id": 678,
+    "spanish": "nube",
+    "english": "cloud"
+  },
+  {
+    "id": 679,
+    "spanish": "sorpresa",
+    "english": "surprise"
+  },
+  {
+    "id": 680,
+    "spanish": "tranquila",
+    "english": "quiet"
+  },
+  {
+    "id": 681,
+    "spanish": "piedra",
+    "english": "stone"
+  },
+  {
+    "id": 682,
+    "spanish": "pequeña",
+    "english": "tiny"
+  },
+  {
+    "id": 683,
+    "spanish": "ascenso",
+    "english": "climb"
+  },
+  {
+    "id": 684,
+    "spanish": "frío",
+    "english": "cool"
+  },
+  {
+    "id": 685,
+    "spanish": "diseñar",
+    "english": "design"
+  },
+  {
+    "id": 686,
+    "spanish": "pobre",
+    "english": "poor"
+  },
+  {
+    "id": 687,
+    "spanish": "tarjeta",
+    "english": "lot"
+  },
+  {
+    "id": 688,
+    "spanish": "prueba",
+    "english": "test"
+  },
+  {
+    "id": 689,
+    "spanish": "esperar",
+    "english": "wait"
+  },
+  {
+    "id": 690,
+    "spanish": "valle",
+    "english": "fill"
+  },
+  {
+    "id": 691,
+    "spanish": "quien",
+    "english": "who"
+  },
+  {
+    "id": 692,
+    "spanish": "masa",
+    "english": "mass"
+  },
+  {
+    "id": 693,
+    "spanish": "tarjeta",
+    "english": "card"
+  },
+  {
+    "id": 694,
+    "spanish": "banda",
+    "english": "band"
+  },
+  {
+    "id": 695,
+    "spanish": "cuerda",
+    "english": "rope"
+  },
+  {
+    "id": 696,
+    "spanish": "desgastar",
+    "english": "slip"
+  },
+  {
+    "id": 697,
+    "spanish": "ganado",
+    "english": "win"
+  },
+  {
+    "id": 698,
+    "spanish": "soporte",
+    "english": "dream"
+  },
+  {
+    "id": 699,
+    "spanish": "reflejar",
+    "english": "show"
+  },
+  {
+    "id": 700,
+    "spanish": "formar",
+    "english": "shape"
+  },
+  {
+    "id": 701,
+    "spanish": "emitir",
+    "english": "heavy"
+  },
+  {
+    "id": 702,
+    "spanish": "canto",
+    "english": "sing"
+  },
+  {
+    "id": 703,
+    "spanish": "añadir",
+    "english": "add"
+  },
+  {
+    "id": 704,
+    "spanish": "capital",
+    "english": "capital"
+  },
+  {
+    "id": 705,
+    "spanish": "mínimo",
+    "english": "least"
+  },
+  {
+    "id": 706,
+    "spanish": "mano",
+    "english": "hand"
+  },
+  {
+    "id": 707,
+    "spanish": "alto",
+    "english": "stretch"
+  },
+  {
+    "id": 708,
+    "spanish": "experiencia",
+    "english": "experience"
+  },
+  {
+    "id": 709,
+    "spanish": "cruz",
+    "english": "pick"
+  },
+  {
+    "id": 710,
+    "spanish": "área",
+    "english": "area"
+  },
+  {
+    "id": 711,
+    "spanish": "roca",
+    "english": "rock"
+  },
+  {
+    "id": 712,
+    "spanish": "orden",
+    "english": "order"
+  },
+  {
+    "id": 713,
+    "spanish": "fuego",
+    "english": "fire"
+  },
+  {
+    "id": 714,
+    "spanish": "sur",
+    "english": "south"
+  },
+  {
+    "id": 715,
+    "spanish": "problema",
+    "english": "problem"
+  },
+  {
+    "id": 716,
+    "spanish": "pieza",
+    "english": "piece"
+  },
+  {
+    "id": 717,
+    "spanish": "dicho",
+    "english": "told"
+  },
+  {
+    "id": 718,
+    "spanish": "sabía",
+    "english": "knew"
+  },
+  {
+    "id": 719,
+    "spanish": "pasar",
+    "english": "pass"
+  },
+  {
+    "id": 720,
+    "spanish": "desde",
+    "english": "since"
+  },
+  {
+    "id": 721,
+    "spanish": "cima",
+    "english": "top"
+  },
+  {
+    "id": 722,
+    "spanish": "todo",
+    "english": "whole"
+  },
+  {
+    "id": 723,
+    "spanish": "rey",
+    "english": "king"
+  },
+  {
+    "id": 724,
+    "spanish": "calor",
+    "english": "heat"
+  },
+  {
+    "id": 725,
+    "spanish": "nieve",
+    "english": "snow"
+  },
+  {
+    "id": 726,
+    "spanish": "neumático",
+    "english": "tire"
+  },
+  {
+    "id": 727,
+    "spanish": "traer",
+    "english": "bring"
+  },
+  {
+    "id": 728,
+    "spanish": "símbolo",
+    "english": "symbol"
+  },
+  {
+    "id": 729,
+    "spanish": "sí",
+    "english": "yes"
+  },
+  {
+    "id": 730,
+    "spanish": "metal",
+    "english": "metal"
+  },
+  {
+    "id": 731,
+    "spanish": "pujar",
+    "english": "push"
+  },
+  {
+    "id": 732,
+    "spanish": "siete",
+    "english": "seven"
+  },
+  {
+    "id": 733,
+    "spanish": "parar",
+    "english": "paragraph"
+  },
+  {
+    "id": 734,
+    "spanish": "terrestre",
+    "english": "third"
+  },
+  {
+    "id": 735,
+    "spanish": "deber",
+    "english": "shall"
+  },
+  {
+    "id": 736,
+    "spanish": "mantener",
+    "english": "hold"
+  },
+  {
+    "id": 737,
+    "spanish": "corriente",
+    "english": "flow"
+  },
+  {
+    "id": 738,
+    "spanish": "escoger",
+    "english": "choose"
+  },
+  {
+    "id": 739,
+    "spanish": "caer",
+    "english": "fall"
+  },
+  {
+    "id": 740,
+    "spanish": "ajustar",
+    "english": "fit"
+  },
+  {
+    "id": 741,
+    "spanish": "flujo",
+    "english": "flow"
+  },
+  {
+    "id": 742,
+    "spanish": "justo",
+    "english": "fair"
+  },
+  {
+    "id": 743,
+    "spanish": "banco",
+    "english": "bank"
+  },
+  {
+    "id": 744,
+    "spanish": "recoger",
+    "english": "collect"
+  },
+  {
+    "id": 745,
+    "spanish": "guardar",
+    "english": "save"
+  },
+  {
+    "id": 746,
+    "spanish": "control",
+    "english": "control"
+  },
+  {
+    "id": 747,
+    "spanish": "decimal",
+    "english": "decimal"
+  },
+  {
+    "id": 748,
+    "spanish": "oído",
+    "english": "ear"
+  },
+  {
+    "id": 749,
+    "spanish": "demás",
+    "english": "else"
+  },
+  {
+    "id": 750,
+    "spanish": "bastante",
+    "english": "quite"
+  },
+  {
+    "id": 751,
+    "spanish": "romper",
+    "english": "broke"
+  },
+  {
+    "id": 752,
+    "spanish": "caso",
+    "english": "case"
+  },
+  {
+    "id": 753,
+    "spanish": "medio",
+    "english": "middle"
+  },
+  {
+    "id": 754,
+    "spanish": "matar",
+    "english": "kill"
+  },
+  {
+    "id": 755,
+    "spanish": "hijo",
+    "english": "son"
+  },
+  {
+    "id": 756,
+    "spanish": "lago",
+    "english": "lake"
+  },
+  {
+    "id": 757,
+    "spanish": "momento",
+    "english": "moment"
+  },
+  {
+    "id": 758,
+    "spanish": "escala",
+    "english": "scale"
+  },
+  {
+    "id": 759,
+    "spanish": "fuerte",
+    "english": "loud"
+  },
+  {
+    "id": 760,
+    "spanish": "primavera",
+    "english": "spring"
+  },
+  {
+    "id": 761,
+    "spanish": "observar",
+    "english": "observe"
+  },
+  {
+    "id": 762,
+    "spanish": "niño",
+    "english": "child"
+  },
+  {
+    "id": 763,
+    "spanish": "recta",
+    "english": "straight"
+  },
+  {
+    "id": 764,
+    "spanish": "consonante",
+    "english": "consonant"
+  },
+  {
+    "id": 765,
+    "spanish": "nación",
+    "english": "nation"
+  },
+  {
+    "id": 766,
+    "spanish": "diccionario",
+    "english": "dictionary"
+  },
+  {
+    "id": 767,
+    "spanish": "leche",
+    "english": "milk"
+  },
+  {
+    "id": 768,
+    "spanish": "velocidad",
+    "english": "speed"
+  },
+  {
+    "id": 769,
+    "spanish": "método",
+    "english": "method"
+  },
+  {
+    "id": 770,
+    "spanish": "órgano",
+    "english": "organ"
+  },
+  {
+    "id": 771,
+    "spanish": "pagar",
+    "english": "pay"
+  },
+  {
+    "id": 772,
+    "spanish": "edad",
+    "english": "age"
+  },
+  {
+    "id": 773,
+    "spanish": "sección",
+    "english": "section"
+  },
+  {
+    "id": 774,
+    "spanish": "vestido",
+    "english": "dress"
+  },
+  {
+    "id": 775,
+    "spanish": "nube",
+    "english": "cloud"
+  },
+  {
+    "id": 776,
+    "spanish": "sorpresa",
+    "english": "surprise"
+  },
+  {
+    "id": 777,
+    "spanish": "tranquilo",
+    "english": "quiet"
+  },
+  {
+    "id": 778,
+    "spanish": "piedra",
+    "english": "stone"
+  },
+  {
+    "id": 779,
+    "spanish": "pequeña",
+    "english": "tiny"
+  },
+  {
+    "id": 780,
+    "spanish": "ascenso",
+    "english": "climb"
+  },
+  {
+    "id": 781,
+    "spanish": "frío",
+    "english": "cool"
+  },
+  {
+    "id": 782,
+    "spanish": "diseñar",
+    "english": "design"
+  },
+  {
+    "id": 783,
+    "spanish": "pobre",
+    "english": "poor"
+  },
+  {
+    "id": 784,
+    "spanish": "tarjeta",
+    "english": "lot"
+  },
+  {
+    "id": 785,
+    "spanish": "prueba",
+    "english": "test"
+  },
+  {
+    "id": 786,
+    "spanish": "esperar",
+    "english": "wait"
+  },
+  {
+    "id": 787,
+    "spanish": "valle",
+    "english": "fill"
+  },
+  {
+    "id": 788,
+    "spanish": "quien",
+    "english": "who"
+  },
+  {
+    "id": 789,
+    "spanish": "masa",
+    "english": "mass"
+  },
+  {
+    "id": 790,
+    "spanish": "tarjeta",
+    "english": "card"
+  },
+  {
+    "id": 791,
+    "spanish": "banda",
+    "english": "band"
+  },
+  {
+    "id": 792,
+    "spanish": "cuerda",
+    "english": "rope"
+  },
+  {
+    "id": 793,
+    "spanish": "desgastar",
+    "english": "slip"
+  },
+  {
+    "id": 794,
+    "spanish": "ganado",
+    "english": "win"
+  },
+  {
+    "id": 795,
+    "spanish": "soporte",
+    "english": "dream"
+  },
+  {
+    "id": 796,
+    "spanish": "reflejar",
+    "english": "show"
+  },
+  {
+    "id": 797,
+    "spanish": "formar",
+    "english": "shape"
+  },
+  {
+    "id": 798,
+    "spanish": "emitir",
+    "english": "heavy"
+  },
+  {
+    "id": 799,
+    "spanish": "canto",
+    "english": "sing"
+  },
+  {
+    "id": 800,
+    "spanish": "añadir",
+    "english": "add"
+  },
+  {
+    "id": 801,
+    "spanish": "capital",
+    "english": "capital"
+  },
+  {
+    "id": 802,
+    "spanish": "mínimo",
+    "english": "least"
+  },
+  {
+    "id": 803,
+    "spanish": "mano",
+    "english": "hand"
+  },
+  {
+    "id": 804,
+    "spanish": "alto",
+    "english": "stretch"
+  },
+  {
+    "id": 805,
+    "spanish": "experiencia",
+    "english": "experience"
+  },
+  {
+    "id": 806,
+    "spanish": "cruz",
+    "english": "pick"
+  },
+  {
+    "id": 807,
+    "spanish": "área",
+    "english": "area"
+  },
+  {
+    "id": 808,
+    "spanish": "roca",
+    "english": "rock"
+  },
+  {
+    "id": 809,
+    "spanish": "orden",
+    "english": "order"
+  },
+  {
+    "id": 810,
+    "spanish": "fuego",
+    "english": "fire"
+  },
+  {
+    "id": 811,
+    "spanish": "sur",
+    "english": "south"
+  },
+  {
+    "id": 812,
+    "spanish": "problema",
+    "english": "problem"
+  },
+  {
+    "id": 813,
+    "spanish": "pieza",
+    "english": "piece"
+  },
+  {
+    "id": 814,
+    "spanish": "dicho",
+    "english": "told"
+  },
+  {
+    "id": 815,
+    "spanish": "sabía",
+    "english": "knew"
+  },
+  {
+    "id": 816,
+    "spanish": "pasar",
+    "english": "pass"
+  },
+  {
+    "id": 817,
+    "spanish": "desde",
+    "english": "since"
+  },
+  {
+    "id": 818,
+    "spanish": "cima",
+    "english": "top"
+  },
+  {
+    "id": 819,
+    "spanish": "todo",
+    "english": "whole"
+  },
+  {
+    "id": 820,
+    "spanish": "rey",
+    "english": "king"
+  },
+  {
+    "id": 821,
+    "spanish": "calle",
+    "english": "street"
+  },
+  {
+    "id": 822,
+    "spanish": "pulgada",
+    "english": "inch"
+  },
+  {
+    "id": 823,
+    "spanish": "multiplicar",
+    "english": "multiply"
+  },
+  {
+    "id": 824,
+    "spanish": "nada",
+    "english": "nothing"
+  },
+  {
+    "id": 825,
+    "spanish": "curso",
+    "english": "course"
+  },
+  {
+    "id": 826,
+    "spanish": "quedarse",
+    "english": "stay"
+  },
+  {
+    "id": 827,
+    "spanish": "ruido",
+    "english": "wheel"
+  },
+  {
+    "id": 828,
+    "spanish": "completo",
+    "english": "full"
+  },
+  {
+    "id": 829,
+    "spanish": "fuerza",
+    "english": "force"
+  },
+  {
+    "id": 830,
+    "spanish": "azul",
+    "english": "blue"
+  },
+  {
+    "id": 831,
+    "spanish": "objeto",
+    "english": "object"
+  },
+  {
+    "id": 832,
+    "spanish": "decidir",
+    "english": "decide"
+  },
+  {
+    "id": 833,
+    "spanish": "superficie",
+    "english": "surface"
+  },
+  {
+    "id": 834,
+    "spanish": "profundo",
+    "english": "deep"
+  },
+  {
+    "id": 835,
+    "spanish": "luna",
+    "english": "moon"
+  },
+  {
+    "id": 836,
+    "spanish": "isla",
+    "english": "island"
+  },
+  {
+    "id": 837,
+    "spanish": "pies",
+    "english": "foot"
+  },
+  {
+    "id": 838,
+    "spanish": "sistema",
+    "english": "system"
+  },
+  {
+    "id": 839,
+    "spanish": "ocupado",
+    "english": "busy"
+  },
+  {
+    "id": 840,
+    "spanish": "prueba",
+    "english": "test"
+  },
+  {
+    "id": 841,
+    "spanish": "regla",
+    "english": "record"
+  },
+  {
+    "id": 842,
+    "spanish": "barco",
+    "english": "boat"
+  },
+  {
+    "id": 843,
+    "spanish": "común",
+    "english": "common"
+  },
+  {
+    "id": 844,
+    "spanish": "oro",
+    "english": "gold"
+  },
+  {
+    "id": 845,
+    "spanish": "posible",
+    "english": "possible"
+  },
+  {
+    "id": 846,
+    "spanish": "avión",
+    "english": "plane"
+  },
+  {
+    "id": 847,
+    "spanish": "sólido",
+    "english": "stead"
+  },
+  {
+    "id": 848,
+    "spanish": "clima",
+    "english": "dry"
+  },
+  {
+    "id": 849,
+    "spanish": "mar",
+    "english": "wave"
+  },
+  {
+    "id": 850,
+    "spanish": "llevar",
+    "english": "carry"
+  },
+  {
+    "id": 851,
+    "spanish": "llevar",
+    "english": "town"
+  },
+  {
+    "id": 852,
+    "spanish": "límite",
+    "english": "rain"
+  },
+  {
+    "id": 853,
+    "spanish": "diamante",
+    "english": "pattern"
+  },
+  {
+    "id": 854,
+    "spanish": "asiento",
+    "english": "chair"
+  },
+  {
+    "id": 855,
+    "spanish": "pueblo",
+    "english": "crowd"
+  },
+  {
+    "id": 856,
+    "spanish": "semilla",
+    "english": "corn"
+  },
+  {
+    "id": 857,
+    "spanish": "comparar",
+    "english": "compare"
+  },
+  {
+    "id": 858,
+    "spanish": "suave",
+    "english": "soft"
+  },
+  {
+    "id": 859,
+    "spanish": "domingo",
+    "english": "weekend"
+  },
+  {
+    "id": 860,
+    "spanish": "verano",
+    "english": "summer"
+  },
+  {
+    "id": 861,
+    "spanish": "caminar",
+    "english": "walk"
+  },
+  {
+    "id": 862,
+    "spanish": "golpear",
+    "english": "edge"
+  },
+  {
+    "id": 863,
+    "spanish": "niña",
+    "english": "girl"
+  },
+  {
+    "id": 864,
+    "spanish": "rodar",
+    "english": "roll"
+  },
+  {
+    "id": 865,
+    "spanish": "caliente",
+    "english": "warm"
+  },
+  {
+    "id": 866,
+    "spanish": "energía",
+    "english": "energy"
+  },
+  {
+    "id": 867,
+    "spanish": "caza",
+    "english": "hunt"
+  },
+  {
+    "id": 868,
+    "spanish": "probable",
+    "english": "probable"
+  },
+  {
+    "id": 869,
+    "spanish": "cama",
+    "english": "bed"
+  },
+  {
+    "id": 870,
+    "spanish": "hermano",
+    "english": "brother"
+  },
+  {
+    "id": 871,
+    "spanish": "huevo",
+    "english": "egg"
+  },
+  {
+    "id": 872,
+    "spanish": "paseo",
+    "english": "ride"
+  },
+  {
+    "id": 873,
+    "spanish": "celular",
+    "english": "cell"
+  },
+  {
+    "id": 874,
+    "spanish": "creer",
+    "english": "believe"
+  },
+  {
+    "id": 875,
+    "spanish": "quizás",
+    "english": "perhaps"
+  },
+  {
+    "id": 876,
+    "spanish": "recoger",
+    "english": "pick"
+  },
+  {
+    "id": 877,
+    "spanish": "repentina",
+    "english": "sudden"
+  },
+  {
+    "id": 878,
+    "spanish": "contar",
+    "english": "count"
+  },
+  {
+    "id": 879,
+    "spanish": "plaza",
+    "english": "square"
+  },
+  {
+    "id": 880,
+    "spanish": "razón",
+    "english": "reason"
+  },
+  {
+    "id": 881,
+    "spanish": "longitud",
+    "english": "length"
+  },
+  {
+    "id": 882,
+    "spanish": "representar",
+    "english": "represent"
+  },
+  {
+    "id": 883,
+    "spanish": "arte",
+    "english": "art"
+  },
+  {
+    "id": 884,
+    "spanish": "sujeto",
+    "english": "subject"
+  },
+  {
+    "id": 885,
+    "spanish": "región",
+    "english": "region"
+  },
+  {
+    "id": 886,
+    "spanish": "tamaño",
+    "english": "size"
+  },
+  {
+    "id": 887,
+    "spanish": "variar",
+    "english": "vary"
+  },
+  {
+    "id": 888,
+    "spanish": "resolver",
+    "english": "settle"
+  },
+  {
+    "id": 889,
+    "spanish": "hablar",
+    "english": "speak"
+  },
+  {
+    "id": 890,
+    "spanish": "peso",
+    "english": "weight"
+  },
+  {
+    "id": 891,
+    "spanish": "general",
+    "english": "general"
+  },
+  {
+    "id": 892,
+    "spanish": "hielo",
+    "english": "ice"
+  },
+  {
+    "id": 893,
+    "spanish": "materia",
+    "english": "matter"
+  },
+  {
+    "id": 894,
+    "spanish": "círculo",
+    "english": "circle"
+  },
+  {
+    "id": 895,
+    "spanish": "par",
+    "english": "pair"
+  },
+  {
+    "id": 896,
+    "spanish": "incluir",
+    "english": "include"
+  },
+  {
+    "id": 897,
+    "spanish": "brecha",
+    "english": "divide"
+  },
+  {
+    "id": 898,
+    "spanish": "sílaba",
+    "english": "syllable"
+  },
+  {
+    "id": 899,
+    "spanish": "sentido",
+    "english": "felt"
+  },
+  {
+    "id": 900,
+    "spanish": "gran",
+    "english": "grand"
+  },
+  {
+    "id": 901,
+    "spanish": "bola",
+    "english": "ball"
+  },
+  {
+    "id": 902,
+    "spanish": "aún",
+    "english": "yet"
+  },
+  {
+    "id": 903,
+    "spanish": "ola",
+    "english": "wave"
+  },
+  {
+    "id": 904,
+    "spanish": "caer",
+    "english": "drop"
+  },
+  {
+    "id": 905,
+    "spanish": "corazón",
+    "english": "heart"
+  },
+  {
+    "id": 906,
+    "spanish": "am",
+    "english": "am"
+  },
+  {
+    "id": 907,
+    "spanish": "presente",
+    "english": "present"
+  },
+  {
+    "id": 908,
+    "spanish": "pesada",
+    "english": "heavy"
+  },
+  {
+    "id": 909,
+    "spanish": "danza",
+    "english": "dance"
+  },
+  {
+    "id": 910,
+    "spanish": "motor",
+    "english": "engine"
+  },
+  {
+    "id": 911,
+    "spanish": "posición",
+    "english": "position"
+  },
+  {
+    "id": 912,
+    "spanish": "brazo",
+    "english": "arm"
+  },
+  {
+    "id": 913,
+    "spanish": "amplio",
+    "english": "wide"
+  },
+  {
+    "id": 914,
+    "spanish": "vela",
+    "english": "sail"
+  },
+  {
+    "id": 915,
+    "spanish": "materiales",
+    "english": "material"
+  },
+  {
+    "id": 916,
+    "spanish": "fracción",
+    "english": "fraction"
+  },
+  {
+    "id": 917,
+    "spanish": "bosque",
+    "english": "forest"
+  },
+  {
+    "id": 918,
+    "spanish": "sentarse",
+    "english": "sit"
+  },
+  {
+    "id": 919,
+    "spanish": "carrera",
+    "english": "race"
+  },
+  {
+    "id": 920,
+    "spanish": "ventana",
+    "english": "window"
+  },
+  {
+    "id": 921,
+    "spanish": "tienda",
+    "english": "store"
+  },
+  {
+    "id": 922,
+    "spanish": "verano",
+    "english": "summer"
+  },
+  {
+    "id": 923,
+    "spanish": "tren",
+    "english": "train"
+  },
+  {
+    "id": 924,
+    "spanish": "sueño",
+    "english": "sleep"
+  },
+  {
+    "id": 925,
+    "spanish": "demostrar",
+    "english": "prove"
+  },
+  {
+    "id": 926,
+    "spanish": "solitario",
+    "english": "lone"
+  },
+  {
+    "id": 927,
+    "spanish": "pierna",
+    "english": "leg"
+  },
+  {
+    "id": 928,
+    "spanish": "ejercicio",
+    "english": "exercise"
+  },
+  {
+    "id": 929,
+    "spanish": "pared",
+    "english": "wall"
+  },
+  {
+    "id": 930,
+    "spanish": "capturas",
+    "english": "catch"
+  },
+  {
+    "id": 931,
+    "spanish": "monte",
+    "english": "mount"
+  },
+  {
+    "id": 932,
+    "spanish": "desear",
+    "english": "wish"
+  },
+  {
+    "id": 933,
+    "spanish": "cielo",
+    "english": "sky"
+  },
+  {
+    "id": 934,
+    "spanish": "borde",
+    "english": "board"
+  },
+  {
+    "id": 935,
+    "spanish": "alegría",
+    "english": "joy"
+  },
+  {
+    "id": 936,
+    "spanish": "invierno",
+    "english": "winter"
+  },
+  {
+    "id": 937,
+    "spanish": "satélite",
+    "english": "sat"
+  },
+  {
+    "id": 938,
+    "spanish": "escrito",
+    "english": "written"
+  },
+  {
+    "id": 939,
+    "spanish": "salvaje",
+    "english": "wild"
+  },
+  {
+    "id": 940,
+    "spanish": "instrumento",
+    "english": "instrument"
+  },
+  {
+    "id": 941,
+    "spanish": "guardado",
+    "english": "kept"
+  },
+  {
+    "id": 942,
+    "spanish": "vidrio",
+    "english": "glass"
+  },
+  {
+    "id": 943,
+    "spanish": "hierba",
+    "english": "grass"
+  },
+  {
+    "id": 944,
+    "spanish": "vaca",
+    "english": "cow"
+  },
+  {
+    "id": 945,
+    "spanish": "trabajo",
+    "english": "job"
+  },
+  {
+    "id": 946,
+    "spanish": "borde",
+    "english": "edge"
+  },
+  {
+    "id": 947,
+    "spanish": "signo",
+    "english": "sign"
+  },
+  {
+    "id": 948,
+    "spanish": "visita",
+    "english": "visit"
+  },
+  {
+    "id": 949,
+    "spanish": "pasado",
+    "english": "past"
+  },
+  {
+    "id": 950,
+    "spanish": "suave",
+    "english": "soft"
+  },
+  {
+    "id": 951,
+    "spanish": "diversión",
+    "english": "fun"
+  },
+  {
+    "id": 952,
+    "spanish": "brillante",
+    "english": "bright"
+  },
+  {
+    "id": 953,
+    "spanish": "gas",
+    "english": "gas"
+  },
+  {
+    "id": 954,
+    "spanish": "tiempo",
+    "english": "weather"
+  },
+  {
+    "id": 955,
+    "spanish": "mes",
+    "english": "month"
+  },
+  {
+    "id": 956,
+    "spanish": "millones",
+    "english": "million"
+  },
+  {
+    "id": 957,
+    "spanish": "soportar",
+    "english": "bear"
+  },
+  {
+    "id": 958,
+    "spanish": "acabado",
+    "english": "finish"
+  },
+  {
+    "id": 959,
+    "spanish": "feliz",
+    "english": "happy"
+  },
+  {
+    "id": 960,
+    "spanish": "esperanza",
+    "english": "hope"
+  },
+  {
+    "id": 961,
+    "spanish": "flor",
+    "english": "flower"
+  },
+  {
+    "id": 962,
+    "spanish": "vestir",
+    "english": "clothe"
+  },
+  {
+    "id": 963,
+    "spanish": "extraño",
+    "english": "strange"
+  },
+  {
+    "id": 964,
+    "spanish": "se ha ido",
+    "english": "gone"
+  },
+  {
+    "id": 965,
+    "spanish": "comercio",
+    "english": "trade"
+  },
+  {
+    "id": 966,
+    "spanish": "melodía",
+    "english": "melody"
+  },
+  {
+    "id": 967,
+    "spanish": "viaje",
+    "english": "trip"
+  },
+  {
+    "id": 968,
+    "spanish": "oficina",
+    "english": "office"
+  },
+  {
+    "id": 969,
+    "spanish": "recibir",
+    "english": "receive"
+  },
+  {
+    "id": 970,
+    "spanish": "fila",
+    "english": "row"
+  },
+  {
+    "id": 971,
+    "spanish": "boca",
+    "english": "mouth"
+  },
+  {
+    "id": 972,
+    "spanish": "exacta",
+    "english": "exact"
+  },
+  {
+    "id": 973,
+    "spanish": "símbolo",
+    "english": "symbol"
+  },
+  {
+    "id": 974,
+    "spanish": "morir",
+    "english": "die"
+  },
+  {
+    "id": 975,
+    "spanish": "menos",
+    "english": "least"
+  },
+  {
+    "id": 976,
+    "spanish": "problema",
+    "english": "trouble"
+  },
+  {
+    "id": 977,
+    "spanish": "grito",
+    "english": "shout"
+  },
+  {
+    "id": 978,
+    "spanish": "excepto",
+    "english": "except"
+  },
+  {
+    "id": 979,
+    "spanish": "escribió",
+    "english": "wrote"
+  },
+  {
+    "id": 980,
+    "spanish": "semilla",
+    "english": "seed"
+  },
+  {
+    "id": 981,
+    "spanish": "tono",
+    "english": "tone"
+  },
+  {
+    "id": 982,
+    "spanish": "unirse",
+    "english": "join"
+  },
+  {
+    "id": 983,
+    "spanish": "sugerir",
+    "english": "suggest"
+  },
+  {
+    "id": 984,
+    "spanish": "limpia",
+    "english": "clean"
+  },
+  {
+    "id": 985,
+    "spanish": "rotura",
+    "english": "break"
+  },
+  {
+    "id": 986,
+    "spanish": "dama",
+    "english": "lady"
+  },
+  {
+    "id": 987,
+    "spanish": "patio",
+    "english": "yard"
+  },
+  {
+    "id": 988,
+    "spanish": "aumentando",
+    "english": "rise"
+  },
+  {
+    "id": 989,
+    "spanish": "mal",
+    "english": "bad"
+  },
+  {
+    "id": 990,
+    "spanish": "golpe",
+    "english": "blow"
+  },
+  {
+    "id": 991,
+    "spanish": "aceite",
+    "english": "oil"
+  },
+  {
+    "id": 992,
+    "spanish": "sangre",
+    "english": "blood"
+  },
+  {
+    "id": 993,
+    "spanish": "tocar",
+    "english": "touch"
+  },
+  {
+    "id": 994,
+    "spanish": "creció",
+    "english": "grew"
+  },
+  {
+    "id": 995,
+    "spanish": "ciento",
+    "english": "cent"
+  },
+  {
+    "id": 996,
+    "spanish": "mezclar",
+    "english": "mix"
+  },
+  {
+    "id": 997,
+    "spanish": "equipo",
+    "english": "team"
+  },
+  {
+    "id": 998,
+    "spanish": "alambre",
+    "english": "wire"
+  },
+  {
+    "id": 999,
+    "spanish": "costo",
+    "english": "cost"
+  },
+  {
+    "id": 1000,
+    "spanish": "perdido",
+    "english": "lost"
+  },
+  {
+    "id": 1001,
+    "spanish": "marrón",
+    "english": "brown"
+  },
+  {
+    "id": 1002,
+    "spanish": "desgaste",
+    "english": "wear"
+  },
+  {
+    "id": 1003,
+    "spanish": "jardín",
+    "english": "garden"
+  },
+  {
+    "id": 1004,
+    "spanish": "igual",
+    "english": "equal"
+  },
+  {
+    "id": 1005,
+    "spanish": "enviado",
+    "english": "sent"
+  },
+  {
+    "id": 1006,
+    "spanish": "elegir",
+    "english": "choose"
+  },
+  {
+    "id": 1007,
+    "spanish": "cayó",
+    "english": "fell"
+  },
+  {
+    "id": 1008,
+    "spanish": "encajar",
+    "english": "fit"
+  },
+  {
+    "id": 1009,
+    "spanish": "fluir",
+    "english": "flow"
+  },
+  {
+    "id": 1010,
+    "spanish": "justo",
+    "english": "fair"
+  },
+  {
+    "id": 1011,
+    "spanish": "banco",
+    "english": "bank"
+  },
+  {
+    "id": 1012,
+    "spanish": "recoger",
+    "english": "collect"
+  },
+  {
+    "id": 1013,
+    "spanish": "guardar",
+    "english": "save"
+  },
+  {
+    "id": 1014,
+    "spanish": "el control",
+    "english": "control"
+  },
+  {
+    "id": 1015,
+    "spanish": "decimal",
+    "english": "decimal"
+  },
+  {
+    "id": 1016,
+    "spanish": "oído",
+    "english": "ear"
+  },
+  {
+    "id": 1017,
+    "spanish": "demás",
+    "english": "else"
+  },
+  {
+    "id": 1018,
+    "spanish": "bastante",
+    "english": "quite"
+  },
+  {
+    "id": 1019,
+    "spanish": "rompió",
+    "english": "broke"
+  },
+  {
+    "id": 1020,
+    "spanish": "caso",
+    "english": "case"
+  },
+  {
+    "id": 1021,
+    "spanish": "medio",
+    "english": "middle"
+  },
+  {
+    "id": 1022,
+    "spanish": "matar",
+    "english": "kill"
+  },
+  {
+    "id": 1023,
+    "spanish": "hijo",
+    "english": "son"
+  },
+  {
+    "id": 1024,
+    "spanish": "lago",
+    "english": "lake"
+  },
+  {
+    "id": 1025,
+    "spanish": "momento",
+    "english": "moment"
+  },
+  {
+    "id": 1026,
+    "spanish": "escala",
+    "english": "scale"
+  },
+  {
+    "id": 1027,
+    "spanish": "fuerte",
+    "english": "loud"
+  },
+  {
+    "id": 1028,
+    "spanish": "primavera",
+    "english": "spring"
+  },
+  {
+    "id": 1029,
+    "spanish": "observar",
+    "english": "observe"
+  },
+  {
+    "id": 1030,
+    "spanish": "niño",
+    "english": "child"
+  },
+  {
+    "id": 1031,
+    "spanish": "recta",
+    "english": "straight"
+  },
+  {
+    "id": 1032,
+    "spanish": "consonante",
+    "english": "consonant"
+  },
+  {
+    "id": 1033,
+    "spanish": "nación",
+    "english": "nation"
+  },
+  {
+    "id": 1034,
+    "spanish": "diccionario",
+    "english": "dictionary"
+  },
+  {
+    "id": 1035,
+    "spanish": "leche",
+    "english": "milk"
+  },
+  {
+    "id": 1036,
+    "spanish": "velocidad",
+    "english": "speed"
+  },
+  {
+    "id": 1037,
+    "spanish": "método",
+    "english": "method"
+  },
+  {
+    "id": 1038,
+    "spanish": "órgano",
+    "english": "organ"
+  },
+  {
+    "id": 1039,
+    "spanish": "pagar",
+    "english": "pay"
+  },
+  {
+    "id": 1040,
+    "spanish": "edad",
+    "english": "age"
+  },
+  {
+    "id": 1041,
+    "spanish": "sección",
+    "english": "section"
+  },
+  {
+    "id": 1042,
+    "spanish": "vestido",
+    "english": "dress"
+  },
+  {
+    "id": 1043,
+    "spanish": "nube",
+    "english": "cloud"
+  },
+  {
+    "id": 1044,
+    "spanish": "sorpresa",
+    "english": "surprise"
+  },
+  {
+    "id": 1045,
+    "spanish": "tranquila",
+    "english": "quiet"
+  },
+  {
+    "id": 1046,
+    "spanish": "piedra",
+    "english": "stone"
+  },
+  {
+    "id": 1047,
+    "spanish": "pequeño",
+    "english": "tiny"
+  },
+  {
+    "id": 1048,
+    "spanish": "ascenso",
+    "english": "climb"
+  },
+  {
+    "id": 1049,
+    "spanish": "fresco",
+    "english": "cool"
+  },
+  {
+    "id": 1050,
+    "spanish": "diseño",
+    "english": "design"
+  },
+  {
+    "id": 1051,
+    "spanish": "pobre",
+    "english": "poor"
+  },
+  {
+    "id": 1052,
+    "spanish": "mucho",
+    "english": "lot"
+  },
+  {
+    "id": 1053,
+    "spanish": "experimento",
+    "english": "experiment"
+  },
+  {
+    "id": 1054,
+    "spanish": "inferior",
+    "english": "bottom"
+  },
+  {
+    "id": 1055,
+    "spanish": "clave",
+    "english": "key"
+  },
+  {
+    "id": 1056,
+    "spanish": "hierro",
+    "english": "iron"
+  },
+  {
+    "id": 1057,
+    "spanish": "sola",
+    "english": "single"
+  },
+  {
+    "id": 1058,
+    "spanish": "palillo",
+    "english": "stick"
+  },
+  {
+    "id": 1059,
+    "spanish": "plana",
+    "english": "flat"
+  },
+  {
+    "id": 1060,
+    "spanish": "veinte",
+    "english": "twenty"
+  },
+  {
+    "id": 1061,
+    "spanish": "piel",
+    "english": "skin"
+  },
+  {
+    "id": 1062,
+    "spanish": "sonrisa",
+    "english": "smile"
+  },
+  {
+    "id": 1063,
+    "spanish": "pliegue",
+    "english": "crease"
+  },
+  {
+    "id": 1064,
+    "spanish": "agujero",
+    "english": "hole"
+  },
+  {
+    "id": 1065,
+    "spanish": "saltar",
+    "english": "jump"
+  },
+  {
+    "id": 1066,
+    "spanish": "bebé",
+    "english": "baby"
+  },
+  {
+    "id": 1067,
+    "spanish": "ocho",
+    "english": "eight"
+  },
+  {
+    "id": 1068,
+    "spanish": "pueblo",
+    "english": "village"
+  },
+  {
+    "id": 1069,
+    "spanish": "se reúnen",
+    "english": "meet"
+  },
+  {
+    "id": 1070,
+    "spanish": "raíz",
+    "english": "root"
+  },
+  {
+    "id": 1071,
+    "spanish": "comprar",
+    "english": "buy"
+  },
+  {
+    "id": 1072,
+    "spanish": "aumentar",
+    "english": "raise"
+  },
+  {
+    "id": 1073,
+    "spanish": "resolver",
+    "english": "solve"
+  },
+  {
+    "id": 1074,
+    "spanish": "de metal",
+    "english": "metal"
+  },
+  {
+    "id": 1075,
+    "spanish": "si",
+    "english": "whether"
+  },
+  {
+    "id": 1076,
+    "spanish": "empujar",
+    "english": "push"
+  },
+  {
+    "id": 1077,
+    "spanish": "siete",
+    "english": "seven"
+  },
+  {
+    "id": 1078,
+    "spanish": "párrafo",
+    "english": "paragraph"
+  },
+  {
+    "id": 1079,
+    "spanish": "tercero",
+    "english": "third"
+  },
+  {
+    "id": 1080,
+    "spanish": "deberá",
+    "english": "shall"
+  },
+  {
+    "id": 1081,
+    "spanish": "en espera",
+    "english": "held"
+  },
+  {
+    "id": 1082,
+    "spanish": "pelo",
+    "english": "hair"
+  },
+  {
+    "id": 1083,
+    "spanish": "describir",
+    "english": "describe"
+  },
+  {
+    "id": 1084,
+    "spanish": "cocinero",
+    "english": "cook"
+  },
+  {
+    "id": 1085,
+    "spanish": "piso",
+    "english": "floor"
+  },
+  {
+    "id": 1086,
+    "spanish": "ya sea",
+    "english": "either"
+  },
+  {
+    "id": 1087,
+    "spanish": "resultado",
+    "english": "result"
+  },
+  {
+    "id": 1088,
+    "spanish": "quemar",
+    "english": "burn"
+  },
+  {
+    "id": 1089,
+    "spanish": "colina",
+    "english": "hill"
+  },
+  {
+    "id": 1090,
+    "spanish": "seguro",
+    "english": "safe"
+  },
+  {
+    "id": 1091,
+    "spanish": "gato",
+    "english": "cat"
+  },
+  {
+    "id": 1092,
+    "spanish": "siglo",
+    "english": "century"
+  },
+  {
+    "id": 1093,
+    "spanish": "considerar",
+    "english": "consider"
+  },
+  {
+    "id": 1094,
+    "spanish": "tipo",
+    "english": "type"
+  },
+  {
+    "id": 1095,
+    "spanish": "ley",
+    "english": "law"
+  },
+  {
+    "id": 1096,
+    "spanish": "bit",
+    "english": "bit"
+  },
+  {
+    "id": 1097,
+    "spanish": "costa",
+    "english": "coast"
+  },
+  {
+    "id": 1098,
+    "spanish": "copia",
+    "english": "copy"
+  },
+  {
+    "id": 1099,
+    "spanish": "frase",
+    "english": "phrase"
+  },
+  {
+    "id": 1100,
+    "spanish": "silencio",
+    "english": "silent"
+  },
+  {
+    "id": 1101,
+    "spanish": "de altura",
+    "english": "tall"
+  },
+  {
+    "id": 1102,
+    "spanish": "arena",
+    "english": "sand"
+  },
+  {
+    "id": 1103,
+    "spanish": "suelo",
+    "english": "soil"
+  },
+  {
+    "id": 1104,
+    "spanish": "rollo",
+    "english": "roll"
+  },
+  {
+    "id": 1105,
+    "spanish": "temperatura",
+    "english": "temperature"
+  },
+  {
+    "id": 1106,
+    "spanish": "dedo",
+    "english": "finger"
+  },
+  {
+    "id": 1107,
+    "spanish": "industria",
+    "english": "industry"
+  },
+  {
+    "id": 1108,
+    "spanish": "valor",
+    "english": "value"
+  },
+  {
+    "id": 1109,
+    "spanish": "lucha",
+    "english": "fight"
+  },
+  {
+    "id": 1110,
+    "spanish": "mentira",
+    "english": "lie"
+  },
+  {
+    "id": 1111,
+    "spanish": "batir",
+    "english": "beat"
+  },
+  {
+    "id": 1112,
+    "spanish": "excitar",
+    "english": "excite"
+  },
+  {
+    "id": 1113,
+    "spanish": "naturales",
+    "english": "natural"
+  },
+  {
+    "id": 1114,
+    "spanish": "vista",
+    "english": "view"
+  },
+  {
+    "id": 1115,
+    "spanish": "sentido",
+    "english": "sense"
+  },
+  {
+    "id": 1116,
+    "spanish": "de capital",
+    "english": "capital"
+  },
+  {
+    "id": 1117,
+    "spanish": "no lo hará",
+    "english": "won’t"
+  },
+  {
+    "id": 1118,
+    "spanish": "silla",
+    "english": "chair"
+  },
+  {
+    "id": 1119,
+    "spanish": "peligro",
+    "english": "danger"
+  },
+  {
+    "id": 1120,
+    "spanish": "fruta",
+    "english": "fruit"
+  },
+  {
+    "id": 1121,
+    "spanish": "rica",
+    "english": "rich"
+  },
+  {
+    "id": 1122,
+    "spanish": "de espesor",
+    "english": "thick"
+  },
+  {
+    "id": 1123,
+    "spanish": "soldado",
+    "english": "soldier"
+  },
+  {
+    "id": 1124,
+    "spanish": "proceso",
+    "english": "process"
+  },
+  {
+    "id": 1125,
+    "spanish": "operar",
+    "english": "operate"
+  },
+  {
+    "id": 1126,
+    "spanish": "práctica",
+    "english": "practice"
+  },
+  {
+    "id": 1127,
+    "spanish": "separada",
+    "english": "separate"
+  },
+  {
+    "id": 1128,
+    "spanish": "difícil",
+    "english": "difficult"
+  },
+  {
+    "id": 1129,
+    "spanish": "médico",
+    "english": "doctor"
+  },
+  {
+    "id": 1130,
+    "spanish": "por favor",
+    "english": "please"
+  },
+  {
+    "id": 1131,
+    "spanish": "proteger",
+    "english": "protect"
+  },
+  {
+    "id": 1132,
+    "spanish": "mediodía",
+    "english": "noon"
+  },
+  {
+    "id": 1133,
+    "spanish": "de cultivos",
+    "english": "crop"
+  },
+  {
+    "id": 1134,
+    "spanish": "moderno",
+    "english": "modern"
+  },
+  {
+    "id": 1135,
+    "spanish": "elemento",
+    "english": "element"
+  },
+  {
+    "id": 1136,
+    "spanish": "golpear",
+    "english": "hit"
+  },
+  {
+    "id": 1137,
+    "spanish": "estudiante",
+    "english": "student"
+  },
+  {
+    "id": 1138,
+    "spanish": "esquina",
+    "english": "corner"
+  },
+  {
+    "id": 1139,
+    "spanish": "partido",
+    "english": "party"
+  },
+  {
+    "id": 1140,
+    "spanish": "suministro",
+    "english": "supply"
+  },
+  {
+    "id": 1141,
+    "spanish": "cuya",
+    "english": "whose"
+  },
+  {
+    "id": 1142,
+    "spanish": "localizar",
+    "english": "locate"
+  },
+  {
+    "id": 1143,
+    "spanish": "anillo",
+    "english": "ring"
+  },
+  {
+    "id": 1144,
+    "spanish": "carácter",
+    "english": "character"
+  },
+  {
+    "id": 1145,
+    "spanish": "insecto",
+    "english": "insect"
+  },
+  {
+    "id": 1146,
+    "spanish": "capturado",
+    "english": "caught"
+  },
+  {
+    "id": 1147,
+    "spanish": "período",
+    "english": "period"
+  },
+  {
+    "id": 1148,
+    "spanish": "indicar",
+    "english": "indicate"
+  },
+  {
+    "id": 1149,
+    "spanish": "Radio",
+    "english": "radio"
+  },
+  {
+    "id": 1150,
+    "spanish": "habló",
+    "english": "spoke"
+  },
+  {
+    "id": 1151,
+    "spanish": "átomo",
+    "english": "atom"
+  },
+  {
+    "id": 1152,
+    "spanish": "humana",
+    "english": "human"
+  },
+  {
+    "id": 1153,
+    "spanish": "historia",
+    "english": "history"
+  },
+  {
+    "id": 1154,
+    "spanish": "efecto",
+    "english": "effect"
+  },
+  {
+    "id": 1155,
+    "spanish": "eléctrica",
+    "english": "electric"
+  },
+  {
+    "id": 1156,
+    "spanish": "esperar",
+    "english": "expect"
+  },
+  {
+    "id": 1157,
+    "spanish": "hueso",
+    "english": "bone"
+  },
+  {
+    "id": 1158,
+    "spanish": "ferrocarril",
+    "english": "rail"
+  },
+  {
+    "id": 1159,
+    "spanish": "imaginar",
+    "english": "imagine"
+  },
+  {
+    "id": 1160,
+    "spanish": "proporcionar",
+    "english": "provide"
+  },
+  {
+    "id": 1161,
+    "spanish": "acuerdo",
+    "english": "agree"
+  },
+  {
+    "id": 1162,
+    "spanish": "por tanto,",
+    "english": "thus"
+  },
+  {
+    "id": 1163,
+    "spanish": "suave",
+    "english": "gentle"
+  },
+  {
+    "id": 1164,
+    "spanish": "mujer",
+    "english": "woman"
+  },
+  {
+    "id": 1165,
+    "spanish": "capitán",
+    "english": "captain"
+  },
+  {
+    "id": 1166,
+    "spanish": "adivinar",
+    "english": "guess"
+  },
+  {
+    "id": 1167,
+    "spanish": "necesario",
+    "english": "necessary"
+  },
+  {
+    "id": 1168,
+    "spanish": "agudo",
+    "english": "sharp"
+  },
+  {
+    "id": 1169,
+    "spanish": "ala",
+    "english": "wing"
+  },
+  {
+    "id": 1170,
+    "spanish": "crear",
+    "english": "create"
+  },
+  {
+    "id": 1171,
+    "spanish": "vecino",
+    "english": "neighbor"
+  },
+  {
+    "id": 1172,
+    "spanish": "lavado",
+    "english": "wash"
+  },
+  {
+    "id": 1173,
+    "spanish": "bate",
+    "english": "bat"
+  },
+  {
+    "id": 1174,
+    "spanish": "más bien",
+    "english": "rather"
+  },
+  {
+    "id": 1175,
+    "spanish": "multitud",
+    "english": "crowd"
+  },
+  {
+    "id": 1176,
+    "spanish": "maíz",
+    "english": "corn"
+  },
+  {
+    "id": 1177,
+    "spanish": "comparar",
+    "english": "compare"
+  },
+  {
+    "id": 1178,
+    "spanish": "poema",
+    "english": "poem"
+  },
+  {
+    "id": 1179,
+    "spanish": "cadena",
+    "english": "string"
+  },
+  {
+    "id": 1180,
+    "spanish": "campana",
+    "english": "bell"
+  },
+  {
+    "id": 1181,
+    "spanish": "dependerá",
+    "english": "depend"
+  },
+  {
+    "id": 1182,
+    "spanish": "carne",
+    "english": "meat"
+  },
+  {
+    "id": 1183,
+    "spanish": "frotar",
+    "english": "rub"
+  },
+  {
+    "id": 1184,
+    "spanish": "tubo",
+    "english": "tube"
+  },
+  {
+    "id": 1185,
+    "spanish": "famoso",
+    "english": "famous"
+  },
+  {
+    "id": 1186,
+    "spanish": "bebé",
+    "english": "baby"
+  },
+  {
+    "id": 1187,
+    "spanish": "ocho",
+    "english": "eight"
+  },
+  {
+    "id": 1188,
+    "spanish": "pueblo",
+    "english": "village"
+  },
+  {
+    "id": 1189,
+    "spanish": "se reúnen",
+    "english": "meet"
+  },
+  {
+    "id": 1190,
+    "spanish": "raíz",
+    "english": "root"
+  },
+  {
+    "id": 1191,
+    "spanish": "comprar",
+    "english": "buy"
+  },
+  {
+    "id": 1192,
+    "spanish": "aumentar",
+    "english": "raise"
+  },
+  {
+    "id": 1193,
+    "spanish": "resolver",
+    "english": "solve"
+  },
+  {
+    "id": 1194,
+    "spanish": "de metal",
+    "english": "metal"
+  },
+  {
+    "id": 1195,
+    "spanish": "si",
+    "english": "whether"
+  },
+  {
+    "id": 1196,
+    "spanish": "empujar",
+    "english": "push"
+  },
+  {
+    "id": 1197,
+    "spanish": "siete",
+    "english": "seven"
+  },
+  {
+    "id": 1198,
+    "spanish": "párrafo",
+    "english": "paragraph"
+  },
+  {
+    "id": 1199,
+    "spanish": "tercero",
+    "english": "third"
+  },
+  {
+    "id": 1200,
+    "spanish": "deberá",
+    "english": "shall"
+  },
+  {
+    "id": 1201,
+    "spanish": "en espera",
+    "english": "held"
+  },
+  {
+    "id": 1202,
+    "spanish": "pelo",
+    "english": "hair"
+  },
+  {
+    "id": 1203,
+    "spanish": "describir",
+    "english": "describe"
+  },
+  {
+    "id": 1204,
+    "spanish": "cocinero",
+    "english": "cook"
+  },
+  {
+    "id": 1205,
+    "spanish": "piso",
+    "english": "floor"
+  },
+  {
+    "id": 1206,
+    "spanish": "ya sea",
+    "english": "either"
+  },
+  {
+    "id": 1207,
+    "spanish": "resultado",
+    "english": "result"
+  },
+  {
+    "id": 1208,
+    "spanish": "quemar",
+    "english": "burn"
+  },
+  {
+    "id": 1209,
+    "spanish": "colina",
+    "english": "hill"
+  },
+  {
+    "id": 1210,
+    "spanish": "seguro",
+    "english": "safe"
+  },
+  {
+    "id": 1211,
+    "spanish": "gato",
+    "english": "cat"
+  },
+  {
+    "id": 1212,
+    "spanish": "siglo",
+    "english": "century"
+  },
+  {
+    "id": 1213,
+    "spanish": "considerar",
+    "english": "consider"
+  },
+  {
+    "id": 1214,
+    "spanish": "tipo",
+    "english": "type"
+  },
+  {
+    "id": 1215,
+    "spanish": "ley",
+    "english": "law"
+  },
+  {
+    "id": 1216,
+    "spanish": "bit",
+    "english": "bit"
+  },
+  {
+    "id": 1217,
+    "spanish": "costa",
+    "english": "coast"
+  },
+  {
+    "id": 1218,
+    "spanish": "copia",
+    "english": "copy"
+  },
+  {
+    "id": 1219,
+    "spanish": "frase",
+    "english": "phrase"
+  },
+  {
+    "id": 1220,
+    "spanish": "silencio",
+    "english": "silent"
+  },
+  {
+    "id": 1221,
+    "spanish": "de altura",
+    "english": "tall"
+  },
+  {
+    "id": 1222,
+    "spanish": "arena",
+    "english": "sand"
+  },
+  {
+    "id": 1223,
+    "spanish": "suelo",
+    "english": "soil"
+  },
+  {
+    "id": 1224,
+    "spanish": "rollo",
+    "english": "roll"
+  },
+  {
+    "id": 1225,
+    "spanish": "temperatura",
+    "english": "temperature"
+  },
+  {
+    "id": 1226,
+    "spanish": "dedo",
+    "english": "finger"
+  },
+  {
+    "id": 1227,
+    "spanish": "industria",
+    "english": "industry"
+  },
+  {
+    "id": 1228,
+    "spanish": "valor",
+    "english": "value"
+  },
+  {
+    "id": 1229,
+    "spanish": "lucha",
+    "english": "fight"
+  },
+  {
+    "id": 1230,
+    "spanish": "mentira",
+    "english": "lie"
+  },
+  {
+    "id": 1231,
+    "spanish": "batir",
+    "english": "beat"
+  },
+  {
+    "id": 1232,
+    "spanish": "excitar",
+    "english": "excite"
+  },
+  {
+    "id": 1233,
+    "spanish": "naturales",
+    "english": "natural"
+  },
+  {
+    "id": 1234,
+    "spanish": "vista",
+    "english": "view"
+  },
+  {
+    "id": 1235,
+    "spanish": "sentido",
+    "english": "sense"
+  },
+  {
+    "id": 1236,
+    "spanish": "de capital",
+    "english": "capital"
+  },
+  {
+    "id": 1237,
+    "spanish": "no lo hará",
+    "english": "won’t"
+  },
+  {
+    "id": 1238,
+    "spanish": "silla",
+    "english": "chair"
+  },
+  {
+    "id": 1239,
+    "spanish": "peligro",
+    "english": "danger"
+  },
+  {
+    "id": 1240,
+    "spanish": "fruta",
+    "english": "fruit"
+  },
+  {
+    "id": 1241,
+    "spanish": "rica",
+    "english": "rich"
+  },
+  {
+    "id": 1242,
+    "spanish": "de espesor",
+    "english": "thick"
+  },
+  {
+    "id": 1243,
+    "spanish": "soldado",
+    "english": "soldier"
+  },
+  {
+    "id": 1244,
+    "spanish": "proceso",
+    "english": "process"
+  },
+  {
+    "id": 1245,
+    "spanish": "operar",
+    "english": "operate"
+  },
+  {
+    "id": 1246,
+    "spanish": "práctica",
+    "english": "practice"
+  },
+  {
+    "id": 1247,
+    "spanish": "separada",
+    "english": "separate"
+  },
+  {
+    "id": 1248,
+    "spanish": "difícil",
+    "english": "difficult"
+  },
+  {
+    "id": 1249,
+    "spanish": "médico",
+    "english": "doctor"
+  },
+  {
+    "id": 1250,
+    "spanish": "por favor",
+    "english": "please"
+  },
+  {
+    "id": 1251,
+    "spanish": "proteger",
+    "english": "protect"
+  },
+  {
+    "id": 1252,
+    "spanish": "mediodía",
+    "english": "noon"
+  },
+  {
+    "id": 1253,
+    "spanish": "de cultivos",
+    "english": "crop"
+  },
+  {
+    "id": 1254,
+    "spanish": "moderno",
+    "english": "modern"
+  },
+  {
+    "id": 1255,
+    "spanish": "elemento",
+    "english": "element"
+  },
+  {
+    "id": 1256,
+    "spanish": "golpear",
+    "english": "hit"
+  },
+  {
+    "id": 1257,
+    "spanish": "estudiante",
+    "english": "student"
+  },
+  {
+    "id": 1258,
+    "spanish": "esquina",
+    "english": "corner"
+  },
+  {
+    "id": 1259,
+    "spanish": "partido",
+    "english": "party"
+  },
+  {
+    "id": 1260,
+    "spanish": "suministro",
+    "english": "supply"
+  },
+  {
+    "id": 1261,
+    "spanish": "cuya",
+    "english": "whose"
+  },
+  {
+    "id": 1262,
+    "spanish": "localizar",
+    "english": "locate"
+  },
+  {
+    "id": 1263,
+    "spanish": "anillo",
+    "english": "ring"
+  },
+  {
+    "id": 1264,
+    "spanish": "carácter",
+    "english": "character"
+  },
+  {
+    "id": 1265,
+    "spanish": "insecto",
+    "english": "insect"
+  },
+  {
+    "id": 1266,
+    "spanish": "capturado",
+    "english": "caught"
+  },
+  {
+    "id": 1267,
+    "spanish": "período",
+    "english": "period"
+  },
+  {
+    "id": 1268,
+    "spanish": "indicar",
+    "english": "indicate"
+  },
+  {
+    "id": 1269,
+    "spanish": "Radio",
+    "english": "radio"
+  },
+  {
+    "id": 1270,
+    "spanish": "habló",
+    "english": "spoke"
+  },
+  {
+    "id": 1271,
+    "spanish": "átomo",
+    "english": "atom"
+  },
+  {
+    "id": 1272,
+    "spanish": "humana",
+    "english": "human"
+  },
+  {
+    "id": 1273,
+    "spanish": "historia",
+    "english": "history"
+  },
+  {
+    "id": 1274,
+    "spanish": "efecto",
+    "english": "effect"
+  },
+  {
+    "id": 1275,
+    "spanish": "eléctrica",
+    "english": "electric"
+  },
+  {
+    "id": 1276,
+    "spanish": "esperar",
+    "english": "expect"
+  },
+  {
+    "id": 1277,
+    "spanish": "hueso",
+    "english": "bone"
+  },
+  {
+    "id": 1278,
+    "spanish": "ferrocarril",
+    "english": "rail"
+  },
+  {
+    "id": 1279,
+    "spanish": "imaginar",
+    "english": "imagine"
+  },
+  {
+    "id": 1280,
+    "spanish": "proporcionar",
+    "english": "provide"
+  },
+  {
+    "id": 1281,
+    "spanish": "acuerdo",
+    "english": "agree"
+  },
+  {
+    "id": 1282,
+    "spanish": "por tanto,",
+    "english": "thus"
+  },
+  {
+    "id": 1283,
+    "spanish": "suave",
+    "english": "gentle"
+  },
+  {
+    "id": 1284,
+    "spanish": "mujer",
+    "english": "woman"
+  },
+  {
+    "id": 1285,
+    "spanish": "capitán",
+    "english": "captain"
+  },
+  {
+    "id": 1286,
+    "spanish": "adivinar",
+    "english": "guess"
+  },
+  {
+    "id": 1287,
+    "spanish": "necesario",
+    "english": "necessary"
+  },
+  {
+    "id": 1288,
+    "spanish": "agudo",
+    "english": "sharp"
+  },
+  {
+    "id": 1289,
+    "spanish": "ala",
+    "english": "wing"
+  },
+  {
+    "id": 1290,
+    "spanish": "crear",
+    "english": "create"
+  },
+  {
+    "id": 1291,
+    "spanish": "vecino",
+    "english": "neighbor"
+  },
+  {
+    "id": 1292,
+    "spanish": "lavado",
+    "english": "wash"
+  },
+  {
+    "id": 1293,
+    "spanish": "bate",
+    "english": "bat"
+  },
+  {
+    "id": 1294,
+    "spanish": "más bien",
+    "english": "rather"
+  },
+  {
+    "id": 1295,
+    "spanish": "multitud",
+    "english": "crowd"
+  },
+  {
+    "id": 1296,
+    "spanish": "maíz",
+    "english": "corn"
+  },
+  {
+    "id": 1297,
+    "spanish": "comparar",
+    "english": "compare"
+  },
+  {
+    "id": 1298,
+    "spanish": "poema",
+    "english": "poem"
+  },
+  {
+    "id": 1299,
+    "spanish": "cadena",
+    "english": "string"
+  },
+  {
+    "id": 1300,
+    "spanish": "campana",
+    "english": "bell"
+  },
+  {
+    "id": 1301,
+    "spanish": "dependerá",
+    "english": "depend"
+  },
+  {
+    "id": 1302,
+    "spanish": "carne",
+    "english": "meat"
+  },
+  {
+    "id": 1303,
+    "spanish": "frotar",
+    "english": "rub"
+  },
+  {
+    "id": 1304,
+    "spanish": "tubo",
+    "english": "tube"
+  },
+  {
+    "id": 1305,
+    "spanish": "famoso",
+    "english": "famous"
+  },
+  {
+    "id": 1306,
+    "spanish": "bebé",
+    "english": "baby"
+  },
+  {
+    "id": 1307,
+    "spanish": "ocho",
+    "english": "eight"
+  },
+  {
+    "id": 1308,
+    "spanish": "pueblo",
+    "english": "village"
+  },
+  {
+    "id": 1309,
+    "spanish": "se reúnen",
+    "english": "meet"
+  },
+  {
+    "id": 1310,
+    "spanish": "raíz",
+    "english": "root"
+  },
+  {
+    "id": 1311,
+    "spanish": "comprar",
+    "english": "buy"
+  },
+  {
+    "id": 1312,
+    "spanish": "aumentar",
+    "english": "raise"
+  },
+  {
+    "id": 1313,
+    "spanish": "resolver",
+    "english": "solve"
+  },
+  {
+    "id": 1314,
+    "spanish": "de metal",
+    "english": "metal"
+  },
+  {
+    "id": 1315,
+    "spanish": "si",
+    "english": "whether"
+  },
+  {
+    "id": 1316,
+    "spanish": "empujar",
+    "english": "push"
+  },
+  {
+    "id": 1317,
+    "spanish": "siete",
+    "english": "seven"
+  },
+  {
+    "id": 1318,
+    "spanish": "párrafo",
+    "english": "paragraph"
+  },
+  {
+    "id": 1319,
+    "spanish": "tercero",
+    "english": "third"
+  },
+  {
+    "id": 1320,
+    "spanish": "deberá",
+    "english": "shall"
+  },
+  {
+    "id": 1321,
+    "spanish": "en espera",
+    "english": "held"
+  },
+  {
+    "id": 1322,
+    "spanish": "pelo",
+    "english": "hair"
+  },
+  {
+    "id": 1323,
+    "spanish": "describir",
+    "english": "describe"
+  },
+  {
+    "id": 1324,
+    "spanish": "cocinero",
+    "english": "cook"
+  },
+  {
+    "id": 1325,
+    "spanish": "piso",
+    "english": "floor"
+  },
+  {
+    "id": 1326,
+    "spanish": "ya sea",
+    "english": "either"
+  },
+  {
+    "id": 1327,
+    "spanish": "resultado",
+    "english": "result"
+  },
+  {
+    "id": 1328,
+    "spanish": "quemar",
+    "english": "burn"
+  },
+  {
+    "id": 1329,
+    "spanish": "colina",
+    "english": "hill"
+  },
+  {
+    "id": 1330,
+    "spanish": "seguro",
+    "english": "safe"
+  },
+  {
+    "id": 1331,
+    "spanish": "gato",
+    "english": "cat"
+  },
+  {
+    "id": 1332,
+    "spanish": "siglo",
+    "english": "century"
+  },
+  {
+    "id": 1333,
+    "spanish": "considerar",
+    "english": "consider"
+  },
+  {
+    "id": 1334,
+    "spanish": "tipo",
+    "english": "type"
+  },
+  {
+    "id": 1335,
+    "spanish": "ley",
+    "english": "law"
+  },
+  {
+    "id": 1336,
+    "spanish": "bit",
+    "english": "bit"
+  },
+  {
+    "id": 1337,
+    "spanish": "costa",
+    "english": "coast"
+  },
+  {
+    "id": 1338,
+    "spanish": "copia",
+    "english": "copy"
+  },
+  {
+    "id": 1339,
+    "spanish": "frase",
+    "english": "phrase"
+  },
+  {
+    "id": 1340,
+    "spanish": "silencio",
+    "english": "silent"
+  },
+  {
+    "id": 1341,
+    "spanish": "de altura",
+    "english": "tall"
+  },
+  {
+    "id": 1342,
+    "spanish": "arena",
+    "english": "sand"
+  },
+  {
+    "id": 1343,
+    "spanish": "suelo",
+    "english": "soil"
+  },
+  {
+    "id": 1344,
+    "spanish": "rollo",
+    "english": "roll"
+  },
+  {
+    "id": 1345,
+    "spanish": "temperatura",
+    "english": "temperature"
+  },
+  {
+    "id": 1346,
+    "spanish": "dedo",
+    "english": "finger"
+  },
+  {
+    "id": 1347,
+    "spanish": "industria",
+    "english": "industry"
+  },
+  {
+    "id": 1348,
+    "spanish": "valor",
+    "english": "value"
+  },
+  {
+    "id": 1349,
+    "spanish": "lucha",
+    "english": "fight"
+  },
+  {
+    "id": 1350,
+    "spanish": "mentira",
+    "english": "lie"
+  },
+  {
+    "id": 1351,
+    "spanish": "batir",
+    "english": "beat"
+  },
+  {
+    "id": 1352,
+    "spanish": "excitar",
+    "english": "excite"
+  },
+  {
+    "id": 1353,
+    "spanish": "naturales",
+    "english": "natural"
+  },
+  {
+    "id": 1354,
+    "spanish": "vista",
+    "english": "view"
+  },
+  {
+    "id": 1355,
+    "spanish": "sentido",
+    "english": "sense"
+  },
+  {
+    "id": 1356,
+    "spanish": "de capital",
+    "english": "capital"
+  },
+  {
+    "id": 1357,
+    "spanish": "no lo hará",
+    "english": "won’t"
+  },
+  {
+    "id": 1358,
+    "spanish": "silla",
+    "english": "chair"
+  },
+  {
+    "id": 1359,
+    "spanish": "peligro",
+    "english": "danger"
+  },
+  {
+    "id": 1360,
+    "spanish": "fruta",
+    "english": "fruit"
+  },
+  {
+    "id": 1361,
+    "spanish": "rica",
+    "english": "rich"
+  },
+  {
+    "id": 1362,
+    "spanish": "de espesor",
+    "english": "thick"
+  },
+  {
+    "id": 1363,
+    "spanish": "soldado",
+    "english": "soldier"
+  },
+  {
+    "id": 1364,
+    "spanish": "proceso",
+    "english": "process"
+  },
+  {
+    "id": 1365,
+    "spanish": "operar",
+    "english": "operate"
+  },
+  {
+    "id": 1366,
+    "spanish": "práctica",
+    "english": "practice"
+  },
+  {
+    "id": 1367,
+    "spanish": "separada",
+    "english": "separate"
+  },
+  {
+    "id": 1368,
+    "spanish": "difícil",
+    "english": "difficult"
+  },
+  {
+    "id": 1369,
+    "spanish": "médico",
+    "english": "doctor"
+  },
+  {
+    "id": 1370,
+    "spanish": "por favor",
+    "english": "please"
+  },
+  {
+    "id": 1371,
+    "spanish": "proteger",
+    "english": "protect"
+  },
+  {
+    "id": 1372,
+    "spanish": "mediodía",
+    "english": "noon"
+  },
+  {
+    "id": 1373,
+    "spanish": "de cultivos",
+    "english": "crop"
+  },
+  {
+    "id": 1374,
+    "spanish": "moderno",
+    "english": "modern"
+  },
+  {
+    "id": 1375,
+    "spanish": "elemento",
+    "english": "element"
+  },
+  {
+    "id": 1376,
+    "spanish": "golpear",
+    "english": "hit"
+  },
+  {
+    "id": 1377,
+    "spanish": "estudiante",
+    "english": "student"
+  },
+  {
+    "id": 1378,
+    "spanish": "esquina",
+    "english": "corner"
+  },
+  {
+    "id": 1379,
+    "spanish": "partido",
+    "english": "party"
+  },
+  {
+    "id": 1380,
+    "spanish": "suministro",
+    "english": "supply"
+  },
+  {
+    "id": 1381,
+    "spanish": "cuya",
+    "english": "whose"
+  },
+  {
+    "id": 1382,
+    "spanish": "localizar",
+    "english": "locate"
+  },
+  {
+    "id": 1383,
+    "spanish": "anillo",
+    "english": "ring"
+  },
+  {
+    "id": 1384,
+    "spanish": "carácter",
+    "english": "character"
+  },
+  {
+    "id": 1385,
+    "spanish": "insecto",
+    "english": "insect"
+  },
+  {
+    "id": 1386,
+    "spanish": "capturado",
+    "english": "caught"
+  },
+  {
+    "id": 1387,
+    "spanish": "período",
+    "english": "period"
+  },
+  {
+    "id": 1388,
+    "spanish": "indicar",
+    "english": "indicate"
+  },
+  {
+    "id": 1389,
+    "spanish": "Radio",
+    "english": "radio"
+  },
+  {
+    "id": 1390,
+    "spanish": "habló",
+    "english": "spoke"
+  },
+  {
+    "id": 1391,
+    "spanish": "átomo",
+    "english": "atom"
+  },
+  {
+    "id": 1392,
+    "spanish": "humana",
+    "english": "human"
+  },
+  {
+    "id": 1393,
+    "spanish": "historia",
+    "english": "history"
+  },
+  {
+    "id": 1394,
+    "spanish": "efecto",
+    "english": "effect"
+  },
+  {
+    "id": 1395,
+    "spanish": "eléctrica",
+    "english": "electric"
+  },
+  {
+    "id": 1396,
+    "spanish": "esperar",
+    "english": "expect"
+  },
+  {
+    "id": 1397,
+    "spanish": "hueso",
+    "english": "bone"
+  },
+  {
+    "id": 1398,
+    "spanish": "ferrocarril",
+    "english": "rail"
+  },
+  {
+    "id": 1399,
+    "spanish": "imaginar",
+    "english": "imagine"
+  },
+  {
+    "id": 1400,
+    "spanish": "proporcionar",
+    "english": "provide"
+  },
+  {
+    "id": 1401,
+    "spanish": "acuerdo",
+    "english": "agree"
+  },
+  {
+    "id": 1402,
+    "spanish": "por tanto,",
+    "english": "thus"
+  },
+  {
+    "id": 1403,
+    "spanish": "suave",
+    "english": "gentle"
+  },
+  {
+    "id": 1404,
+    "spanish": "mujer",
+    "english": "woman"
+  },
+  {
+    "id": 1405,
+    "spanish": "capitán",
+    "english": "captain"
+  },
+  {
+    "id": 1406,
+    "spanish": "adivinar",
+    "english": "guess"
+  },
+  {
+    "id": 1407,
+    "spanish": "necesario",
+    "english": "necessary"
+  },
+  {
+    "id": 1408,
+    "spanish": "agudo",
+    "english": "sharp"
+  },
+  {
+    "id": 1409,
+    "spanish": "ala",
+    "english": "wing"
+  },
+  {
+    "id": 1410,
+    "spanish": "crear",
+    "english": "create"
+  },
+  {
+    "id": 1411,
+    "spanish": "vecino",
+    "english": "neighbor"
+  },
+  {
+    "id": 1412,
+    "spanish": "lavado",
+    "english": "wash"
+  },
+  {
+    "id": 1413,
+    "spanish": "bate",
+    "english": "bat"
+  },
+  {
+    "id": 1414,
+    "spanish": "más bien",
+    "english": "rather"
+  },
+  {
+    "id": 1415,
+    "spanish": "multitud",
+    "english": "crowd"
+  },
+  {
+    "id": 1416,
+    "spanish": "maíz",
+    "english": "corn"
+  },
+  {
+    "id": 1417,
+    "spanish": "comparar",
+    "english": "compare"
+  },
+  {
+    "id": 1418,
+    "spanish": "poema",
+    "english": "poem"
+  },
+  {
+    "id": 1419,
+    "spanish": "cadena",
+    "english": "string"
+  },
+  {
+    "id": 1420,
+    "spanish": "campana",
+    "english": "bell"
+  },
+  {
+    "id": 1421,
+    "spanish": "dependerá",
+    "english": "depend"
+  },
+  {
+    "id": 1422,
+    "spanish": "carne",
+    "english": "meat"
+  },
+  {
+    "id": 1423,
+    "spanish": "frotar",
+    "english": "rub"
+  },
+  {
+    "id": 1424,
+    "spanish": "tubo",
+    "english": "tube"
+  },
+  {
+    "id": 1425,
+    "spanish": "famoso",
+    "english": "famous"
+  },
+  {
+    "id": 1426,
+    "spanish": "dólar",
+    "english": "dollar"
+  },
+  {
+    "id": 1427,
+    "spanish": "corriente",
+    "english": "stream"
+  },
+  {
+    "id": 1428,
+    "spanish": "miedo",
+    "english": "fear"
+  },
+  {
+    "id": 1429,
+    "spanish": "vista",
+    "english": "sight"
+  },
+  {
+    "id": 1430,
+    "spanish": "delgado",
+    "english": "thin"
+  },
+  {
+    "id": 1431,
+    "spanish": "triángulo",
+    "english": "triangle"
+  },
+  {
+    "id": 1432,
+    "spanish": "planeta",
+    "english": "planet"
+  },
+  {
+    "id": 1433,
+    "spanish": "prisa",
+    "english": "hurry"
+  },
+  {
+    "id": 1434,
+    "spanish": "jefe",
+    "english": "chief"
+  },
+  {
+    "id": 1435,
+    "spanish": "colonia",
+    "english": "colony"
+  },
+  {
+    "id": 1436,
+    "spanish": "reloj",
+    "english": "clock"
+  },
+  {
+    "id": 1437,
+    "spanish": "mina",
+    "english": "mine"
+  },
+  {
+    "id": 1438,
+    "spanish": "empate",
+    "english": "tie"
+  },
+  {
+    "id": 1439,
+    "spanish": "entrar",
+    "english": "enter"
+  },
+  {
+    "id": 1440,
+    "spanish": "importante",
+    "english": "major"
+  },
+  {
+    "id": 1441,
+    "spanish": "fresco",
+    "english": "fresh"
+  },
+  {
+    "id": 1442,
+    "spanish": "búsqueda",
+    "english": "search"
+  },
+  {
+    "id": 1443,
+    "spanish": "enviar",
+    "english": "send"
+  },
+  {
+    "id": 1444,
+    "spanish": "amarillo",
+    "english": "yellow"
+  },
+  {
+    "id": 1445,
+    "spanish": "pistola",
+    "english": "gun"
+  },
+  {
+    "id": 1446,
+    "spanish": "permitir",
+    "english": "allow"
+  },
+  {
+    "id": 1447,
+    "spanish": "print",
+    "english": "print"
+  },
+  {
+    "id": 1448,
+    "spanish": "muerto",
+    "english": "dead"
+  },
+  {
+    "id": 1449,
+    "spanish": "lugar",
+    "english": "spot"
+  },
+  {
+    "id": 1450,
+    "spanish": "desierto",
+    "english": "desert"
+  },
+  {
+    "id": 1451,
+    "spanish": "traje",
+    "english": "suit"
+  },
+  {
+    "id": 1452,
+    "spanish": "actual",
+    "english": "current"
+  },
+  {
+    "id": 1453,
+    "spanish": "ascensor",
+    "english": "lift"
+  },
+  {
+    "id": 1454,
+    "spanish": "rosa",
+    "english": "rose"
+  },
+  {
+    "id": 1455,
+    "spanish": "llegar",
+    "english": "arrive"
+  },
+  {
+    "id": 1456,
+    "spanish": "master",
+    "english": "master"
+  },
+  {
+    "id": 1457,
+    "spanish": "pista",
+    "english": "track"
+  },
+  {
+    "id": 1458,
+    "spanish": "padre",
+    "english": "parent"
+  },
+  {
+    "id": 1459,
+    "spanish": "orilla",
+    "english": "shore"
+  },
+  {
+    "id": 1460,
+    "spanish": "división",
+    "english": "division"
+  },
+  {
+    "id": 1461,
+    "spanish": "hoja",
+    "english": "sheet"
+  },
+  {
+    "id": 1462,
+    "spanish": "sustancia",
+    "english": "substance"
+  },
+  {
+    "id": 1463,
+    "spanish": "favorecer",
+    "english": "favor"
+  },
+  {
+    "id": 1464,
+    "spanish": "conectar",
+    "english": "connect"
+  },
+  {
+    "id": 1465,
+    "spanish": "mensaje",
+    "english": "post"
+  },
+  {
+    "id": 1466,
+    "spanish": "pasar",
+    "english": "spend"
+  },
+  {
+    "id": 1467,
+    "spanish": "acorde",
+    "english": "chord"
+  },
+  {
+    "id": 1468,
+    "spanish": "grasa",
+    "english": "fat"
+  },
+  {
+    "id": 1469,
+    "spanish": "contento",
+    "english": "glad"
+  },
+  {
+    "id": 1470,
+    "spanish": "originales",
+    "english": "original"
+  },
+  {
+    "id": 1471,
+    "spanish": "cuota",
+    "english": "share"
+  },
+  {
+    "id": 1472,
+    "spanish": "estación",
+    "english": "station"
+  },
+  {
+    "id": 1473,
+    "spanish": "papá",
+    "english": "dad"
+  },
+  {
+    "id": 1474,
+    "spanish": "pan",
+    "english": "bread"
+  },
+  {
+    "id": 1475,
+    "spanish": "cobrar",
+    "english": "charge"
+  },
+  {
+    "id": 1476,
+    "spanish": "adecuada",
+    "english": "proper"
+  },
+  {
+    "id": 1477,
+    "spanish": "barra",
+    "english": "bar"
+  },
+  {
+    "id": 1478,
+    "spanish": "oferta",
+    "english": "offer"
+  },
+  {
+    "id": 1479,
+    "spanish": "segmento",
+    "english": "segment"
+  },
+  {
+    "id": 1480,
+    "spanish": "esclavo",
+    "english": "slave"
+  },
+  {
+    "id": 1481,
+    "spanish": "pato",
+    "english": "duck"
+  },
+  {
+    "id": 1482,
+    "spanish": "instantánea",
+    "english": "instant"
+  },
+  {
+    "id": 1483,
+    "spanish": "mercado",
+    "english": "market"
+  },
+  {
+    "id": 1484,
+    "spanish": "grado",
+    "english": "degree"
+  },
+  {
+    "id": 1485,
+    "spanish": "poblar",
+    "english": "populate"
+  },
+  {
+    "id": 1486,
+    "spanish": "polluelo",
+    "english": "chick"
+  },
+  {
+    "id": 1487,
+    "spanish": "querido",
+    "english": "dear"
+  },
+  {
+    "id": 1488,
+    "spanish": "enemigo",
+    "english": "enemy"
+  },
+  {
+    "id": 1489,
+    "spanish": "responder",
+    "english": "reply"
+  },
+  {
+    "id": 1490,
+    "spanish": "bebida",
+    "english": "drink"
+  },
+  {
+    "id": 1491,
+    "spanish": "producirse",
+    "english": "occur"
+  },
+  {
+    "id": 1492,
+    "spanish": "apoyo",
+    "english": "support"
+  },
+  {
+    "id": 1493,
+    "spanish": "discurso",
+    "english": "speech"
+  },
+  {
+    "id": 1494,
+    "spanish": "naturaleza",
+    "english": "nature"
+  },
+  {
+    "id": 1495,
+    "spanish": "alcance",
+    "english": "range"
+  },
+  {
+    "id": 1496,
+    "spanish": "vapor",
+    "english": "steam"
+  },
+  {
+    "id": 1497,
+    "spanish": "movimiento",
+    "english": "motion"
+  },
+  {
+    "id": 1498,
+    "spanish": "camino",
+    "english": "path"
+  },
+  {
+    "id": 1499,
+    "spanish": "líquido",
+    "english": "liquid"
+  },
+  {
+    "id": 1500,
+    "spanish": "log",
+    "english": "log"
+  },
+  {
+    "id": 1501,
+    "spanish": "significado",
+    "english": "meant"
+  },
+  {
+    "id": 1502,
+    "spanish": "cociente",
+    "english": "quotient"
+  },
+  {
+    "id": 1503,
+    "spanish": "dientes",
+    "english": "teeth"
+  },
+  {
+    "id": 1504,
+    "spanish": "concha",
+    "english": "shell"
+  },
+  {
+    "id": 1505,
+    "spanish": "cuello",
+    "english": "neck"
+  },
+  {
+    "id": 1506,
+    "spanish": "oxígeno",
+    "english": "oxygen"
+  },
+  {
+    "id": 1507,
+    "spanish": "azúcar",
+    "english": "sugar"
+  },
+  {
+    "id": 1508,
+    "spanish": "muerte",
+    "english": "death"
+  },
+  {
+    "id": 1509,
+    "spanish": "bastante",
+    "english": "pretty"
+  },
+  {
+    "id": 1510,
+    "spanish": "habilidad",
+    "english": "skill"
+  },
+  {
+    "id": 1511,
+    "spanish": "mujeres",
+    "english": "women"
+  },
+  {
+    "id": 1512,
+    "spanish": "temporada",
+    "english": "season"
+  },
+  {
+    "id": 1513,
+    "spanish": "solución",
+    "english": "solution"
+  },
+  {
+    "id": 1514,
+    "spanish": "imán",
+    "english": "magnet"
+  },
+  {
+    "id": 1515,
+    "spanish": "plata",
+    "english": "silver"
+  },
+  {
+    "id": 1516,
+    "spanish": "gracias",
+    "english": "thank"
+  },
+  {
+    "id": 1517,
+    "spanish": "rama",
+    "english": "branch"
+  },
+  {
+    "id": 1518,
+    "spanish": "partido",
+    "english": "match"
+  },
+  {
+    "id": 1519,
+    "spanish": "sufijo",
+    "english": "suffix"
+  },
+  {
+    "id": 1520,
+    "spanish": "especialmente",
+    "english": "especially"
+  },
+  {
+    "id": 1521,
+    "spanish": "higo",
+    "english": "fig"
+  },
+  {
+    "id": 1522,
+    "spanish": "miedo",
+    "english": "afraid"
+  },
+  {
+    "id": 1523,
+    "spanish": "enorme",
+    "english": "huge"
+  },
+  {
+    "id": 1524,
+    "spanish": "hermana",
+    "english": "sister"
+  },
+  {
+    "id": 1525,
+    "spanish": "acero",
+    "english": "steel"
+  },
+  {
+    "id": 1526,
+    "spanish": "discutir",
+    "english": "discuss"
+  },
+  {
+    "id": 1527,
+    "spanish": "adelante",
+    "english": "forward"
+  },
+  {
+    "id": 1528,
+    "spanish": "similar",
+    "english": "similar"
+  },
+  {
+    "id": 1529,
+    "spanish": "guiar",
+    "english": "guide"
+  },
+  {
+    "id": 1530,
+    "spanish": "experiencia",
+    "english": "experience"
+  },
+  {
+    "id": 1531,
+    "spanish": "puntuación",
+    "english": "score"
+  },
+  {
+    "id": 1532,
+    "spanish": "manzana",
+    "english": "apple"
+  },
+  {
+    "id": 1533,
+    "spanish": "comprado",
+    "english": "bought"
+  },
+  {
+    "id": 1534,
+    "spanish": "llevado",
+    "english": "led"
+  },
+  {
+    "id": 1535,
+    "spanish": "pitch",
+    "english": "pitch"
+  },
+  {
+    "id": 1536,
+    "spanish": "abrigo",
+    "english": "coat"
+  },
+  {
+    "id": 1537,
+    "spanish": "masa",
+    "english": "mass"
+  },
+  {
+    "id": 1538,
+    "spanish": "tarjeta",
+    "english": "card"
+  },
+  {
+    "id": 1539,
+    "spanish": "banda",
+    "english": "band"
+  },
+  {
+    "id": 1540,
+    "spanish": "cuerda",
+    "english": "rope"
+  },
+  {
+    "id": 1541,
+    "spanish": "deslizamiento",
+    "english": "slip"
+  },
+  {
+    "id": 1542,
+    "spanish": "ganar",
+    "english": "win"
+  },
+  {
+    "id": 1543,
+    "spanish": "soñar",
+    "english": "dream"
+  },
+  {
+    "id": 1544,
+    "spanish": "noche",
+    "english": "evening"
+  },
+  {
+    "id": 1545,
+    "spanish": "condición",
+    "english": "condition"
+  },
+  {
+    "id": 1546,
+    "spanish": "pienso",
+    "english": "feed"
+  },
+  {
+    "id": 1547,
+    "spanish": "herramienta",
+    "english": "tool"
+  },
+  {
+    "id": 1548,
+    "spanish": "totales",
+    "english": "total"
+  },
+  {
+    "id": 1549,
+    "spanish": "básico",
+    "english": "basic"
+  },
+  {
+    "id": 1550,
+    "spanish": "olor",
+    "english": "smell"
+  },
+  {
+    "id": 1551,
+    "spanish": "valle",
+    "english": "valley"
+  },
+  {
+    "id": 1552,
+    "spanish": "ni",
+    "english": "nor"
+  },
+  {
+    "id": 1553,
+    "spanish": "doble",
+    "english": "double"
+  },
+  {
+    "id": 1554,
+    "spanish": "asiento",
+    "english": "seat"
+  },
+  {
+    "id": 1555,
+    "spanish": "continuar",
+    "english": "continue"
+  },
+  {
+    "id": 1556,
+    "spanish": "bloque",
+    "english": "block"
+  },
+  {
+    "id": 1557,
+    "spanish": "tabla",
+    "english": "chart"
+  },
+  {
+    "id": 1558,
+    "spanish": "sombrero",
+    "english": "hat"
+  },
+  {
+    "id": 1559,
+    "spanish": "vender",
+    "english": "sell"
+  },
+  {
+    "id": 1560,
+    "spanish": "éxito",
+    "english": "success"
+  },
+  {
+    "id": 1561,
+    "spanish": "empresa",
+    "english": "company"
+  },
+  {
+    "id": 1562,
+    "spanish": "restar",
+    "english": "subtract"
+  },
+  {
+    "id": 1563,
+    "spanish": "evento",
+    "english": "event"
+  },
+  {
+    "id": 1564,
+    "spanish": "particular,",
+    "english": "particular"
+  },
+  {
+    "id": 1565,
+    "spanish": "acuerdo",
+    "english": "deal"
+  },
+  {
+    "id": 1566,
+    "spanish": "nadar",
+    "english": "swim"
+  },
+  {
+    "id": 1567,
+    "spanish": "plazo",
+    "english": "term"
+  },
+  {
+    "id": 1568,
+    "spanish": "opuesta",
+    "english": "opposite"
+  },
+  {
+    "id": 1569,
+    "spanish": "esposa",
+    "english": "wife"
+  },
+  {
+    "id": 1570,
+    "spanish": "zapato",
+    "english": "shoe"
+  },
+  {
+    "id": 1571,
+    "spanish": "hombro",
+    "english": "shoulder"
+  },
+  {
+    "id": 1572,
+    "spanish": "propagación",
+    "english": "spread"
+  },
+  {
+    "id": 1573,
+    "spanish": "organizar",
+    "english": "arrange"
+  },
+  {
+    "id": 1574,
+    "spanish": "campamento",
+    "english": "camp"
+  },
+  {
+    "id": 1575,
+    "spanish": "inventar",
+    "english": "invent"
+  },
+  {
+    "id": 1576,
+    "spanish": "algodón",
+    "english": "cotton"
+  },
+  {
+    "id": 1577,
+    "spanish": "nacido",
+    "english": "born"
+  },
+  {
+    "id": 1578,
+    "spanish": "determinar",
+    "english": "determine"
+  },
+  {
+    "id": 1579,
+    "spanish": "cuarto de galón",
+    "english": "quart"
+  },
+  {
+    "id": 1580,
+    "spanish": "nueve",
+    "english": "nine"
+  },
+  {
+    "id": 1581,
+    "spanish": "camión",
+    "english": "truck"
+  },
+  {
+    "id": 1582,
+    "spanish": "ruido",
+    "english": "noise"
+  },
+  {
+    "id": 1583,
+    "spanish": "nivel",
+    "english": "level"
+  },
+  {
+    "id": 1584,
+    "spanish": "oportunidad",
+    "english": "chance"
+  },
+  {
+    "id": 1585,
+    "spanish": "reunir",
+    "english": "gather"
+  },
+  {
+    "id": 1586,
+    "spanish": "tienda",
+    "english": "shop"
+  },
+  {
+    "id": 1587,
+    "spanish": "tramo",
+    "english": "stretch"
+  },
+  {
+    "id": 1588,
+    "spanish": "lanzar",
+    "english": "throw"
+  },
+  {
+    "id": 1589,
+    "spanish": "brillo",
+    "english": "shine"
+  },
+  {
+    "id": 1590,
+    "spanish": "propiedad",
+    "english": "property"
+  },
+  {
+    "id": 1591,
+    "spanish": "columna",
+    "english": "column"
+  },
+  {
+    "id": 1592,
+    "spanish": "molécula",
+    "english": "molecule"
+  },
+  {
+    "id": 1593,
+    "spanish": "seleccionar",
+    "english": "select"
+  },
+  {
+    "id": 1594,
+    "spanish": "mal",
+    "english": "wrong"
+  },
+  {
+    "id": 1595,
+    "spanish": "gris",
+    "english": "gray"
+  },
+  {
+    "id": 1596,
+    "spanish": "repita",
+    "english": "repeat"
+  },
+  {
+    "id": 1597,
+    "spanish": "exigir",
+    "english": "require"
+  },
+  {
+    "id": 1598,
+    "spanish": "amplio",
+    "english": "broad"
+  },
+  {
+    "id": 1599,
+    "spanish": "preparar",
+    "english": "prepare"
+  },
+  {
+    "id": 1600,
+    "spanish": "sal",
+    "english": "salt"
+  },
+  {
+    "id": 1601,
+    "spanish": "nariz",
+    "english": "nose"
+  },
+  {
+    "id": 1602,
+    "spanish": "plurales",
+    "english": "plural"
+  },
+  {
+    "id": 1603,
+    "spanish": "cólera",
+    "english": "anger"
+  },
+  {
+    "id": 1604,
+    "spanish": "reclamación",
+    "english": "claim"
+  },
+  {
+    "id": 1605,
+    "spanish": "continente",
+    "english": "continent"
+  }
 ]

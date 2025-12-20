@@ -162,7 +162,7 @@ document.addEventListener("DOMContentLoaded", () => {
     mastered.push(currentCard);
 	//saveMastered();
 	animateRight();
-    nextCard();
+    //nextCard();
   });
 
   wrongBtn?.addEventListener("click", () => {
@@ -170,7 +170,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const index = Math.floor(Math.random() * remaining.length);
     remaining.splice(index, 0, currentCard);
 	animateWrong();
-    nextCard();
+    //nextCard();
   });
 
   // Change front language

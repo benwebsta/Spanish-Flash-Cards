@@ -160,7 +160,7 @@ document.addEventListener("DOMContentLoaded", () => {
   rightBtn?.addEventListener("click", () => {
     if (!currentCard) return;
     mastered.push(currentCard);
-	saveMastered();
+	//saveMastered();
 	animateRight();
     nextCard();
   });

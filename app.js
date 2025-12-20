@@ -117,6 +117,15 @@ document.addEventListener("DOMContentLoaded", () => {
     }
     touchStartX = null;
   });
+  
+  document.getElementById("resetBtn")?.addEventListener("click", () => {
+	  const confirmed = confirm("Are you sure you want to reset your session?");
+	  if (confirmed) {
+		resetSession();
+	  }
+	  // else do nothing
+	});
+
 
   // Utility: shuffle array
   function shuffle(array) {

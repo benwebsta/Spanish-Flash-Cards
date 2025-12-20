@@ -7,35 +7,36 @@
 </head>
 <body>
   <div class="app">
-    <h1>Flash Cards</h1>
+	  <!-- Front Language Selector -->
+	  <select id="frontLanguage">
+		<option value="spanish">Spanish Front</option>
+		<option value="english">English Front</option>
+	  </select>
 
-    <div class="controls">
-      <label>
-        Front Language:
-        <select id="frontLanguage">
-          <option value="spanish">Spanish</option>
-          <option value="english">English</option>
-        </select>
-      </label>
-      <button id="resetBtn">Reset Session</button>
-    </div>
-
-    <div class="card-container">
-	  <div id="card" class="card">
-		<div class="front" id="cardFront">Loading…</div>
-		<div class="back" id="cardBack"></div>
+	  <!-- Card -->
+	  <div class="card-container">
+		<div id="card" class="card">
+		  <div class="front" id="cardFront">Loading…</div>
+		  <div class="back" id="cardBack"></div>
+		</div>
 	  </div>
+
+	  <!-- Flip button -->
+	  <button id="flipBtn">🔄 Flip</button>
+
+	  <!-- Right/Wrong buttons -->
+	  <div class="button-row">
+		<button id="wrongBtn">❌ Wrong</button>
+		<button id="rightBtn">✅ Right</button>
+	  </div>
+
+	  <!-- Status -->
+	  <div id="status"></div>
+
+	  <!-- Optional reset -->
+	  <button id="resetBtn">🔄 Reset Session</button>
 	</div>
 
-	<button id="flipBtn">🔄 Flip</button>
-
-	<div class="button-row">
-	  <button id="wrongBtn">❌ Wrong</button>
-	  <button id="rightBtn">✅ Right</button>
-	</div>
-
-    <div id="status"></div>
-  </div>
 
   <script src="app.js"></script>
 </body>

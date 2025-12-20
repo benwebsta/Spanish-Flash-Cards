@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		  remaining = shuffle(allWords.filter(w => !savedIds.includes(w.id)));
 
 		  nextCard();
-		}
+		})
       .catch(err => {
         console.error(err);
         cardFront.textContent = "❌ Failed to load words.json";

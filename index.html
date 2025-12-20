@@ -20,15 +20,19 @@
       <button id="resetBtn">Reset Session</button>
     </div>
 
-    <div id="card" class="card">
-      <div id="cardText">Loading…</div>
-    </div>
+    <div class="card-container">
+	  <div id="card" class="card">
+		<div class="front" id="cardFront">Loading…</div>
+		<div class="back" id="cardBack"></div>
+	  </div>
+	</div>
 
-    <div class="buttons">
-      <button id="wrongBtn">❌ Wrong</button>
-      <button id="flipBtn">🔄 Flip</button>
-      <button id="rightBtn">✅ Right</button>
-    </div>
+	<button id="flipBtn">🔄 Flip</button>
+
+	<div class="button-row">
+	  <button id="wrongBtn">❌ Wrong</button>
+	  <button id="rightBtn">✅ Right</button>
+	</div>
 
     <div id="status"></div>
   </div>

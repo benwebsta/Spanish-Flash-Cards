@@ -18,6 +18,24 @@ document.addEventListener("DOMContentLoaded", () => {
   let showingFront = true;
   let isFlipped = false;
   
+    const modal = document.getElementById("wordModal");
+	const modalText = document.getElementById("modalText");
+	const closeModalBtn = document.getElementById("closeModal");
+
+	function showWordPopup(word) {
+	  modalText.textContent = `${word.spanish} : ${word.english}`;
+	  modal.classList.remove("hidden");
+	}
+
+	closeModalBtn.onclick = () => {
+	  modal.classList.add("hidden");
+	};
+
+	// Close when tapping background
+	modal.addEventListener("click", e => {
+	  if (e.target === modal) modal.classList.add("hidden");
+	});
+  
   const STORAGE_KEY = "flashcard_mastered_ids";
 
 	function saveMastered() {
@@ -98,8 +116,24 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function updateStatus() {
     if (status) {
-      status.textContent = `Remaining: ${remaining.length} | Mastered: ${mastered.length}`;
-    }
+      //status.textContent = `Remaining: ${remaining.length} | Mastered: ${mastered.length}`;
+		status.innerHTML = `
+			<span id="remainingLink">Remaining: ${remaining.length}</span> |
+			<span id="masteredLink">Mastered: ${mastered.length}</span>
+		  `;
+		}
+
+	  document.getElementById("remainingLink").onclick = () => {
+		if (remaining.length === 0) return;
+		const word = remaining[Math.floor(Math.random() * remaining.length)];
+		showWordPopup(word);
+	  };
+
+	  document.getElementById("masteredLink").onclick = () => {
+		if (mastered.length === 0) return;
+		const word = mastered[Math.floor(Math.random() * mastered.length)];
+		showWordPopup(word);
+	  };
   }
 
   // Flip button

@@ -159,10 +159,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Right / Wrong buttons
   rightBtn?.addEventListener("click", () => {
     if (!currentCard) return;
-    mastered.push(currentCard);
-	//saveMastered();
 	animateRight();
-    //nextCard();
   });
 
   wrongBtn?.addEventListener("click", () => {

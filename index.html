@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Spanish / English Flashcards</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <h1>Flash Cards</h1>
+
+    <div class="controls">
+      <label>
+        Front Language:
+        <select id="frontLanguage">
+          <option value="spanish">Spanish</option>
+          <option value="english">English</option>
+        </select>
+      </label>
+      <button id="resetBtn">Reset Session</button>
+    </div>
+
+    <div id="card" class="card">
+      <div id="cardText">Loading…</div>
+    </div>
+
+    <div class="buttons">
+      <button id="wrongBtn">❌ Wrong</button>
+      <button id="flipBtn">🔄 Flip</button>
+      <button id="rightBtn">✅ Right</button>
+    </div>
+
+    <div id="status"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

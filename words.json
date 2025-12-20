@@ -1,0 +1,12 @@
+[
+  { "spanish": "hola", "english": "hello" },
+  { "spanish": "adiós", "english": "goodbye" },
+  { "spanish": "por favor", "english": "please" },
+  { "spanish": "gracias", "english": "thank you" },
+  { "spanish": "sí", "english": "yes" },
+  { "spanish": "no", "english": "no" },
+  { "spanish": "hombre", "english": "man" },
+  { "spanish": "mujer", "english": "woman" },
+  { "spanish": "agua", "english": "water" },
+  { "spanish": "comida", "english": "food" }
+]
